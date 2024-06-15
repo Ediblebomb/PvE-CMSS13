@@ -1,187 +1,189 @@
-"aD" = (/obj/structure/bed/chair/office/dark{dir = 8},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"bf" = (/obj/structure/fence,/turf/open/snow/layer2,/area/space)
-"cu" = (/obj/structure/stairs/perspective{dir = 5; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/space)
-"cZ" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"de" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; layer = 3.1; pixel_x = 20; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"en" = (/turf/open/snow/layer2,/area/space)
-"fj" = (/turf/open/asphalt/cement,/area/space)
-"fq" = (/obj/structure/tent_curtain,/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"gd" = (/obj/structure/machinery/light/double,/obj/structure/sink{dir = 8; pixel_x = -12; pixel_y = 2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"hg" = (/turf/open/auto_turf/snow/layer2,/area/space)
-"hF" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 4},/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"ij" = (/obj/structure/machinery/cm_vending/sorted/cargo_guns/squad{req_one_access = list(); req_one_access_txt = "8;12;39;40"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"iJ" = (/obj/structure/stairs/perspective{dir = 9; icon_state = "p_stair_full"},/obj/structure/platform_decoration{dir = 8},/turf/open/snow/layer2,/area/space)
-"kr" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/item/paper_bin/uscm{pixel_x = 8; pixel_y = 12},/obj/item/tool/pen{pixel_x = 8; pixel_y = -2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"kI" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"mk" = (/turf/open/auto_turf/snow/layer1,/area/space)
-"mx" = (/obj/structure/tent_curtain,/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"nd" = (/obj/structure/stairs/perspective{dir = 10; icon_state = "p_stair_full"},/obj/structure/platform_decoration,/turf/open/snow/layer2,/area/space)
-"ow" = (/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"pt" = (/obj/structure/prop/brazier/campfire{fuel_stage_time = 999999999; remaining_fuel = 999999999},/turf/open/snow/layer0,/area/space)
-"pT" = (/obj/structure/machinery/door/airlock/almayer/generic{dir = 1; name = "Building Alpha"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"qG" = (/obj/structure/machinery/cm_vending/sorted/medical/blood,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"rb" = (/obj/structure/bed/chair,/turf/open/snow/layer0,/area/space)
-"re" = (/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"rh" = (/obj/structure/largecrate/supply/motiondetectors,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; pixel_y = 10},/obj/item/ammo_box/magazine/mk1{layer = 3.1; pixel_x = -2; pixel_y = 14},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"rx" = (/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"rU" = (/obj/structure/tent/big,/obj/structure/tent_curtain,/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"vR" = (/obj/structure/gun_rack/m41,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"wn" = (/obj/structure/platform_decoration{dir = 1},/turf/open/asphalt/cement,/area/space)
-"wF" = (/obj/structure/bed,/obj/item/bedsheet/captain,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"wJ" = (/obj/structure/platform_decoration,/turf/open/auto_turf/snow/layer2,/area/space)
-"yE" = (/obj/structure/platform{dir = 4},/turf/open/snow/layer2,/area/space)
-"zd" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/prop/almayer/CICmap{density = 0; dir = 8; icon_state = "shuttle"; layer = 2.97; name = "Tactical Map Display"},/turf/open/space/basic,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"zY" = (/obj/structure/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "Building Bravo"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Ap" = (/obj/structure/machinery/light/double{dir = 8; pixel_x = -4; pixel_y = 1},/obj/effect/landmark/observer_start,/obj/structure/bed/chair/office/dark{dir = 4},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"Au" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Aw" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 8},/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"AL" = (/obj/structure/window/framed/shiva,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"AY" = (/obj/structure/largecrate/supply/ammo/m41amk1,/obj/structure/largecrate/supply/ammo/m41amk1{pixel_x = -3; pixel_y = 10},/obj/structure/machinery/power/apc/almayer,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Be" = (/turf/open/auto_turf/snow/layer3,/area/space)
-"Bo" = (/turf/open/snow/layer0,/area/space)
-"BX" = (/obj/structure/machinery/vending/walkman{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"Cs" = (/obj/structure/bed/chair{dir = 1},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"CV" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Dr" = (/obj/structure/window/framed/shiva,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Ed" = (/obj/structure/machinery/cm_vending/sorted/marine_food{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"En" = (/obj/structure/machinery/door/airlock/almayer{name = "Commander's Office"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Fs" = (/obj/structure/bed/chair{dir = 4},/turf/open/snow/layer0,/area/space)
-"Fv" = (/obj/structure/machinery/door/airlock/almayer{name = "Commander's Office"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"FF" = (/obj/structure/platform{dir = 4},/turf/open/auto_turf/snow/layer2,/area/space)
-"FV" = (/obj/structure/stairs/perspective{dir = 1; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/space)
-"Gs" = (/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"Ha" = (/obj/structure/machinery/faxmachine/uscm{pixel_y = 15},/obj/structure/surface/table/reinforced/almayer_B,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"Hm" = (/obj/structure/machinery/power/apc/almayer{dir = 1},/obj/structure/machinery/light/double{dir = 1; pixel_y = 9},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"HD" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"HJ" = (/obj/structure/platform,/turf/open/asphalt/cement,/area/space)
-"HT" = (/obj/structure/barricade/plasteel/wired,/turf/open/snow/layer0,/area/space)
-"IP" = (/obj/structure/bed/chair{dir = 1},/turf/open/snow/layer0,/area/space)
-"JS" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/door/window/eastleft{req_one_access_txt = "2;21"},/obj/structure/machinery/door/window/westright,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Kf" = (/obj/structure/platform_decoration{dir = 8},/turf/open/snow/layer2,/area/space)
-"Kh" = (/obj/structure/surface/table,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"KF" = (/obj/structure/platform_decoration{dir = 1},/turf/open/snow/layer2,/area/space)
-"Lc" = (/obj/structure/largecrate/supply/ammo/m41amk1,/obj/structure/largecrate/supply/ammo/m41amk1{pixel_x = 3; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Lw" = (/obj/structure/machinery/cm_vending/sorted/uniform_supply/squad_prep{req_access = list(); req_one_access_txt = "8;12;39;40"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"LN" = (/obj/structure/phone_base{pixel_y = 30; pixel_x = 9; phone_id = "Overwatch"; name = "overwatch receiver"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"MY" = (/obj/structure/machinery/vending/cigarette{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"Ok" = (/obj/structure/bed/chair{dir = 8},/turf/open/snow/layer0,/area/space)
-"Qo" = (/obj/structure/platform_decoration{dir = 4},/turf/open/snow/layer2,/area/space)
-"Sj" = (/obj/structure/stairs/perspective{dir = 8; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/space)
-"Ta" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"Uo" = (/obj/structure/barricade/plasteel/wired,/turf/open/asphalt/cement,/area/space)
-"UN" = (/obj/structure/platform{dir = 8; layer = 2.7},/turf/open/snow/layer2,/area/space)
-"UU" = (/obj/structure/bed/chair,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"})
-"VU" = (/obj/structure/platform{dir = 1},/turf/open/snow/layer2,/area/space)
-"Wb" = (/obj/item/device/flashlight/lamp/tripod/grey,/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
-"WY" = (/obj/structure/fence,/turf/open/auto_turf/snow/layer1,/area/space)
-"Xc" = (/obj/structure/platform{dir = 8; layer = 2.7},/turf/open/auto_turf/snow/layer1,/area/space)
-"Xn" = (/obj/structure/machinery/cm_vending/sorted/medical,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
-"Xq" = (/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0; name = "Checkpoint - Tents"})
+"aD" = (/obj/structure/bed/chair/office/dark{dir = 8},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"bf" = (/obj/structure/fence,/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"cu" = (/obj/structure/stairs/perspective{dir = 5; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"cZ" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"de" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; layer = 3.1; pixel_x = 20; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"en" = (/turf/closed/wall/shiva/ice,/area/shiva/exterior/valley)
+"eP" = (/obj/structure/machinery/colony_floodlight{name = "outpost floodlight"; damaged = 1},/turf/open/auto_turf/snow/layer1,/area/shiva/exterior/valley)
+"fj" = (/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"fq" = (/obj/structure/tent_curtain,/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"gd" = (/obj/structure/machinery/light/double,/obj/structure/sink{dir = 8; pixel_x = -12; pixel_y = 2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"hg" = (/turf/open/auto_turf/snow/layer2,/area/shiva/exterior/valley)
+"hF" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 4},/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"ij" = (/obj/structure/machinery/cm_vending/sorted/medical,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"iJ" = (/obj/structure/stairs/perspective{dir = 9; icon_state = "p_stair_full"},/obj/structure/platform_decoration{dir = 8},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"kr" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/item/paper_bin/uscm{pixel_x = 8; pixel_y = 12},/obj/item/tool/pen{pixel_x = 8; pixel_y = -2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"kI" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"mk" = (/obj/structure/machinery/colony_floodlight{name = "outpost floodlight"},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"mx" = (/obj/structure/tent_curtain,/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"nd" = (/obj/structure/stairs/perspective{dir = 10; icon_state = "p_stair_full"},/obj/structure/platform_decoration,/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"ow" = (/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"pt" = (/obj/structure/prop/brazier/campfire{fuel_stage_time = 999999999; remaining_fuel = 999999999},/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"pT" = (/obj/structure/machinery/door/airlock/almayer/generic{dir = 1; name = "Building Alpha"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"qG" = (/obj/structure/machinery/cm_vending/sorted/medical/blood,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"rb" = (/obj/structure/bed/chair,/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"re" = (/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"rh" = (/obj/structure/largecrate/supply/motiondetectors,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; pixel_y = 10},/obj/item/ammo_box/magazine/mk1{layer = 3.1; pixel_x = -2; pixel_y = 14},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"rx" = (/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"rU" = (/obj/structure/tent/big,/obj/structure/tent_curtain,/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"vR" = (/obj/structure/gun_rack/m41,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"wn" = (/obj/structure/platform_decoration{dir = 1},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"wF" = (/obj/structure/bed,/obj/item/bedsheet/captain,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"wJ" = (/obj/structure/platform_decoration,/turf/open/auto_turf/snow/layer2,/area/shiva/exterior/valley)
+"yE" = (/obj/structure/platform{dir = 4},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"yY" = (/obj/structure/bed/chair{dir = 1},/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"zd" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/prop/almayer/CICmap{density = 0; dir = 8; icon_state = "shuttle"; layer = 2.97; name = "Tactical Map Display"},/turf/open/space/basic,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"zY" = (/obj/structure/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "Building Bravo"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Ap" = (/obj/structure/machinery/light/double{dir = 8; pixel_x = -4; pixel_y = 1},/obj/effect/landmark/observer_start,/obj/structure/bed/chair/office/dark{dir = 4},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"Au" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Aw" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 8},/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"AL" = (/obj/structure/window/framed/shiva,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"AY" = (/obj/structure/largecrate/supply/ammo/m41amk1,/obj/structure/largecrate/supply/ammo/m41amk1{pixel_x = -3; pixel_y = 10},/obj/structure/machinery/power/apc/almayer,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Be" = (/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Bo" = (/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"BX" = (/obj/structure/machinery/vending/walkman{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"Cs" = (/obj/structure/bed/chair{dir = 1},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"CV" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Dr" = (/obj/structure/window/framed/shiva,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Ed" = (/obj/structure/machinery/cm_vending/sorted/marine_food{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"En" = (/obj/structure/machinery/door/airlock/almayer{name = "Commander's Office"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Fs" = (/obj/structure/bed/chair{dir = 4},/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"Fv" = (/obj/structure/machinery/door/airlock/almayer{name = "Commander's Office"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"FF" = (/obj/structure/platform{dir = 4},/turf/open/auto_turf/snow/layer2,/area/shiva/exterior/valley)
+"FV" = (/obj/structure/stairs/perspective{dir = 1; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"Gs" = (/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"Ha" = (/obj/structure/machinery/faxmachine/uscm{pixel_y = 15},/obj/structure/surface/table/reinforced/almayer_B,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"Hm" = (/obj/structure/machinery/power/apc/almayer{dir = 1},/obj/structure/machinery/light/double{dir = 1; pixel_y = 9},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"HD" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"HJ" = (/obj/structure/platform,/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"HT" = (/obj/structure/barricade/plasteel/wired{closed = 0},/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"IP" = (/obj/structure/bed/chair{dir = 1},/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"JS" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/door/window/eastleft{req_one_access_txt = "2;21"},/obj/structure/machinery/door/window/westright,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Kf" = (/obj/structure/platform_decoration{dir = 8},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Kh" = (/obj/structure/surface/table,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"KF" = (/obj/structure/platform_decoration{dir = 1},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Lc" = (/obj/structure/largecrate/supply/ammo/m41amk1,/obj/structure/largecrate/supply/ammo/m41amk1{pixel_x = 3; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Lw" = (/obj/structure/machinery/cm_vending/sorted/uniform_supply/squad_prep{req_access = list(); req_one_access_txt = "8;12;39;40"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"LN" = (/obj/structure/phone_base{pixel_y = 30; pixel_x = 9; phone_id = "Overwatch"; name = "overwatch receiver"},/obj/structure/machinery/colony_floodlight_switch{pixel_x = -4; desc = "This switch controls the floodlights surrounding the outpost and surrounding areas. It only functions when there is power."; pixel_y = 27; name = "\improper Outpost Floodlight Switch"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"MY" = (/obj/structure/machinery/vending/cigarette{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"Ok" = (/obj/structure/bed/chair{dir = 8},/turf/open/snow/layer0,/area/shiva/exterior/valley)
+"Qo" = (/obj/structure/platform_decoration{dir = 4},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Sj" = (/obj/structure/stairs/perspective{dir = 8; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"Ta" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"Uo" = (/obj/structure/barricade/plasteel/wired{closed = 0},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"UN" = (/obj/structure/bed/chair{dir = 1},/obj/structure/bed/chair{dir = 1},/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"UU" = (/obj/structure/bed/chair,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"})
+"VU" = (/obj/structure/platform{dir = 1},/turf/open/auto_turf/snow/layer1,/area/shiva/exterior/valley)
+"Wb" = (/obj/item/device/flashlight/lamp/tripod/grey{light_range = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
+"WY" = (/obj/structure/bed/chair,/obj/structure/machinery/light/double{dir = 1; pixel_y = 9},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Xc" = (/obj/structure/platform{dir = 8; layer = 2.7},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Xn" = (/obj/structure/machinery/light/double{dir = 4; pixel_x = 5; light_range = 1; light_color = "#D00000"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
+"Xq" = (/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"})
 "XB" = (/turf/closed/wall/shiva/ice,/area/space)
-"Yr" = (/obj/structure/stairs/perspective{dir = 9; icon_state = "p_stair_full"},/obj/structure/platform_decoration{dir = 1},/turf/open/asphalt/cement,/area/space)
-"YZ" = (/obj/structure/platform,/turf/open/snow/layer2,/area/space)
-"Zn" = (/obj/structure/barricade/plasteel/wired{dir = 1},/turf/open/asphalt/cement,/area/space)
-"Zp" = (/obj/structure/largecrate/supply/motiondetectors,/obj/item/ammo_box/magazine/mk1{layer = 3.1; pixel_x = -12; pixel_y = 14},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"})
+"Yr" = (/obj/structure/stairs/perspective{dir = 9; icon_state = "p_stair_full"},/obj/structure/platform_decoration{dir = 1},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"YZ" = (/obj/structure/platform,/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Zn" = (/obj/structure/barricade/plasteel/wired{dir = 1; closed = 0},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"Zp" = (/obj/structure/largecrate/supply/motiondetectors,/obj/item/ammo_box/magazine/mk1{layer = 3.1; pixel_x = -12; pixel_y = 14},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"})
 
 (1,1,1) = {"
 XBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenmkfjBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenmkfjfjBofjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenbfbfbfbfbfbfbfWYZnZnZnZnWYenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenXBbfbfbfbfbfbfenmkmkmkmkmkmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenXBenenenenenenenmkBorbBomkmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenXBenenenenenenenmkFsptOkmkmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenXBXBenenenenenenenmkBoIPBomkmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenXBXBenenenenenenenenmkmkmkmkmkmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenXBenenenenenenenenenenenenenenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBXBBeBeBeBeBeBeBeBeBeBemkBeBehgmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBenBeTakIHDBeAwkIHDBeAwkIhFBeenmkfjfjfjfjmkenwJYZYZYZYZYZYZYZYZYZYZYZKFenenenenenenenXB
-XBenenenenenXBenBeGsWbXqBeGsWbXqBeGsWbXqBeenmkfjfjfjfjmkenFFAuAuAuAuAuAuAuAuAuAuAuUNenenenenenenenXB
-XBenenenenenXBenenrUmxfqenrUmxfqenrUmxfqenenmkfjfjfjfjmkeniJDrrereAuijijvRvRLwLwAuUNenenenenenenenXB
-XBenenenenenXBenhgfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjSjrerereEnrerererereXnAuUNenenenenenenenXB
-XBenenenenenXBenwJHJHJHJHJYrFVcuHJHJHJHJwnfjfjfjfjfjfjfjfjSjzYrereJSaDrererereqGAuUNenenenenenenenXB
-XBenenenenenXBenFFcZcZcZcZcZpTcZcZcZcZcZXcmkmkfjfjfjfjmkenndDrrereAuAYrhCVdeZpLcAuUNenenenenenenenXB
-XBenenenenenXBenyEcZBXEdEdMYrxHmcZLNHaALUNenmkfjfjfjfjmkenyEAuAuAuAuAuAuAuAuAuAuAuUNenenenenenenenXB
-XBenenenenXBXBenyEcZrxUUUUUUUUrxcZApzdALUNenmkfjfjfjfjmkenKfVUVUVUVUVUVUVUVUVUVUVUQoenenenenenenenXB
-XBenenenXBXBenenyEcZrxKhKhKhKhrxFvrxkrALUNenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenXBenenenyEcZgdCsCsCsCsowcZrxwFcZUNenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenXBenenenyEcZcZcZcZcZcZcZcZcZcZcZUNenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenXBXBenenKfVUVUVUVUVUVUVUVUVUVUVUQoenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenXBenenenenenenenenenenenenenenenenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenXBXBenenenenenenenenenenenenenenenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBenenenenenenenenenenenenenenenmkfjfjfjfjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBbfbfbfbfbfbfbfenenenenenenenenmkfjfjBofjmkenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBenenenenenenbfbfbfbfbfbfbfbfbfWYUoHTHTHTWYenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenXBenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenenenenenenenenenenenBoBoBoBoenenenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBefjBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBemkfjfjBofjmkBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBebfbfbfbfbfbfbfbfZnZnZnZnbfbfbfbfbfbfbfbfbfbfbfbfbfenenenenenenenenenXB
+XBenenenenenenenenenbfbfbfbfbfbfBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBorbBoBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeFsptOkBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBoIPBoBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBehgBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenXB
+XBenenenenenenBeBeTakIHDBeAwkIHDBeAwkIhFBeBeBefjfjfjfjBeBewJYZYZYZYZYZYZYZYZYZYZYZKFBeenenenenenenXB
+XBenenenenenenBeBeGsWbXqBeGsWbXqBeGsWbXqBeBeBefjfjfjfjBeBeFFAuAuAuAuAuAuAuAuAuAuAuXcBeBeenenenenenXB
+XBenenenenenenBeBerUmxfqBerUmxfqBerUmxfqBeBeePfjfjfjfjmkBeiJDrWYWYAuqGijvRvRLwLwAuXcBeBeenenenenenXB
+XBenenenenenenBehgfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjSjrerereEnrerererereXnAuXcBeBeenenenenenXB
+XBenenenenenenBewJHJHJHJHJYrFVcuHJHJHJHJwnfjfjfjfjfjfjfjfjSjzYrereJSaDrerererereAuXcBeBeBeenenenenXB
+XBenenenenenenBeFFcZcZcZcZcZpTcZcZcZcZcZXcBemkfjfjfjfjmkBendDryYUNAuAYrhCVdeZpLcAuXcBeBeBeenenenenXB
+XBenenenenenenBeyEcZBXEdEdMYrxHmcZLNHaALXcBeBefjfjfjfjBeBeyEAuAuAuAuAuAuAuAuAuAuAuXcBeBeBeenenenenXB
+XBenenenenenenBeyEcZrxUUUUUUUUrxcZApzdALXcBeBefjfjfjfjBeBeKfVUVUVUVUVUVUVUVUVUVUVUQoBeBeenenenenenXB
+XBenenenenenBeBeyEcZrxKhKhKhKhrxFvrxkrALXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenXB
+XBenenenenBeBeBeyEcZgdCsCsCsCsowcZrxwFcZXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenXB
+XBenenenenBeBeBeyEcZcZcZcZcZcZcZcZcZcZcZXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenXB
+XBenenenenenBeBeKfVUVUVUVUVUVUVUVUVUVUVUQoBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenXB
+XBenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenXB
+XBenenenenenenbfbfbfbfbfbfbfBeBeBeBeBeBeBeBeBefjfjBofjBeBebfbfbfbfbfbfbfbfbfbfbfenenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBebfbfbfbfbfbfbfbfbfbfUoHTHTHTbfbfbfBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBemkBoBoBoBomkBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
 XBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXB
 "}
