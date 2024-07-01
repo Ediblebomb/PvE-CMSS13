@@ -7,7 +7,7 @@
 "cZ" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "de" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; layer = 3.1; pixel_x = 20; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "en" = (/turf/closed/wall/shiva/ice,/area/shiva/exterior/valley)
-"eP" = (/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
+"eP" = (/obj/structure/inflatable/door,/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "fj" = (/turf/open/asphalt/cement,/area/shiva/exterior/valley)
 "fq" = (/obj/structure/tent_curtain,/obj/structure/blocker/tent{dir = 4},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
 "gd" = (/obj/structure/machinery/light/double,/obj/structure/sink{dir = 8; pixel_x = -12; pixel_y = 2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
@@ -18,13 +18,13 @@
 "iJ" = (/obj/structure/stairs/perspective{dir = 9; icon_state = "p_stair_full"},/obj/structure/platform_decoration{dir = 8},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "kr" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/item/paper_bin/uscm{pixel_x = 8; pixel_y = 12},/obj/item/tool/pen{pixel_x = 8; pixel_y = -2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "kB" = (/obj/structure/machinery/door/airlock/almayer/generic{name = "Building Charlie"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
-"kD" = (/obj/structure/inflatable/door,/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "kI" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
 "lw" = (/obj/structure/flora/bush/snow{pixel_y = 10},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "mk" = (/obj/structure/machinery/colony_floodlight{name = "outpost floodlight"},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "mx" = (/obj/structure/tent_curtain,/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
 "mT" = (/turf/open/space/basic,/area/shiva/exterior/valley)
 "nd" = (/obj/structure/stairs/perspective{dir = 10; icon_state = "p_stair_full"},/obj/structure/platform_decoration,/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"ol" = (/obj/effect/spawner/random/claymore/lowchance{dir = 8},/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "ow" = (/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "pt" = (/obj/structure/prop/brazier/campfire{fuel_stage_time = 999999999; remaining_fuel = 999999999},/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
 "pT" = (/obj/structure/machinery/door/airlock/almayer/generic{dir = 1; name = "Building Alpha"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
@@ -48,7 +48,6 @@
 "yY" = (/obj/structure/bed/chair{dir = 1},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "zd" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/prop/almayer/CICmap{density = 0; dir = 8; icon_state = "shuttle"; layer = 3.3; name = "Tactical Map Display"; pixel_y = -5},/obj/structure/machinery/computer/overwatch/almayer{dir = 4; layer = 3.2; pixel_y = 9},/turf/open/space/basic,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "zG" = (/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
-"zH" = (/obj/effect/spawner/random/claymore/lowchance{dir = 8},/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "zY" = (/obj/structure/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "Building Bravo"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "Ak" = (/obj/structure/flora/tree/dead/tree_2,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Ap" = (/obj/structure/machinery/light/double{dir = 8; pixel_x = -4; pixel_y = 1; light_range = 3},/obj/effect/landmark/observer_start,/obj/structure/bed/chair/office/dark{dir = 4},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
@@ -85,8 +84,9 @@
 "Lc" = (/obj/structure/largecrate/supply/ammo/m41amk1,/obj/structure/largecrate/supply/ammo/m41amk1{pixel_x = 3; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "Lw" = (/obj/structure/machinery/cm_vending/sorted/uniform_supply/squad_prep{req_access = list(); req_one_access_txt = "8;12;39;40"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "LN" = (/obj/structure/phone_base{pixel_y = 30; pixel_x = 9; phone_id = "Overwatch"; name = "overwatch receiver"},/obj/structure/machinery/colony_floodlight_switch{pixel_x = -4; desc = "This switch controls the floodlights surrounding the outpost and surrounding areas. It only functions when there is power."; pixel_y = 27; name = "\improper Outpost Floodlight Switch"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
+"MN" = (/obj/structure/machinery/cm_vending/sorted/boozeomat,/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "MY" = (/obj/structure/machinery/vending/cigarette{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
-"Nw" = (/obj/structure/machinery/cm_vending/sorted/boozeomat,/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
+"Nw" = (/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/obj/item/explosive/mine/active/no_iff{dir = 1},/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "Og" = (/obj/structure/flora/bush/snow,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Ok" = (/obj/structure/bed/chair{dir = 8},/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
 "Ph" = (/turf/open/snow/layer1,/area/shiva/exterior/valley)
@@ -170,8 +170,8 @@ XBenenenenenenBehgfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjSjrerereEnrerererereXn
 XBenenenenenenBewJHJHJHJHJYrFVcuHJHJHJHJwnfjfjfjfjfjfjfjfjSjzYrereJSaDrerererereAuXcBeBeBeenzGenzGXB
 XBenenenenenenBeFFcZcZcZcZcZpTcZcZcZcZcZXcBetufjfjfjfjmkBendDryYUNAuAYrhCVdeZpLcAuXcBeBePhPhzGenzGXB
 XBenenenenenenBeyEcZBXEdEdMYrxHmcZLNHaALXcBeBefjfjfjfjBeBeyEAuAuAuAuAuAuAuAuAuAuAuXcBeBePhPhzGenzGXB
-XBenenenenenenBeyEcZrxUUUUUUUUrxcZApzdALXcBeBefjfjfjfjBeBeKfVUVUVUVUVUVUVUVUVUVUVUQoBeBeenenenzGzGXB
-XBenenenenenBeBeyEcZrxKhKhKhKhrxFvrxkrALXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenzGzGzGenXB
+XBenenenenenenBeyEcZrxUUUUUUUUrxcZApzdALXcBeBefjfjfjfjBeBeKfVUVUVUVUVUVUVUVUVUVUVUQoBeBeenenenenzGXB
+XBenenenenenBeBeyEcZrxKhKhKhKhrxFvrxkrALXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenzGzGzGzGXB
 XBenenenenBeBeBeyEcZgdCsCsCsCsowcZrxwFcZXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenzGenzGzGXB
 XBenenenenBeBeBeyEcZcZcZcZcZcZcZcZcZcZcZXcBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenzGenenzGXB
 XBenenenenenBeBeKfVUVUVUVUVUVUVUVUVUVUVUQoBeBefjfjfjfjtoPvPvPvPvBeBeBeBeBeBeBeBeBeBeenenenzGenenzGXB
@@ -214,7 +214,7 @@ XBenenenenenenenenenenenenBeBeBeBeagBeBeBeBeBeBoBoBoBoBeBeBeBeBeagTzBeBeBeenzGzG
 XBenenenenenenenenenenenenBeBeBeBeBeBecQBeBeBeBoBoBoBoBeBeBecQBeBeBeBeagBeenenenenenenenenenzGenzGXB
 XBenenenenenenenenenenenenagBeBeBeBeBeBeBeBeBeBoBoBoBoBeTzBeBeBeRoBeBeBeBeenzGzGzGzGzGzGzGzGzGenzGXB
 XBenenenenenenenenenenenenBeBeBeTzBeBeBeBeBeBeBoBoBoBoBeagBeBeBeBeBeBeBeBeenzGenenenenenenenenenzGXB
-XBenenenenenenenenenenenenBeagBeBeBeBeagBeBeBeBoBoBoBoBeBeBeBeBeBeagBeBeBeenzGzGzGzGzGzGkDzHzGenkDXB
-XBenenenenenenenenenenenentPtPtPtPtPtPtPtPtPtPRIRIRIRItPtPtPtPtPtPtPtPtPtPenenenenenenenenzGNwenePXB
+XBenenenenenenenenenenenenBeagBeBeBeBeagBeBeBeBoBoBoBoBeBeBeBeBeBeagBeBeBeenzGzGzGzGzGzGePolzGenePXB
+XBenenenenenenenenenenenentPtPtPtPtPtPtPtPtPtPRIRIRIRItPtPtPtPtPtPtPtPtPtPenenenenenenenenzGMNenNwXB
 XBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXB
 "}
