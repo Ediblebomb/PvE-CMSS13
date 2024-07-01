@@ -1,7 +1,9 @@
+"ag" = (/obj/structure/flora/bush/snow{icon_state = "snowgrassbb_1"},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "aD" = (/obj/structure/bed/chair/office/dark{dir = 8},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "bf" = (/obj/structure/fence,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "bR" = (/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
 "cu" = (/obj/structure/stairs/perspective{dir = 5; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
+"cQ" = (/obj/structure/flora/tree/dead/tree_3,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "cZ" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "de" = (/obj/structure/largecrate/supply/ammo{fill_from_loc = 1; name = "sentry crate"},/obj/item/ammo_magazine/sentry{layer = 3.01},/obj/item/defenses/handheld/sentry,/obj/structure/largecrate/supply/explosives/grenades/less{icon_state = "case"; layer = 3.1; pixel_x = 20; pixel_y = 10},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "en" = (/turf/closed/wall/shiva/ice,/area/shiva/exterior/valley)
@@ -17,8 +19,10 @@
 "kr" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/item/paper_bin/uscm{pixel_x = 8; pixel_y = 12},/obj/item/tool/pen{pixel_x = 8; pixel_y = -2},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "kB" = (/obj/structure/machinery/door/airlock/almayer/generic{name = "Building Charlie"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
 "kI" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
+"lw" = (/obj/structure/flora/bush/snow{pixel_y = 10},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "mk" = (/obj/structure/machinery/colony_floodlight{name = "outpost floodlight"},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "mx" = (/obj/structure/tent_curtain,/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
+"mT" = (/turf/open/space/basic,/area/shiva/exterior/valley)
 "nd" = (/obj/structure/stairs/perspective{dir = 10; icon_state = "p_stair_full"},/obj/structure/platform_decoration,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "ow" = (/obj/structure/machinery/light/double,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "pt" = (/obj/structure/prop/brazier/campfire{fuel_stage_time = 999999999; remaining_fuel = 999999999},/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
@@ -37,12 +41,14 @@
 "wn" = (/obj/structure/platform_decoration{dir = 1},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
 "wF" = (/obj/structure/bed,/obj/item/bedsheet/captain,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "wJ" = (/obj/structure/platform_decoration,/turf/open/auto_turf/snow/layer2,/area/shiva/exterior/valley)
+"xb" = (/obj/structure/flora/tree/dead/tree_1,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "yE" = (/obj/structure/platform{dir = 4},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "yQ" = (/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
 "yY" = (/obj/structure/bed/chair{dir = 1},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "zd" = (/obj/structure/surface/table/reinforced/almayer_B,/obj/structure/machinery/prop/almayer/CICmap{density = 0; dir = 8; icon_state = "shuttle"; layer = 3.3; name = "Tactical Map Display"; pixel_y = -5},/obj/structure/machinery/computer/overwatch/almayer{dir = 4; layer = 3.2; pixel_y = 9},/turf/open/space/basic,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "zG" = (/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
 "zY" = (/obj/structure/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "Building Bravo"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
+"Ak" = (/obj/structure/flora/tree/dead/tree_2,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Ap" = (/obj/structure/machinery/light/double{dir = 8; pixel_x = -4; pixel_y = 1; light_range = 3},/obj/effect/landmark/observer_start,/obj/structure/bed/chair/office/dark{dir = 4},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "Au" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "Aw" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 8},/obj/structure/blocker/tent{dir = 1},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
@@ -60,6 +66,7 @@
 "Fs" = (/obj/structure/bed/chair{dir = 4},/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
 "Fv" = (/obj/structure/machinery/door/airlock/almayer{name = "Commander's Office"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "FF" = (/obj/structure/platform{dir = 4},/turf/open/auto_turf/snow/layer2,/area/shiva/exterior/valley)
+"FT" = (/obj/structure/flora/tree/dead/tree_5,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "FV" = (/obj/structure/stairs/perspective{dir = 1; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
 "Gs" = (/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
 "Ha" = (/obj/structure/machinery/faxmachine/uscm{pixel_y = 15},/obj/structure/surface/table/reinforced/almayer_B,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
@@ -78,20 +85,24 @@
 "LN" = (/obj/structure/phone_base{pixel_y = 30; pixel_x = 9; phone_id = "Overwatch"; name = "overwatch receiver"},/obj/structure/machinery/colony_floodlight_switch{pixel_x = -4; desc = "This switch controls the floodlights surrounding the outpost and surrounding areas. It only functions when there is power."; pixel_y = 27; name = "\improper Outpost Floodlight Switch"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "MY" = (/obj/structure/machinery/vending/cigarette{density = 0; pixel_y = 16},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "Nw" = (/obj/item/storage/beer_pack{pixel_y = -4},/obj/item/storage/beer_pack{pixel_y = 12; layer = 3.03},/turf/open/auto_turf/ice,/area/shiva/exterior/valley)
+"Og" = (/obj/structure/flora/bush/snow,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Ok" = (/obj/structure/bed/chair{dir = 8},/turf/open/snow/layer0,/area/shiva/exterior/valley{name = "Checkpoint - Campfire"; temperature = 293.15; color = "#FAA019"})
 "Ph" = (/turf/open/snow/layer1,/area/shiva/exterior/valley)
 "Pv" = (/turf/closed/wall/shiva/prefabricated,/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
 "Qo" = (/obj/structure/platform_decoration{dir = 4},/turf/open/snow/layer2,/area/shiva/exterior/valley)
+"Ro" = (/obj/structure/flora/tree/dead/tree_6,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "RI" = (/obj/structure/blocker/fog,/turf/open/snow/layer0,/area/shiva/exterior/valley)
 "Sf" = (/obj/structure/machinery/power/smes/buildable,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
 "Sj" = (/obj/structure/stairs/perspective{dir = 8; icon_state = "p_stair_full"},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
 "SX" = (/obj/structure/machinery/power/terminal{dir = 1},/obj/structure/machinery/power/port_gen/pacman/super{powernet = 0; sheet_left = 100; sheets = 100; time_per_sheet = 9999999; active = 1},/obj/item/storage/toolbox/electrical{pixel_y = 13; pixel_x = 7},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Charlie"; color = "FF66FF"; temperature = 293.15})
 "Ta" = (/obj/structure/window/reinforced{dir = 4; pixel_x = -2; pixel_y = 4},/obj/structure/window/reinforced{dir = 8; layer = 3.3; pixel_y = 4},/obj/structure/bed{can_buckle = 0},/obj/structure/bed{buckling_y = 13; layer = 3.5; pixel_y = 10},/obj/item/bedsheet/brown{layer = 3.4},/obj/item/bedsheet/brown{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/obj/structure/blocker/tent{dir = 1},/obj/structure/blocker/tent{dir = 8},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
+"Tz" = (/obj/structure/flora/tree/pine,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Uo" = (/obj/structure/barricade/plasteel/wired{closed = 0},/turf/open/asphalt/cement,/area/shiva/exterior/valley)
 "UN" = (/obj/structure/bed/chair{dir = 1},/obj/structure/bed/chair{dir = 1},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "UU" = (/obj/structure/bed/chair,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Alpha"; color = "#D00000"; temperature = 293.15})
 "VU" = (/obj/structure/platform{dir = 1},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Wb" = (/obj/item/device/flashlight/lamp/tripod/grey{light_range = 2},/turf/open/floor{icon_state = "wood"},/area/shiva/interior/bar{ceiling = 0.1; name = "Checkpoint - Tents"; temperature = 293.15})
+"Wm" = (/obj/structure/flora/tree/dead/tree_4,/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "WY" = (/obj/structure/bed/chair,/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
 "Xc" = (/obj/structure/platform{dir = 8; layer = 2.7},/turf/open/snow/layer2,/area/shiva/exterior/valley)
 "Xn" = (/obj/structure/machinery/light/double{dir = 4; pixel_x = 5; light_range = 1; light_color = "#D00000"},/turf/open/floor/shiva{icon_state = "floor3"},/area/shiva/interior/bar{ceiling = 1.1; name = "Checkpoint - Building Bravo"; color = "FFFF00"; temperature = 293.15})
@@ -106,43 +117,43 @@
 (1,1,1) = {"
 XBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXB
 XBenenenenenenenenentPtPtPtPtPtPtPtPtPtPtPtPtPRIRIRIRItPtPenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeOgBeBeBeOgagBeBeBeBeBeBoBoBoBoagBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBecQBeagBeBoBoBoBoBeOgenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeTzBeagBeBeBeBeBeOgBoBoBoBoagBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeOgBeBeBeagBeBeBeBoBoBoBoBeBeenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeTzBeBeBeBeBeBoBoBoBoBeTzenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeagBeBeBeBeBeBeBeBeBoBoBoBoOgagenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeOgBexbagBeTzBeBeBoBoBoBoBecQenenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeOgBeBeBeOgBeBeBoBoBoBoOgBeBeenenenenenenenenenenenenenenenenenenenXB
 XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeenenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeenenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeenenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeenenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBefjBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBetufjfjBofjmkBeBeBeBeBeBeBeBeBeBeBeBeenenenenzGNwenenenXB
-XBenenenenenenenenenenBeBeBeBebfbfbfbfbfbfbfbfZnZnZnZnbfbfbfbfbfbfbfbfbfbfbfbfbfenenenenzGNwenenenXB
+XBenenenenenenenenenenenBeBeBeagBeBeBeBeBeagBeBoBoBoBocQBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBexbBeBeTzBeBeTzOgBeBeBoBoBoBoBeBeBeenenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeOgBeOgBeOgBeBeBeBeBoBoBoBoBeBeBeBeenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeagBeBoBoBoBoBeOgTzBeenenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenagBeBeBeBecQBeBeBeBeBeBoBoBoBoBeBeagBeBeenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeagBeBeBeBeBeBeBeBeBoBoBoBoBeFTBeOgBeenenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeOgBeBeTzBeBeBeBeBoBoBoBoBeBeBeBeBeBeenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeagBeBeFTBeOgBeagBeBoBoBoBoBeOgBeBeOgBeenenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeagBeOgBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeenenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeagBeBeRoBeBeBoBoBoBoBeBeBeBeBeagagBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeRoBeOgBeBeBeBeBoBoBoBoOgagTzBeagBeBeOgBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeTzBeBeBeBeagBeOgBeBoBoBoBoBeBeBeOgBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeWmBeagBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeOgBeBeBeBeBeBeBeBeBoBoBoBoBeBexbBeBeTzBeBeOgBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeagBeTzBeBeOgBeBeBoBoBoBoBeBeBeBeOgBeOgBeBeagenenenenenenenenenenenenXB
+XBenenenenenenenenenenenOgBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeagBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeTzBeBeBeBoBoBoBoBeBeTzBeagOgBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeagBeOgBeBeBeBeBeBeBeBoBoBoBoBeOgagBeBeBeBeBeOgBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeAkBeBeagBoBoBoBoBeBeBeBeBeBeTzBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeagBeBeBeBeagBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeagBeBeBeOgBeBeBeBeBeBoBoBoBoBeBeFTBeRoBeagBeOgBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeOgBeBeTzBeBeBeBeBeBeBeBoBoBoBoBeBeBeOgBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeTzBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeagBeBeBeagBeBeagBeBoBoBoBoBeTzBeagBeBeTzBeOgagenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeTzBeBeRoBeBeBeBeBeBeBoBoBoBoBeBeBeBeagBeBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeBeOgBeBeBeBeBeagBeBefjBoBoBoBeOgBeBeagBeOgBeBeBeagenenenenenenenenenenenXB
+XBenenenenenenenenenenBeagBeBeBeBeBeBeOgBeBetufjfjBofjmkagBeBeOgBeBeBeBeBeBeOgBeenenenenzGNwenenenXB
+XBenenenenenenenenenenOgBeBeBebfbfbfbfbfbfbfbfZnZnZnZnbfbfbfbfbfbfbfbfbfbfbfbfbfenenenenzGNwenenenXB
 XBenenenenenenenenenbfbfbfbfbfbfBeBeBeBeBeBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeBeBeBeenenenzGenenenenXB
 XBenenenenenenenenenBeBeBeBeBeBeBeBeyQrbyQBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeJDJDJDJDenenzGzGzGenenXB
 XBenenenenenenenenenBeBeBeBeBeBeBeBeFsptOkBeBefjfjfjfjBeBeBeBeBeBeBeBeBeBeBeJDZMZMJDenenenenzGenenXB
@@ -166,42 +177,42 @@ XBenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBePvFlSfPvBeBeBeBeBeBeBeBe
 XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBekBbRSXPvBeBeBeBeBeBeBeBeBeenenenenenenenenXB
 XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBefjfjfjfjBePvPvPvPvBeBeBeBeBeBeBeBeBeenenenenenenenenXB
 XBenenenenenenbfbfbfbfbfbfbfBeBeBeBeBeBeBeBeBefjfjBofjBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
-XBenenenenenenBeBeBeBeBeBebfbfbfbfbfbfbfbfbfbfUoHTHTHTbfbfbfbfbfbfbfbfbfbfbfbfbfenenenenenenenenenXB
-XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBemkBoBoBoBomkBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
-XBenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
-XBenenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenBeBeBeBeOgBebfbfbfbfbfbfbfbfbfbfUoHTHTHTbfbfbfbfbfbfbfbfbfbfbfbfbfenenenenenenenenenXB
+XBenenenenenenBeBeOgBeOgBeBeBeBeBeBeBeBeBeBemkBoBoBoBomkBeagBeBeBeBeBeBeBeBeBeBeenenenenenenenenenXB
+XBenenenenenenBeBeBeBeBeBemTBeBeOgBeBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeagBeBeBeBeRoBeenenenenenenenenenXB
+XBenenenenenenenenBeBeRoBeTzBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeRoBeBeBeBeBeTzBeagBeBeenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeAkBeTzBeBeBeBeBoBoBoBoBeBelwagBeTzBeBeTzWmBeBeBeenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeWmBeBeBeagBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeagBeBelwBeenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeagOgBeTzBeBoBoBoBoBeBeBeBeBeagBeBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeTzBeBeBecQBeBeBeBeBecQBoBoBoBoBecQBeTzBeBeAkBeBeBeBeenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeagBeBeBeOgBeBeWmBeBoBoBoBoBeBeBeBeagBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeOgagBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeBelwBeBeAkBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBelwBeBeBeBeTzBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeTzBeBeBeBeBeBeBeBeBoBoBoBoBeBeTzBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBecQBeBeagBeTzBeBeBeBeBeBoBoBoBoBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeRoBeBeBeBoBoBoBoBeBeBeTzBeRoBeTzBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeRoBeBeBeBeBeBeBeBoBoBoBolwBeWmBeBeagBelwBeenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeBeBeBeBeBeagBeTzBeBeBoBoBoBoBeBelwagBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeagBeBeBeAkBeBeBeBeBeBeBeBoBoBoBoBeagBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeBeTzBeBeBeBeBeBeBeBeBeBoBoBoBoBeBeBeBeTzBecQBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenBeBeBeagBeBeBeBeBeBeBeBeBeagBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeOgBeWmBeTzBeBeBeBeBoBoBoBoBelwTzagBeBelwBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeagBeBeBeBeagBeBecQBeBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeAkBeagBeTzBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeOgTzBeOgBeBeagBeagBeBoBoBoBoBeBeBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenWmBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoagBeBeBeagWmBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenBeBeOgBeBeBeTzBeagBeBeBeBoBoBoBoBeBeBeBeBeWmBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeBeBeBeBeBeBeBeBeBoBoBoBoBeTzBeBeBeBeBeBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBeTzBeBeOgBeBeBeBeBoBoBoBoBeBeBeBeTzBeagBeenenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeRoagBeBeBeBeBeBeBeBeBoBoBoBoBeBeagBeBeBeBeBeagenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenBeBeBecQBeBeagBeTzBeBeBoBoBoBoBeBeBeBeBeAkBeBeBeenenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeAkBeBeOgBeBeBeBoBoBoBoBeTzagBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeagBeBeBeOgBoBoBoBoBeBeBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeagBeBeBeBeBeBoBoBoBoBeBeBeBeBeagTzBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeBeBeBecQBeBeBeBoBoBoBoBeBeBecQBeBeBeBeagBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenagBeBeBeBeBeBeBeBeBeBoBoBoBoBeTzBeBeBeRoBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeBeBeTzBeBeBeBeBeBeBoBoBoBoBeagBeBeBeBeBeBeBeBeenenenenenenenenenenenenXB
+XBenenenenenenenenenenenenBeagBeBeBeBeagBeBeBeBoBoBoBoBeBeBeBeBeBeagBeBeBeenenenenenenenenenenenenXB
 XBenenenenenenenenenenenentPtPtPtPtPtPtPtPtPtPRIRIRIRItPtPtPtPtPtPtPtPtPtPenenenenenenenenenenenenXB
 XBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXBXB
 "}
