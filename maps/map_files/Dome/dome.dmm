@@ -9,12 +9,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"ao" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "at" = (
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 10
@@ -72,14 +66,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"aY" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "bb" = (
 /obj/structure/machinery/computer/general_air_control/large_tank_control{
 	name = "Mixed Air Control"
@@ -127,14 +113,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"bz" = (
-/obj/structure/flora/bush/ausbushes/ppflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -147,13 +126,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"bD" = (
-/obj/structure/flora/bush/ausbushes/palebush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "bG" = (
@@ -190,25 +162,15 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
+"bT" = (
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "bU" = (
 /turf/open/gm/river,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"bW" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"ce" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -228,33 +190,12 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"cm" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"cr" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "cA" = (
 /obj/structure/surface/table/woodentable/fancy,
 /obj/item/reagent_container/glass/rag,
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"cC" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "cI" = (
@@ -294,7 +235,7 @@
 	})
 "cU" = (
 /obj/structure/flora/bush/ausbushes/lavendergrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -303,15 +244,6 @@
 /turf/open/floor/corsat,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"cY" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "da" = (
@@ -356,15 +288,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"dD" = (
-/obj/structure/pipes/standard/manifold/hidden/green{
-	dir = 1
-	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "dF" = (
 /obj/item/paper{
 	icon_state = "paper_words";
@@ -372,6 +295,33 @@
 	name = ""ThePoorSuck" By Daniel R"
 	},
 /turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/lv624/ground/jungle/west_jungle{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dM" = (
+/obj/structure/closet/cabinet,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/storage/pill_bottle/tramadol/skillless,
+/obj/item/reagent_container/glass/bottle/oxycodone,
+/obj/item/storage/box/syringes,
+/obj/item/storage/pill_bottle/happy,
+/obj/item/storage/pill_bottle/happy,
+/obj/item/reagent_container/glass/bottle/oxycodone,
+/obj/item/storage/pill_bottle/tramadol/skillless,
+/obj/structure/flora/jungle/vines/light_1,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -389,19 +339,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"dV" = (
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"dY" = (
-/obj/structure/flora/bush/ausbushes/grassybush,
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "eb" = (
@@ -457,7 +394,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -491,22 +428,35 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"eQ" = (
-/obj/structure/pipes/standard/manifold/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "eR" = (
 /obj/structure/pipes/standard/manifold/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"eU" = (
+/obj/structure/surface/rack,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/tool/shovel,
+/obj/item/tool/weedkiller{
+	pixel_x = 3;
+	pixel_y = -1
+	},
+/obj/item/tool/weedkiller{
+	pixel_y = 8;
+	pixel_x = -7
+	},
+/obj/item/tool/weedkiller{
+	pixel_y = 5;
+	pixel_x = 9
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "fc" = (
@@ -550,7 +500,7 @@
 /obj/structure/pipes/standard/manifold/hidden/green{
 	dir = 1
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -567,7 +517,7 @@
 	dir = 4
 	},
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -579,12 +529,6 @@
 /turf/open/floor/almayer/dark_sterile,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"fC" = (
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "fJ" = (
@@ -622,7 +566,7 @@
 /obj/structure/platform/kutjevo{
 	dir = 8
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -643,26 +587,12 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"gu" = (
-/obj/structure/flora/bush/ausbushes/lavendergrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "gw" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 5
 	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"gB" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -671,14 +601,7 @@
 /obj/structure/machinery/power/apc/almayer/north{
 	pixel_y = 32
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"gJ" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -698,26 +621,12 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"gS" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"gV" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "gY" = (
 /obj/structure/flora/bush/ausbushes/var3/ywflowers,
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -727,16 +636,6 @@
 /turf/closed/wall/r_wall/biodome,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"hd" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "he" = (
@@ -774,7 +673,7 @@
 /obj/structure/tunnel{
 	id = "hole3"
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -789,19 +688,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"hu" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"hw" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "hx" = (
 /turf/closed/wall/r_wall/biodome/biodome_unmeltable,
 /area/lv624/lazarus/hop{
@@ -810,7 +696,7 @@
 	})
 "hB" = (
 /obj/structure/flora/jungle/alienplant1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -831,7 +717,7 @@
 "hE" = (
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -852,7 +738,7 @@
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -927,7 +813,7 @@
 	dir = 8;
 	light_on = 1
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -952,30 +838,14 @@
 "io" = (
 /obj/structure/flora/bush/ausbushes/var3/sunnybush,
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "ip" = (
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"iq" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"ir" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1005,7 +875,7 @@
 "iC" = (
 /obj/structure/flora/bush/ausbushes/ppflowers,
 /obj/structure/pipes/standard/manifold/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1025,27 +895,12 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"iE" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "iM" = (
 /obj/structure/machinery/colony_floodlight{
 	dir = 8;
 	light_on = 1
 	},
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"iU" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1090,7 +945,7 @@
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/vents/pump,
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1114,6 +969,14 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"jD" = (
+/obj/structure/flora/jungle/vines/light_1,
+/obj/structure/flora/jungle/vines/heavy,
+/turf/open/auto_turf/strata_grass/layer1,
+/area/lv624/ground/jungle/west_jungle{
+	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "jO" = (
@@ -1141,7 +1004,7 @@
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/pipes/vents/pump,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1171,7 +1034,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 10
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1188,7 +1051,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 5
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1216,13 +1079,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"ln" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "lo" = (
 /turf/open/floor/almayer/dark_sterile,
 /area/lv624/lazarus/canteen{
@@ -1242,7 +1098,7 @@
 /obj/structure/pipes/standard/manifold/hidden/green{
 	dir = 8
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1251,12 +1107,6 @@
 /turf/open/floor/corsat/red/north,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"lF" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "lJ" = (
@@ -1272,7 +1122,7 @@
 /obj/structure/stairs/perspective/kutjevo{
 	icon_state = "p_stair_sn_full_cap"
 	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1327,20 +1177,6 @@
 /turf/closed/wall/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"mG" = (
-/obj/structure/flora/bush/ausbushes/ppflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"mI" = (
-/obj/structure/flora/bush/ausbushes/var3/sunnybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "mL" = (
@@ -1416,15 +1252,7 @@
 	})
 "nk" = (
 /obj/structure/flora/bush/ausbushes/palebush,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"nl" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1434,20 +1262,6 @@
 /turf/open/floor/plating,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"nt" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"nw" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "nA" = (
@@ -1467,16 +1281,6 @@
 /turf/open/floor/corsat/blue/east,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"nE" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "nF" = (
@@ -1506,13 +1310,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"nR" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "oa" = (
 /obj/structure/pipes/standard/manifold/hidden/green{
 	dir = 1
@@ -1525,7 +1322,7 @@
 "od" = (
 /obj/structure/flora/bush/ausbushes/grassybush,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1551,14 +1348,7 @@
 "ow" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/fence,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"oA" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1566,7 +1356,7 @@
 "oE" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1584,7 +1374,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 6
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1595,24 +1385,10 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"oS" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "oW" = (
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/machinery/colony_floodlight,
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"pa" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1631,7 +1407,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1665,25 +1441,10 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"ps" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "pw" = (
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"py" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1730,22 +1491,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"pQ" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"pU" = (
-/obj/structure/flora/bush/ausbushes/lavendergrass,
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "pV" = (
 /obj/structure/bed/chair/wood/normal{
 	dir = 8
@@ -1760,7 +1505,7 @@
 /obj/structure/pipes/vents/pump{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1773,14 +1518,6 @@
 	dir = 4
 	},
 /turf/open/floor/wood,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"qq" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1807,7 +1544,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1839,7 +1576,7 @@
 "qJ" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1847,13 +1584,13 @@
 "qL" = (
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "qM" = (
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1862,7 +1599,7 @@
 /obj/structure/platform/kutjevo{
 	dir = 8
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1874,7 +1611,7 @@
 /obj/structure/machinery/light{
 	breakable = 0
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1882,7 +1619,7 @@
 "ra" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1901,6 +1638,20 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/sleep_female{
 	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"ri" = (
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/structure/closet/crate,
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "rj" = (
@@ -1968,16 +1719,7 @@
 "rB" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /obj/structure/disposalpipe/segment,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"rO" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1991,7 +1733,7 @@
 "rV" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/vents/pump,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2009,7 +1751,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 10
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2046,27 +1788,10 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"sy" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "sD" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/pipes/vents/pump/on,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"sE" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 9
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2087,24 +1812,10 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"sO" = (
+"sN" = (
 /obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"sP" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"sR" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/west,
+/obj/structure/flora/jungle/vines/light_1,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2121,7 +1832,7 @@
 	})
 "sT" = (
 /obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2148,24 +1859,14 @@
 /obj/structure/machinery/light{
 	breakable = 0
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"ti" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "tl" = (
 /obj/structure/flora/jungle/plantbot1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2189,7 +1890,7 @@
 "ty" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2213,7 +1914,7 @@
 /obj/structure/platform/kutjevo{
 	dir = 1
 	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2233,7 +1934,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2314,7 +2015,7 @@
 	})
 "uG" = (
 /obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2324,14 +2025,14 @@
 	dir = 1;
 	icon_state = "pipe-j2"
 	},
-/turf/open/gm/dirtgrassborder/south,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "uL" = (
 /obj/structure/pipes/standard/manifold/hidden/green,
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2339,7 +2040,7 @@
 "uM" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2349,15 +2050,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"uP" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2380,13 +2073,6 @@
 "uW" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /turf/open/gm/river,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"vc" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/north,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2423,7 +2109,7 @@
 "vo" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2469,23 +2155,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"vF" = (
-/obj/structure/machinery/colony_floodlight{
-	dir = 8;
-	light_on = 1
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"vI" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "vM" = (
 /obj/structure/machinery/vending/cola,
 /turf/open/floor/wood,
@@ -2497,7 +2166,7 @@
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/pipes/vents/pump,
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2524,7 +2193,7 @@
 /obj/structure/machinery/colony_floodlight{
 	dir = 4
 	},
-/turf/open/gm/dirtgrassborder/west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2614,13 +2283,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"xc" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "xd" = (
 /obj/structure/surface/table/almayer,
 /obj/structure/machinery/processor,
@@ -2657,13 +2319,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"xz" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "xC" = (
 /obj/structure/flora/jungle/planttop1,
 /turf/closed/gm/dense,
@@ -2681,21 +2336,12 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"xF" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "xK" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2717,27 +2363,10 @@
 	},
 /turf/open/space,
 /area/space)
-"xP" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "xS" = (
 /obj/structure/flora/bush/ausbushes/ppflowers,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"xU" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2747,7 +2376,7 @@
 /obj/structure/pipes/vents/pump{
 	dir = 1
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2800,24 +2429,7 @@
 	dir = 4
 	},
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"yH" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"yI" = (
-/obj/structure/pipes/standard/manifold/hidden/green{
-	dir = 8
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2849,13 +2461,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"yT" = (
-/obj/structure/flora/bush/ausbushes/grassybush,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "yW" = (
 /obj/structure/pipes/vents/pump,
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
@@ -2869,14 +2474,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"zd" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2891,24 +2489,10 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"zh" = (
-/obj/structure/flora/bush/ausbushes/ppflowers,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"zi" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "zj" = (
 /obj/structure/flora/jungle/planttop1,
 /obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2919,14 +2503,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"zx" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "zD" = (
@@ -2962,7 +2538,7 @@
 	dir = 4
 	},
 /obj/structure/disposalpipe/segment,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2974,16 +2550,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"Ad" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Aj" = (
@@ -2998,20 +2564,6 @@
 /turf/closed/wall/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"Am" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"An" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "At" = (
@@ -3042,15 +2594,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"AI" = (
-/obj/structure/sign/safety/airlock{
-	pixel_x = 32
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "AN" = (
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
@@ -3068,7 +2611,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/dirtgrassborder/south,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3078,7 +2621,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3107,13 +2650,6 @@
 /turf/open/floor/plating/burnt_platingdmg3,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Bi" = (
-/obj/structure/flora/jungle/alienplant1,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Bm" = (
@@ -3192,7 +2728,7 @@
 /obj/structure/platform/kutjevo{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3202,7 +2738,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3253,7 +2789,7 @@
 /obj/structure/platform/kutjevo{
 	dir = 1
 	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3269,12 +2805,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"Ci" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Cj" = (
 /turf/open/floor/corsat/red/southeast,
 /area/lv624/lazarus/hop{
@@ -3283,7 +2813,7 @@
 	})
 "Cl" = (
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3293,20 +2823,6 @@
 	dir = 6
 	},
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Co" = (
-/obj/structure/flora/bush/ausbushes/grassybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Cq" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3327,15 +2843,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"Cw" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 10
-	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Cz" = (
 /obj/structure/barricade/handrail/kutjevo{
 	dir = 8
@@ -3347,20 +2854,6 @@
 	layer = 3.1
 	},
 /turf/open/floor/wood,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"CD" = (
-/obj/structure/machinery/colony_floodlight,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"CN" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3384,7 +2877,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 5
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3482,6 +2975,20 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
+"DM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/surface/table/almayer,
+/obj/item/toy/plush/runner{
+	dir = 8;
+	pixel_y = 8;
+	pixel_x = 5
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "DS" = (
 /obj/structure/pipes/binary/pump/high_power/on{
 	dir = 1
@@ -3489,13 +2996,6 @@
 /turf/open/floor/corsat/yellow/southeast,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"DU" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "DV" = (
@@ -3530,7 +3030,7 @@
 	},
 /obj/structure/barricade/handrail/wire,
 /obj/item/device/flashlight/on,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3572,7 +3072,7 @@
 	})
 "EA" = (
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3619,25 +3119,6 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"EV" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"EX" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Fb" = (
 /obj/structure/barricade/handrail/kutjevo{
 	dir = 8
@@ -3661,27 +3142,11 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"Fd" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Ff" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Fs" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
+/turf/closed/wall/shiva/prefabricated/reinforced,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "Fw" = (
@@ -3699,7 +3164,7 @@
 "Fx" = (
 /obj/structure/flora/jungle/plantbot1,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3714,13 +3179,6 @@
 /turf/open/floor/corsat/red/southwest,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"FB" = (
-/obj/structure/flora/jungle/alienplant1,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "FF" = (
@@ -3768,13 +3226,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"FQ" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "FR" = (
 /obj/structure/machinery/light{
 	dir = 4
@@ -3802,7 +3253,7 @@
 	})
 "FX" = (
 /obj/structure/fence,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3846,15 +3297,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"Gk" = (
-/obj/structure/pipes/standard/manifold/hidden/green{
-	dir = 1
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Gp" = (
 /obj/structure/bed/stool,
 /turf/open/floor/wood,
@@ -3890,15 +3332,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/sleep_female{
 	name = "XM2 Recreational Biodome - Dorms";
-	powernet_name = "golden_arrow"
-	})
-"GB" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "GD" = (
@@ -3958,12 +3391,50 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
+"GX" = (
+/obj/item/reagent_container/food/drinks/bottle/vodka{
+	pixel_y = -9;
+	pixel_x = 10
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP/naval{
+	pixel_y = 9;
+	pixel_x = 2
+	},
+/obj/item/prop/magazine/book/uppbooklet{
+	pixel_y = -13
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = 6
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP/heavy{
+	pixel_y = 8;
+	pixel_x = -7
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = -7
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP,
+/obj/item/clothing/head/uppcap/peaked/mss{
+	pixel_y = 11;
+	pixel_x = -3
+	},
+/obj/item/flag/plantable/upp{
+	layer = 3.03
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "Ho" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -3992,14 +3463,12 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"HD" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
+"HL" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "HT" = (
@@ -4021,6 +3490,16 @@
 /turf/closed/wall/wood,
 /area/lv624/lazarus/sleep_female{
 	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"HY" = (
+/obj/structure/machinery/power/apc/almayer/north{
+	pixel_y = 0
+	},
+/turf/open/space/basic,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "HZ" = (
@@ -4101,7 +3580,7 @@
 	})
 "IS" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4122,7 +3601,7 @@
 "Ji" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4162,14 +3641,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"JQ" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "JY" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /turf/open/gm/dirt,
@@ -4177,17 +3648,9 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"Kb" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Kk" = (
 /obj/structure/flora/bush/ausbushes/var3/leafybush,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4203,13 +3666,6 @@
 /turf/open/floor/almayer/empty/golden_arrow,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Ky" = (
-/obj/structure/flora/bush/ausbushes/ppflowers,
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Kz" = (
@@ -4241,7 +3697,7 @@
 	})
 "KK" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4261,7 +3717,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 6
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4290,7 +3746,7 @@
 /obj/structure/platform_decoration/kutjevo/smooth{
 	dir = 8
 	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4324,17 +3780,21 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
+"KZ" = (
+/obj/structure/surface/rack,
+/obj/item/folded_tent/big,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "Ld" = (
 /obj/structure/bed/chair/wood/normal{
 	dir = 4
 	},
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Le" = (
-/turf/open/gm/dirtgrassborder/east,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4356,13 +3816,6 @@
 /turf/open/floor/corsat/yellowcorner/north,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Lz" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "LC" = (
@@ -4388,7 +3841,7 @@
 "LL" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/fence,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4436,7 +3889,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4445,7 +3898,7 @@
 /obj/structure/platform_decoration/kutjevo/smooth{
 	dir = 4
 	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4479,13 +3932,6 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"MA" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "MB" = (
 /obj/structure/barricade/handrail/kutjevo{
 	dir = 4
@@ -4507,15 +3953,6 @@
 	})
 "MH" = (
 /turf/open/gm/dirtgrassborder/desert3,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"MI" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4575,13 +4012,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"MZ" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Nb" = (
 /obj/structure/machinery/portable_atmospherics/canister/empty,
 /turf/open/floor/corsat,
@@ -4591,7 +4021,7 @@
 	})
 "Nf" = (
 /obj/structure/flora/bush/ausbushes/grassybush,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4603,13 +4033,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/sleep_female{
 	name = "XM2 Recreational Biodome - Dorms";
-	powernet_name = "golden_arrow"
-	})
-"Nh" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Nk" = (
@@ -4667,12 +4090,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"NB" = (
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "NC" = (
 /turf/closed/wall/wood,
 /area/lv624/lazarus/canteen{
@@ -4686,12 +4103,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"NG" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "NH" = (
 /obj/structure/machinery/vending/snack/packaged,
 /turf/open/floor/wood,
@@ -4699,18 +4110,20 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"NO" = (
-/turf/open/gm/coast/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
+"NL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/surface/table/almayer,
+/obj/item/storage/toolbox/mechanical{
+	pixel_y = 0
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
-"NP" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+"NO" = (
+/turf/open/gm/coast/west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4721,24 +4134,10 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"Og" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Oh" = (
-/obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Oi" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4750,12 +4149,6 @@
 /turf/open/floor/corsat/yellow/northeast,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Ou" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "OF" = (
@@ -4780,16 +4173,6 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"OU" = (
-/obj/structure/flora/jungle/vines/heavy,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "OX" = (
 /obj/structure/machinery/portable_atmospherics/canister/empty/oxygen,
 /turf/open/floor/corsat,
@@ -4807,13 +4190,6 @@
 "Pl" = (
 /obj/structure/disposalpipe/segment,
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Pm" = (
-/obj/structure/flora/jungle/plantbot1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4842,14 +4218,6 @@
 /turf/open/floor/corsat/blue/east,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Pu" = (
-/obj/structure/flora/jungle/vines/light_1,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "PB" = (
@@ -4884,7 +4252,7 @@
 	})
 "PH" = (
 /obj/structure/flora/bush/ausbushes/var3/sunnybush,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4892,13 +4260,6 @@
 "PJ" = (
 /obj/structure/flora/bush/ausbushes/lavendergrass,
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"PN" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4928,7 +4289,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -4938,7 +4299,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5026,7 +4387,7 @@
 /obj/structure/pipes/standard/manifold/hidden/green{
 	dir = 1
 	},
-/turf/open/gm/dirtgrassborder/west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5057,14 +4418,14 @@
 	})
 "QB" = (
 /obj/structure/machinery/colony_floodlight,
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "QC" = (
 /obj/structure/flora/bush/ausbushes/var3/stalkybush,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5087,7 +4448,7 @@
 /obj/structure/machinery/door/airlock/maintenance/colony{
 	name = "Excess Food Disposal"
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5098,14 +4459,6 @@
 	dir = 1
 	},
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"QY" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5153,21 +4506,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"Rz" = (
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"RE" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 10
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "RG" = (
 /obj/structure/surface/table/almayer,
 /obj/item/device/flashlight,
@@ -5179,7 +4517,7 @@
 "RI" = (
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5224,37 +4562,12 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"Sd" = (
-/obj/structure/machinery/colony_floodlight{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Sl" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/pipes/vents/pump{
 	dir = 1
 	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Sq" = (
-/obj/structure/flora/bush/ausbushes/var3/sunnybush,
-/turf/open/gm/dirtgrassborder/east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"SA" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5325,16 +4638,7 @@
 "SS" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
 /obj/structure/flora/jungle/planttop1,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"SZ" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 10
-	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5343,14 +4647,7 @@
 /obj/structure/stairs/perspective/kutjevo{
 	icon_state = "p_stair_full"
 	},
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Tb" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5358,13 +4655,6 @@
 "Tf" = (
 /obj/structure/flora/jungle/planttop1,
 /turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Tg" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5385,23 +4675,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/sleep_female{
 	name = "XM2 Recreational Biodome - Dorms";
-	powernet_name = "golden_arrow"
-	})
-"Tv" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/vents/pump{
-	dir = 1
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Ty" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Tz" = (
@@ -5426,34 +4699,10 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"TB" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"TG" = (
-/obj/structure/pipes/standard/manifold/hidden/green{
-	dir = 8
-	},
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"TJ" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "TW" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/flora/jungle/planttop1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5461,20 +4710,13 @@
 "Ua" = (
 /obj/structure/flora/bush/ausbushes/var3/ywflowers,
 /obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Ud" = (
 /turf/open/gm/coast/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Ue" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_west,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5490,7 +4732,7 @@
 	})
 "Ug" = (
 /obj/structure/flora/bush/ausbushes/ppflowers,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5507,13 +4749,6 @@
 /turf/open/floor/corsat/blue/west,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"Uq" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "Us" = (
@@ -5558,6 +4793,27 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
+"UY" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/light/small{
+	breakable = 0
+	},
+/obj/structure/surface/table/almayer,
+/obj/item/stack/sheet/wood/large_stack{
+	pixel_y = 9;
+	pixel_x = 2
+	},
+/obj/item/stack/sheet/wood/small_stack{
+	pixel_x = 10;
+	pixel_y = -1;
+	layer = 3.04
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "Vc" = (
 /obj/structure/platform/kutjevo{
 	dir = 8
@@ -5571,7 +4827,7 @@
 /obj/structure/flora/jungle/vines/light_1,
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5590,11 +4846,50 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"VE" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
+"VC" = (
+/obj/structure/surface/rack,
+/obj/item/tool/minihoe{
+	pixel_y = -3;
+	pixel_x = 2
+	},
+/obj/item/tool/minihoe{
+	pixel_y = -5;
+	pixel_x = -7
+	},
+/obj/item/tool/shovel/spade{
+	pixel_x = 6;
+	pixel_y = 2
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
+"VJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4
+	},
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4;
+	pixel_x = 1;
+	pixel_y = 3;
+	layer = 3.01
+	},
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4;
+	pixel_x = 2;
+	pixel_y = 6;
+	layer = 3.02
+	},
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "VN" = (
@@ -5602,7 +4897,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5634,7 +4929,7 @@
 "Wi" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5644,7 +4939,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 6
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5680,13 +4975,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"WD" = (
-/obj/structure/flora/bush/ausbushes/var3/leafybush,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "WG" = (
 /obj/effect/decal/cleanable/blood{
 	desc = "Watch your step.";
@@ -5703,7 +4991,7 @@
 	dir = 4
 	},
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5714,17 +5002,10 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"WX" = (
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Xh" = (
 /obj/structure/flora/bush/ausbushes/ppflowers,
 /obj/structure/disposalpipe/segment,
-/turf/open/gm/dirtgrassborder/grassdirt_corner2/north_west,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5736,21 +5017,23 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
+"XI" = (
+/obj/structure/machinery/door/airlock/almayer/generic{
+	dir = 2;
+	name = "Shed"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "XM" = (
 /obj/structure/flora/jungle/vines/heavy,
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/fence,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"XN" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
-/turf/open/gm/dirtgrassborder/east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5766,7 +5049,7 @@
 	dir = 4;
 	icon_state = "p_stair_sn_full_cap"
 	},
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5821,31 +5104,9 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"Yq" = (
-/obj/structure/flora/bush/ausbushes/var3/stalkybush,
-/turf/open/gm/dirtgrassborder/north,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Yv" = (
 /obj/structure/flora/bush/ausbushes/lavendergrass,
 /turf/open/gm/dirtgrassborder/desert1,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Yx" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/obj/structure/flora/jungle/vines/light_1,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Yy" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/south,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5855,7 +5116,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 10
 	},
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5869,7 +5130,7 @@
 	})
 "YD" = (
 /obj/structure/flora/jungle/planttop1,
-/turf/open/gm/grass/grass1/weedable,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5890,15 +5151,6 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"Za" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 5
-	},
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Zh" = (
 /obj/structure/sign/safety/airlock,
 /turf/closed/wall/r_wall/biodome,
@@ -5915,23 +5167,9 @@
 	name = "XM2 Recreational Biodome - Control Module";
 	powernet_name = "golden_arrow"
 	})
-"Zm" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/dirtgrassborder/south,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "Zo" = (
 /obj/structure/platform_decoration/kutjevo/smooth,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"Zu" = (
-/obj/structure/flora/bush/ausbushes/var3/ywflowers,
-/turf/open/gm/dirtgrassborder/grassdirt_corner/south_east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5949,14 +5187,7 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"ZE" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/north,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -5989,26 +5220,10 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"ZV" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 9
-	},
-/turf/open/gm/dirtgrassborder/west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "ZX" = (
 /obj/structure/flora/bush/ausbushes/var3/ywflowers,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/gm/grass/grass1/weedable,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"ZZ" = (
-/obj/structure/flora/bush/ausbushes/var3/fullgrass,
-/turf/open/gm/dirtgrassborder/east,
+/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -6230,7 +5445,7 @@ EO
 EO
 EO
 EO
-vc
+Cl
 wO
 GO
 GO
@@ -6319,7 +5534,7 @@ EO
 ip
 Cl
 Cl
-vc
+Cl
 NQ
 GO
 Bp
@@ -6408,8 +5623,8 @@ Cl
 ip
 Cl
 Cl
-Ty
-ao
+Cl
+qM
 GO
 OJ
 OJ
@@ -6498,7 +5713,7 @@ hN
 hN
 ip
 hN
-Ty
+Cl
 GO
 OJ
 OJ
@@ -6665,10 +5880,10 @@ Dr
 EO
 EO
 IS
-nw
-dV
-dV
-nt
+IS
+qM
+qM
+sT
 hN
 hN
 hN
@@ -6752,13 +5967,13 @@ Dr
 EO
 EO
 EO
-nw
-dV
-Ou
+IS
+qM
+qM
 eL
 KX
-hw
-Fd
+qM
+qM
 hN
 ra
 Cl
@@ -6768,7 +5983,7 @@ hN
 hN
 hN
 hN
-ZE
+IS
 Ks
 Tt
 OJ
@@ -6780,7 +5995,7 @@ OJ
 OJ
 yf
 jp
-cr
+sT
 qM
 Cl
 Cl
@@ -6790,7 +6005,7 @@ qM
 qM
 Kk
 qM
-Cw
+rZ
 Di
 Cl
 hN
@@ -6841,23 +6056,23 @@ EO
 EO
 hN
 Cl
-NB
+qM
 NQ
 sj
 NQ
 po
 NQ
-mI
-dV
-dV
-zh
-dV
-gB
+PH
+qM
+qM
+Ug
+qM
+Cl
 hN
 hN
 hN
-zd
-xc
+Cl
+IS
 NQ
 VP
 GA
@@ -6869,7 +6084,7 @@ vY
 GA
 GO
 NQ
-Yy
+IS
 Ug
 Cl
 Cl
@@ -6880,7 +6095,7 @@ qM
 IS
 TW
 tl
-Cw
+rZ
 Oi
 Di
 Cl
@@ -6930,10 +6145,10 @@ EO
 hN
 hN
 Wl
-DU
+EA
 go
-Uq
-oA
+EA
+EA
 sS
 FT
 jO
@@ -6941,11 +6156,11 @@ go
 go
 go
 go
-TG
-sO
+lu
 RI
 RI
-ps
+RI
+qJ
 zI
 DY
 Ge
@@ -6958,7 +6173,7 @@ GO
 GO
 GO
 NQ
-fC
+qM
 qM
 Cl
 Cl
@@ -6967,10 +6182,10 @@ FX
 qM
 qM
 IS
-Tg
-dV
-dV
-Fd
+sT
+qM
+qM
+qM
 Ho
 Cl
 hN
@@ -7019,10 +6234,10 @@ hN
 hN
 Cl
 Ho
-Rz
-bD
-hw
-Ou
+qM
+nk
+qM
+qM
 dn
 NQ
 NQ
@@ -7031,10 +6246,10 @@ NQ
 oO
 CZ
 po
-hw
-dV
-dV
-xc
+qM
+qM
+qM
+IS
 Ks
 NQ
 HX
@@ -7047,7 +6262,7 @@ EP
 CR
 GO
 NQ
-fC
+qM
 qM
 hN
 hN
@@ -7055,12 +6270,12 @@ hN
 FX
 qM
 qM
-lF
-Ou
+qM
+qM
 ut
 NQ
-hw
-bW
+qM
+Ho
 Cl
 hN
 hN
@@ -7109,7 +6324,7 @@ hN
 Cl
 PU
 Nf
-NB
+qM
 NQ
 Rl
 NQ
@@ -7136,7 +6351,7 @@ OJ
 OJ
 yf
 NQ
-fC
+qM
 hN
 hN
 hN
@@ -7144,12 +6359,12 @@ hN
 FX
 qM
 qM
-NB
+qM
 be
 Cg
 iB
 NQ
-HD
+Ho
 ip
 hN
 hN
@@ -7198,7 +6413,7 @@ hN
 hN
 PU
 qM
-NB
+qM
 NQ
 Ks
 oO
@@ -7225,7 +6440,7 @@ vY
 GA
 GO
 NQ
-fC
+qM
 hN
 hN
 hN
@@ -7233,7 +6448,7 @@ Cl
 FX
 qM
 qM
-NB
+qM
 oO
 NO
 NO
@@ -7287,7 +6502,7 @@ hN
 hN
 PU
 qM
-NB
+qM
 oO
 NO
 ey
@@ -7314,7 +6529,7 @@ GO
 GO
 GO
 NQ
-fC
+qM
 hN
 hN
 qM
@@ -7322,12 +6537,12 @@ Cl
 FX
 qM
 qM
-NB
+qM
 Ud
 bU
 bU
 sW
-HD
+Ho
 Cl
 Cl
 qM
@@ -7375,8 +6590,8 @@ hN
 xC
 tl
 PU
-lF
-Ou
+qM
+qM
 Vx
 bU
 bU
@@ -7402,8 +6617,8 @@ SD
 BF
 nF
 NQ
-Ci
-NG
+qM
+qM
 Cl
 Cl
 Cl
@@ -7411,12 +6626,12 @@ Cl
 hN
 hN
 qM
-NB
+qM
 Ud
 bU
 Mt
 pz
-HD
+Ho
 sT
 qM
 qM
@@ -7464,7 +6679,7 @@ hN
 hN
 qM
 VN
-Yq
+QC
 oO
 ey
 bU
@@ -7491,7 +6706,7 @@ tE
 cL
 nF
 NQ
-NG
+qM
 Cl
 Cl
 Cl
@@ -7500,11 +6715,11 @@ hN
 hN
 hN
 hN
-NB
+qM
 cS
 rT
 pz
-Ci
+qM
 rZ
 EA
 Oi
@@ -7552,8 +6767,8 @@ ip
 hN
 Cl
 qM
-MI
-xc
+PU
+IS
 Ud
 bU
 bU
@@ -7566,9 +6781,9 @@ bU
 sW
 po
 NQ
-Ci
-Le
-ao
+qM
+qM
+qM
 NQ
 NQ
 NQ
@@ -7589,11 +6804,11 @@ hN
 hN
 hN
 hN
-Rz
-Le
-Le
-Le
-NG
+qM
+qM
+qM
+qM
+qM
 qM
 Nf
 qM
@@ -7641,7 +6856,7 @@ kH
 hN
 Cl
 qM
-Fs
+PU
 NQ
 Ud
 ua
@@ -7654,12 +6869,12 @@ bU
 Mt
 pz
 EJ
-Ci
-NG
 qM
-bz
-Le
-nR
+qM
+qM
+Ug
+qM
+IS
 NQ
 NQ
 NQ
@@ -7667,8 +6882,8 @@ po
 NQ
 Yb
 NQ
-Ci
-NG
+qM
+qM
 qM
 qM
 qM
@@ -7742,21 +6957,21 @@ Ef
 bU
 sW
 NQ
-rO
-mG
+PU
+Ug
 qM
 hN
 qM
 qM
-MA
-Le
+IS
+qM
 ii
 NQ
 po
 NQ
 Yb
 iM
-fC
+qM
 qM
 qM
 qM
@@ -7819,7 +7034,7 @@ ip
 Cl
 Cl
 qM
-EV
+uN
 Qy
 cS
 eb
@@ -7831,7 +7046,7 @@ bU
 Mt
 pz
 NQ
-GB
+PU
 qM
 hN
 hN
@@ -7839,13 +7054,13 @@ ip
 hN
 PH
 qM
-NB
+qM
 NQ
 po
 NQ
 Yb
 NQ
-fC
+qM
 qM
 qM
 qM
@@ -7905,10 +7120,10 @@ Cl
 hN
 ip
 ip
-zd
-Fd
+Cl
 qM
-Fs
+qM
+PU
 Ks
 tR
 Ud
@@ -7920,7 +7135,7 @@ Mt
 pz
 NQ
 Rl
-GB
+PU
 hN
 hN
 Cl
@@ -7928,13 +7143,13 @@ Cl
 hN
 hN
 qM
-NB
+qM
 NQ
 EJ
 NQ
 Yb
 NQ
-fC
+qM
 qM
 qM
 qM
@@ -7988,17 +7203,17 @@ EO
 EO
 hN
 ip
-hd
+ft
 hN
 hN
 hN
 hN
 hN
-NB
-hw
-Fd
-cY
-ao
+qM
+qM
+qM
+PU
+qM
 dA
 Ud
 bU
@@ -8007,23 +7222,23 @@ Mt
 rT
 pz
 NQ
-Ci
-Le
-Gk
+qM
+qM
+Qt
 sD
 hN
 hN
 hN
 hN
 hN
-lF
-Ou
+qM
+qM
 NQ
 po
 NQ
 Yb
 NQ
-fC
+qM
 qM
 qM
 qM
@@ -8083,12 +7298,12 @@ hN
 hN
 hN
 hN
-NB
+qM
 PJ
-hw
-EX
-Rz
-ao
+qM
+PU
+qM
+qM
 cS
 rT
 rT
@@ -8096,23 +7311,23 @@ pz
 NQ
 NQ
 Ks
-hw
-Fd
+qM
+qM
 PU
 hN
 hN
 hN
 hN
 hN
-CN
-Ou
+KK
+qM
 NQ
 NQ
 po
 NQ
 Yb
 NQ
-fC
+qM
 IS
 cU
 qM
@@ -8172,28 +7387,28 @@ hN
 hN
 hN
 hN
-NB
+qM
 GF
 go
-eQ
+eR
 hE
-Cq
-ln
-oA
+EA
+EA
+EA
 IK
 kt
 zI
-Uq
-oA
+EA
+EA
 go
 od
-ZV
-gB
+Mp
+Cl
 hN
 hN
 ip
 qM
-NB
+qM
 NQ
 NQ
 NQ
@@ -8201,7 +7416,7 @@ po
 NQ
 Yb
 NQ
-fC
+qM
 KK
 qM
 IS
@@ -8261,28 +7476,28 @@ WJ
 hN
 hN
 hN
-qq
-FQ
+Ua
+Cl
 NQ
-gS
+KK
 qM
 qM
 qM
-NB
+qM
 NQ
 po
 NQ
-fC
-Rz
-ao
+qM
+qM
+qM
 NQ
 NQ
-hw
-gB
+qM
+Cl
 hN
 hN
 qM
-NB
+qM
 NQ
 iM
 NQ
@@ -8290,7 +7505,7 @@ po
 NQ
 Yb
 iM
-fC
+qM
 qM
 qM
 qM
@@ -8344,42 +7559,42 @@ tn
 tn
 tn
 qM
-dD
+Qt
 Wi
 xK
 hN
 hN
 hN
 hN
-Ty
-oS
-NG
+Cl
+Cl
+qM
 YD
 tl
 qM
-NB
+qM
 NQ
 po
 NQ
-fC
-lF
-gu
+qM
+qM
+cU
 NQ
 NQ
 NQ
-cr
+sT
 hN
 hN
 PH
-Rz
-ao
+qM
+qM
 NQ
 NQ
 po
 NQ
 Yb
-Ci
-NG
+qM
+qM
 NC
 NC
 NC
@@ -8393,19 +7608,19 @@ qM
 qM
 qM
 qM
-lF
-dV
-dV
-dV
-dV
-dV
-dV
-dV
-dV
-dV
-dV
-dV
-Fd
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
 qM
 qM
 PU
@@ -8446,28 +7661,28 @@ Cl
 qM
 qM
 qM
-Ky
+Ug
 NQ
 po
 JY
-fC
-NB
+qM
+qM
 NQ
 eL
 NQ
 NQ
-hw
-dV
-dV
-dV
-FB
-Ou
+qM
+qM
+qM
+qM
+hB
+qM
 NQ
 NQ
 po
 NQ
 Yb
-fC
+qM
 Kk
 NC
 Bs
@@ -8481,8 +7696,8 @@ qM
 qM
 qM
 qM
-lF
-Ou
+qM
+qM
 NQ
 NQ
 NQ
@@ -8494,8 +7709,8 @@ NQ
 NQ
 NQ
 NQ
-hw
-Fd
+qM
+qM
 qM
 PU
 qM
@@ -8535,12 +7750,12 @@ hN
 Kk
 qM
 IS
-ZE
+IS
 Ks
 po
 NQ
-fC
-NB
+qM
+qM
 NQ
 NQ
 NQ
@@ -8556,7 +7771,7 @@ NQ
 po
 NQ
 Yb
-fC
+qM
 qM
 NC
 vn
@@ -8569,8 +7784,8 @@ qM
 qM
 qM
 qM
-lF
-Ou
+qM
+qM
 NQ
 NQ
 yR
@@ -8584,8 +7799,8 @@ Ks
 NQ
 NQ
 NQ
-hw
-Fd
+qM
+qM
 PU
 qM
 qM
@@ -8611,7 +7826,7 @@ qE
 kN
 Ir
 qM
-Cw
+rZ
 EA
 xS
 RI
@@ -8623,17 +7838,17 @@ Wi
 Wi
 EA
 qJ
-aY
-PN
+qJ
+EA
 US
 Qz
-Ci
-mG
-NB
+qM
+Ug
+qM
 qw
 NQ
-Ci
-ao
+qM
+qM
 NQ
 Ks
 Ks
@@ -8645,7 +7860,7 @@ NQ
 po
 NQ
 Yb
-fC
+qM
 qM
 NC
 bM
@@ -8658,7 +7873,7 @@ qM
 qM
 qM
 qM
-NB
+qM
 NQ
 NQ
 NQ
@@ -8674,9 +7889,9 @@ NQ
 NQ
 NQ
 NQ
-hw
-xF
-Fd
+qM
+PU
+qM
 KK
 qM
 IS
@@ -8712,29 +7927,29 @@ ip
 Cl
 qM
 qM
-Ky
+Ug
 NQ
 NQ
 po
-fC
 qM
-MA
-ao
+qM
+IS
+qM
 JY
-fC
-Rz
-Sq
-ao
+qM
+qM
+PH
+qM
 NQ
-Ci
-Le
-Le
-ao
+qM
+qM
+qM
+qM
 NQ
 po
 NQ
 zf
-fC
+qM
 qM
 NC
 gk
@@ -8765,7 +7980,7 @@ Ks
 NQ
 Fy
 po
-fC
+qM
 qM
 qM
 IS
@@ -8800,30 +8015,30 @@ tn
 tn
 tn
 Zh
-dV
-CD
+qM
+QB
 NQ
 NQ
 po
-hw
-dV
+qM
+qM
 vW
-Ou
+qM
 NQ
-hw
-dV
+qM
+qM
 vW
-Ou
+qM
 NQ
-hw
-dV
-dV
-vF
+qM
+qM
+qM
+ii
 NQ
 po
 NQ
 Yb
-fC
+qM
 NC
 NC
 sX
@@ -8854,7 +8069,7 @@ Nn
 Ks
 Ks
 po
-fC
+qM
 qM
 Ug
 Cl
@@ -8912,7 +8127,7 @@ NQ
 po
 NQ
 Yb
-fC
+qM
 NC
 Fc
 Qe
@@ -8943,7 +8158,7 @@ NQ
 Ks
 NQ
 po
-Yy
+IS
 KK
 Cl
 Cl
@@ -9032,7 +8247,7 @@ CZ
 NQ
 NQ
 po
-fC
+qM
 hN
 hN
 ip
@@ -9121,7 +8336,7 @@ sW
 NQ
 NQ
 po
-fC
+qM
 hN
 hN
 ip
@@ -9210,7 +8425,7 @@ sW
 SP
 NQ
 po
-fC
+qM
 hN
 qM
 qM
@@ -9245,14 +8460,14 @@ PT
 hx
 hx
 hx
-Le
-Le
-Le
-Le
-ao
+qM
+qM
+qM
+qM
+qM
 NQ
-Ci
-Sd
+qM
+vW
 NQ
 po
 NQ
@@ -9265,10 +8480,10 @@ NQ
 NQ
 dA
 NQ
-Ci
-Le
+qM
+qM
 bl
-SA
+PU
 NC
 rj
 Ij
@@ -9298,8 +8513,8 @@ bU
 sW
 NQ
 NQ
-rO
-NG
+PU
+qM
 Ug
 cU
 qM
@@ -9338,25 +8553,25 @@ PT
 PT
 PT
 SE
-dY
+Nf
 NQ
-Nh
-Ou
+IS
+qM
 NQ
 po
 NQ
 NQ
-Ci
-Le
-ZZ
-Le
-ao
+qM
+qM
+IS
+qM
+qM
 NQ
 JY
-Ci
-NG
+qM
+qM
 Ug
-pQ
+bl
 Ho
 FM
 KQ
@@ -9387,7 +8602,7 @@ bU
 sW
 eL
 NQ
-GB
+PU
 qM
 qM
 PH
@@ -9427,7 +8642,7 @@ Lo
 Uh
 XZ
 SE
-ZE
+IS
 NQ
 NQ
 NQ
@@ -9435,14 +8650,14 @@ NQ
 po
 NQ
 NQ
-fC
+qM
 sT
 hN
 hN
-ZE
-Ci
-Le
-Co
+IS
+qM
+qM
+Nf
 hN
 hN
 pi
@@ -9476,7 +8691,7 @@ bU
 sW
 NQ
 NQ
-GB
+PU
 qM
 qM
 IS
@@ -9516,7 +8731,7 @@ qE
 bi
 vq
 SE
-NB
+qM
 Ks
 JY
 NQ
@@ -9524,12 +8739,12 @@ NQ
 po
 NQ
 NQ
-fC
+qM
 hN
 hN
-zd
-Ou
-Bi
+Cl
+qM
+hB
 hN
 hN
 hN
@@ -9565,7 +8780,7 @@ ua
 sW
 NQ
 Yv
-GB
+PU
 qM
 IS
 IS
@@ -9605,20 +8820,20 @@ qE
 na
 wU
 SE
-MA
-ZZ
-Le
-ao
+IS
+IS
+qM
+qM
 Rl
 po
 NQ
 NQ
-fC
+qM
 Cl
 Cl
-NB
+qM
 NQ
-fC
+qM
 Cl
 Cl
 hN
@@ -9653,8 +8868,8 @@ bU
 bU
 sW
 NQ
-Ci
-SA
+qM
+PU
 qM
 qM
 qM
@@ -9697,17 +8912,17 @@ SE
 IS
 Nf
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 qM
 hN
-Rz
-Le
-vI
+qM
+qM
+Cl
 Cl
 ip
 ip
@@ -9742,7 +8957,7 @@ bU
 bU
 sW
 NQ
-fC
+qM
 PU
 qM
 qM
@@ -9786,12 +9001,12 @@ SE
 IS
 qM
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 Ug
 Cl
 Cl
@@ -9831,9 +9046,9 @@ bU
 bU
 sW
 NQ
-hw
-xF
-Fd
+qM
+PU
+qM
 Cl
 hN
 hN
@@ -9869,27 +9084,27 @@ hx
 hx
 hx
 gE
-dV
-dV
-dV
-iU
-Fd
+qM
+qM
+qM
+IS
+qM
 hN
-NB
+qM
 NQ
 po
 NQ
 Ks
-fC
+qM
 qM
 hB
 hN
 hN
 hN
-lF
-dV
-dV
-dV
+qM
+qM
+qM
+qM
 tQ
 uN
 NC
@@ -9922,7 +9137,7 @@ sW
 NQ
 Ks
 po
-fC
+qM
 hN
 hN
 hN
@@ -9962,16 +9177,16 @@ Pl
 wV
 Pl
 Pl
-Ue
-sR
-pa
+uG
+uG
+uG
 Pl
 Jj
 Pl
 Pl
-zi
+uG
 rB
-sP
+uG
 ws
 ws
 uG
@@ -10011,7 +9226,7 @@ sW
 Ks
 Ks
 po
-cr
+sT
 hN
 hN
 Cl
@@ -10045,7 +9260,7 @@ tn
 cV
 eH
 tn
-NB
+qM
 yW
 UW
 go
@@ -10058,17 +9273,17 @@ go
 Qz
 NQ
 NQ
-fC
+qM
 qM
 sT
 hN
 hN
-NB
+qM
 Ks
 NQ
 NQ
-Ci
-NG
+qM
+qM
 PU
 NC
 NC
@@ -10099,8 +9314,8 @@ bU
 sW
 Ks
 Ks
-rO
-NG
+PU
+qM
 hN
 hN
 sT
@@ -10134,29 +9349,29 @@ DV
 ZG
 eH
 tn
-ZE
+IS
 NQ
 PO
 be
 PJ
 NQ
-Ci
-oS
-ao
+qM
+Cl
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 qM
 hN
 hN
 vN
-Cq
-oA
+EA
+EA
 UW
-Uq
-cC
+EA
+EA
 EA
 gY
 NC
@@ -10187,8 +9402,8 @@ bU
 bU
 sW
 NQ
-Ci
-NP
+qM
+Bb
 Cl
 hN
 qM
@@ -10223,28 +9438,28 @@ DV
 PG
 cV
 tn
-ZE
+IS
 Ks
 po
 NQ
-Ci
-Le
-Zu
+qM
+qM
+sT
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 hN
 hN
 hN
 hN
 IS
-MA
-xU
-vI
+IS
+Ho
+Cl
 hN
 hN
 Cl
@@ -10275,8 +9490,8 @@ cS
 eb
 bU
 sW
-Ci
-vI
+qM
+Cl
 Ho
 Cl
 Nf
@@ -10312,28 +9527,28 @@ tn
 tn
 tn
 tn
-Rz
-ZZ
-XN
-Le
-WD
+qM
+IS
+uN
+qM
+Kk
 hN
 hN
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 IS
 hN
 hN
 hN
 hN
-zd
-ti
-gJ
+Cl
+Ho
+ip
 ip
 hN
 Cl
@@ -10350,7 +9565,7 @@ qO
 qO
 qO
 Ms
-ao
+qM
 NQ
 Ks
 NQ
@@ -10364,7 +9579,7 @@ NQ
 cS
 rT
 pz
-xz
+Cl
 hN
 kv
 EA
@@ -10409,20 +9624,20 @@ hN
 hN
 hN
 KK
-NB
+qM
 JY
 po
 NQ
 NQ
-hw
-dV
-iU
-dV
-WX
-WX
-gV
+qM
+qM
+IS
+qM
+Cl
+Cl
+ip
 Eq
-fC
+qM
 ip
 hN
 Cl
@@ -10439,7 +9654,7 @@ qM
 qM
 qM
 qM
-NB
+qM
 NQ
 NQ
 NQ
@@ -10452,8 +9667,8 @@ NQ
 NQ
 NQ
 NQ
-xP
-vI
+Cl
+Cl
 Cl
 Cl
 qM
@@ -10491,14 +9706,14 @@ hN
 Cl
 Cl
 Cl
-Ff
+sN
 Ho
 hN
 hN
 hN
 hN
 jq
-DU
+EA
 go
 Qz
 NQ
@@ -10511,7 +9726,7 @@ Cn
 go
 go
 qr
-gS
+KK
 hN
 hN
 hN
@@ -10528,8 +9743,8 @@ qM
 qM
 qM
 qM
-Rz
-ao
+qM
+qM
 NQ
 NQ
 NQ
@@ -10539,9 +9754,9 @@ eL
 NQ
 sj
 Rl
-xP
-oS
-vI
+Cl
+Cl
+Cl
 hN
 hN
 hN
@@ -10587,20 +9802,20 @@ ip
 hN
 hN
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-Ci
-Le
-iE
+qM
+qM
+ra
 NQ
 po
 NQ
 NQ
 NQ
-xz
+Cl
 hN
 hN
 hN
@@ -10618,17 +9833,17 @@ qM
 qM
 qM
 qM
-Rz
-Le
-Le
-ao
+qM
+qM
+qM
+qM
 NE
 NQ
 PJ
 Ks
 wO
-xP
-vI
+Cl
+Cl
 hN
 hN
 hN
@@ -10661,10 +9876,10 @@ PV
 ip
 hN
 qM
-CN
-dV
-xF
-Fd
+KK
+qM
+PU
+qM
 Kk
 qM
 hN
@@ -10676,20 +9891,20 @@ ip
 Cl
 hN
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 hN
-Ty
-ao
+Cl
+qM
 Qf
 Ks
 Ks
-Ci
-Oh
+qM
+ip
 ip
 hN
 sT
@@ -10710,13 +9925,13 @@ qM
 qM
 qM
 qM
-Rz
-ao
+qM
+qM
 NQ
 Ks
 Ks
-xP
-vI
+Cl
+Cl
 hN
 hN
 hN
@@ -10749,11 +9964,11 @@ tn
 PV
 IS
 Cl
-lF
-Ou
+qM
+qM
 Rl
 po
-gS
+KK
 qM
 Cl
 hN
@@ -10765,19 +9980,19 @@ ip
 ip
 ip
 hN
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 Cl
 hN
-vc
+Cl
 po
 NQ
-Ci
-Co
+qM
+Nf
 ip
 Cl
 IS
@@ -10800,11 +10015,11 @@ qM
 qM
 qM
 qM
-Rz
-FQ
+qM
+Cl
 Ks
-xP
-vI
+Cl
+Cl
 hN
 hN
 hN
@@ -10838,11 +10053,11 @@ qM
 PU
 Cl
 Cl
-NB
+qM
 Ks
 NQ
-rO
-NG
+PU
+qM
 hN
 hN
 hN
@@ -10859,13 +10074,13 @@ NQ
 po
 Ks
 NQ
-fC
+qM
 Cl
 hN
-hu
-OU
-oS
-WD
+ip
+PV
+Cl
+Kk
 hN
 hN
 ip
@@ -10890,8 +10105,8 @@ qM
 qM
 qM
 Ug
-Ty
-oS
+Cl
+Cl
 uM
 hN
 hN
@@ -10927,10 +10142,10 @@ jq
 eR
 RI
 EA
-yI
-ln
-ln
-sE
+lu
+EA
+EA
+Mp
 hN
 hN
 hN
@@ -10943,12 +10158,12 @@ hN
 ip
 Cl
 Cl
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 qM
 IS
 qM
@@ -11023,21 +10238,21 @@ hN
 hN
 hN
 hN
-Yx
-WX
-gB
+oE
+Cl
+Cl
 hN
 hN
 hN
 hN
 Cl
 qM
-NB
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 qM
 sT
 qM
@@ -11061,7 +10276,7 @@ hN
 hN
 hN
 hN
-qM
+ip
 qM
 qM
 qM
@@ -11072,11 +10287,11 @@ hN
 hN
 hN
 sT
-lF
-iU
+qM
+IS
 Qt
-py
-VE
+EA
+EA
 EA
 EA
 RI
@@ -11110,48 +10325,48 @@ Di
 hN
 hN
 hN
-Yx
-sy
-Kb
+oE
+oE
+oE
 wO
 oE
-gB
+Cl
 hN
 hN
 hN
 hN
 IS
-NB
+qM
 NQ
 po
 NQ
 NQ
-hw
-dV
-dV
-dV
-xF
-dV
-dV
-dV
-dV
-dV
-dV
-Fd
+qM
+qM
+qM
+qM
+PU
 qM
 qM
 qM
 qM
 qM
 qM
+qM
+qM
+qM
+qM
+qM
+qM
+ip
 Cl
-qM
+Cl
 Cl
 hN
 hN
-qM
-qM
-qM
+ip
+jD
+ip
 qM
 qM
 qM
@@ -11160,13 +10375,13 @@ Cl
 hN
 hN
 Ea
-lF
-Ou
+qM
+qM
 oO
 MN
 CZ
-hw
-nt
+qM
+sT
 qM
 Ug
 EO
@@ -11195,22 +10410,22 @@ hN
 hN
 hN
 Cl
-Ad
-WX
-dV
-dV
-Ou
+Ho
+Cl
+qM
+qM
+qM
 NQ
 JY
 NQ
 Ks
-fC
+qM
 qM
 hN
 hN
 xC
 tl
-NB
+qM
 Ks
 po
 NQ
@@ -11226,22 +10441,22 @@ NQ
 NQ
 NQ
 NQ
-fC
+qM
 Ug
 qM
 qM
-Cl
-Cl
-Cl
-Cl
-Cl
-Cl
-qM
-Cl
 qM
 qM
 qM
-qM
+ip
+ip
+Cl
+Cl
+Cl
+Cl
+Cl
+jD
+ip
 qM
 IS
 qM
@@ -11249,13 +10464,13 @@ hN
 hN
 hN
 qM
-NB
+qM
 Qr
 ey
 Sc
 rp
 CZ
-fC
+qM
 qM
 hN
 EO
@@ -11284,7 +10499,7 @@ Ug
 Ug
 hN
 hN
-nE
+Ho
 NQ
 NQ
 NQ
@@ -11292,14 +10507,14 @@ NQ
 Ks
 KX
 Rl
-Ci
+qM
 hN
 qM
 qM
 hN
 hN
 hN
-NB
+qM
 NQ
 po
 NQ
@@ -11315,36 +10530,36 @@ NQ
 NQ
 NQ
 NQ
-fC
 qM
 qM
 qM
-Cl
-Cl
 qM
-Cl
-Cl
-hN
+qM
+qM
 qM
 Ff
+Ff
+Ff
+Ff
+Ff
 Cl
-qM
-qM
-qM
-qM
+Cl
+Cl
+jD
+Cl
 IS
 IS
 hN
 hN
 hN
 Nf
-NB
+qM
 Ud
 ua
 Sc
 Mt
 pz
-fC
+qM
 hN
 EO
 EO
@@ -11373,7 +10588,7 @@ qM
 Ug
 qM
 qM
-SZ
+rZ
 go
 go
 go
@@ -11381,14 +10596,14 @@ zI
 go
 rY
 zI
-Zm
+EA
 nc
 vP
 Oi
 Vh
 qL
 pw
-PN
+EA
 go
 rY
 go
@@ -11404,36 +10619,36 @@ go
 go
 aA
 Ks
-fC
 qM
 qM
 qM
-Cl
-Cl
-Cl
 qM
-hN
-hN
 qM
-Cl
+qM
 Ff
+Ff
+KZ
+VC
+VJ
+Ff
+ip
 Cl
-qM
-qM
-qM
+hN
+hN
+Cl
 IS
 Cl
 hN
 hN
 hN
 Ug
-NB
+qM
 cS
 rT
 AN
 pz
-Ci
-MZ
+qM
+IS
 hN
 EO
 Dr
@@ -11462,20 +10677,20 @@ EO
 qM
 KK
 qM
-NB
+qM
 NQ
-Ci
-Le
-Le
-Le
-ao
+qM
+qM
+qM
+qM
+qM
 vo
-NG
+qM
 Cl
 mL
 hN
-zx
-uP
+jD
+jD
 Ks
 NQ
 NQ
@@ -11493,35 +10708,35 @@ NQ
 NQ
 po
 NQ
-fC
+qM
 KK
 qM
 qM
+qM
+qM
+Ff
+ri
+HL
+bT
+bT
+Ff
+Cl
 hN
 hN
 hN
+Cl
+Cl
+Cl
+Cl
 hN
 hN
 hN
 qM
 qM
-Cl
-hN
-hN
-qM
-qM
-Cl
-Cl
-Cl
-hN
-hN
-hN
-Rz
-ao
 Ks
-rO
-Le
-Zu
+PU
+qM
+sT
 hN
 EO
 EO
@@ -11551,54 +10766,54 @@ EO
 EO
 hN
 Nf
-Rz
-pU
-NG
+qM
+cU
+qM
 hN
 qM
 hN
 hN
-iq
+oE
 Cl
 ty
-hd
-zx
-uP
+ft
+jD
+jD
 av
-ir
-Le
-Le
-Le
-Le
-Le
-Le
-ao
+jD
+qM
+qM
+qM
+qM
+qM
+qM
+qM
 NQ
-Ci
-Le
-Le
-ao
+qM
+qM
+qM
+qM
 NQ
 NQ
 po
 NQ
-hw
-Fd
-qM
-qM
-hN
-hN
-hN
-hN
-hN
 qM
 qM
 qM
-hN
+qM
+qM
+qM
+XI
+HL
+bT
+HL
+UY
+Ff
+dM
 hN
 hN
 Cl
-qM
+Cl
 qM
 qM
 Cl
@@ -11606,9 +10821,9 @@ Cl
 hN
 hN
 hN
-Rz
-Le
-SA
+qM
+qM
+PU
 hN
 hN
 EO
@@ -11648,12 +10863,12 @@ hN
 hN
 Cl
 Ji
-zx
-WX
-ti
-uP
+jD
+Cl
+Ho
+jD
 wj
-Lz
+KK
 ip
 hN
 hN
@@ -11661,29 +10876,29 @@ hN
 hN
 hN
 hN
-NB
-NQ
-hw
-cm
 qM
-NB
+NQ
+qM
+KK
+qM
+qM
 NQ
 NQ
 po
 NQ
 NQ
-hw
 qM
 qM
 qM
 qM
 qM
-qM
-qM
-qM
-hN
-hN
-hN
+Ff
+GX
+bT
+bT
+DM
+Ff
+Cl
 Cl
 Cl
 Cl
@@ -11736,43 +10951,43 @@ qM
 Cl
 ip
 ip
-An
-Ou
+ip
+qM
 NQ
 po
 NQ
 NQ
-fC
+qM
 ip
 Cl
 hN
 hN
 hN
 hN
-zd
-Ou
+Cl
+qM
 NQ
 Rl
-hw
-dV
-Ou
+qM
+qM
+qM
 NQ
 NQ
 po
 NQ
 NQ
 Ks
-Nh
-nt
-Kk
+IS
+sT
 qM
 qM
-qM
-qM
-qM
-hN
-hN
-Cl
+Ff
+Ff
+eU
+NL
+HY
+Ff
+sN
 Cl
 Cl
 qM
@@ -11825,20 +11040,20 @@ Cl
 Kk
 Cl
 ip
-NB
+qM
 tR
 fr
 po
 NQ
 NQ
-fC
+qM
 Cl
 Cl
 IS
 qM
 ip
-zd
-ce
+Cl
+Cl
 NQ
 Rw
 NQ
@@ -11852,15 +11067,15 @@ NQ
 NQ
 NQ
 Ks
-Yy
-qM
-KK
-sT
+IS
 qM
 qM
 qM
-qM
-qM
+Ff
+Ff
+Ff
+Ff
+Ff
 Cl
 qM
 Kk
@@ -11910,23 +11125,23 @@ EO
 EO
 hN
 hN
-TJ
+oE
 Cl
 Cl
-zx
-Ou
+jD
+qM
 NQ
 Ld
 po
 NQ
 NQ
-fC
+qM
 hN
 Cl
 qM
 Cl
 ip
-vc
+Cl
 Ks
 NQ
 Ks
@@ -11941,15 +11156,15 @@ NQ
 NQ
 JY
 NQ
-Yy
+IS
 qM
 qM
+ip
+ip
+ip
+ip
 Cl
-qM
-qM
-qM
-qM
-qM
+Cl
 ip
 ip
 ip
@@ -12009,14 +11224,14 @@ da
 QV
 NQ
 NQ
-fC
+qM
 ip
 Cl
 hN
 ip
 hN
-Ty
-nR
+Cl
+IS
 RJ
 NQ
 NQ
@@ -12029,12 +11244,12 @@ po
 NQ
 NQ
 NQ
-Ci
-NG
+qM
+qM
 KK
 IS
 Cl
-Cl
+ip
 ip
 ip
 Cl
@@ -12091,21 +11306,21 @@ EO
 Cl
 Cl
 qM
-JQ
-ao
+jD
+qM
 NQ
 SI
 po
 NQ
-Ci
-NG
+qM
+qM
 ip
 Cl
 hN
 hN
 hN
 hN
-NB
+qM
 NQ
 NQ
 JY
@@ -12118,7 +11333,7 @@ po
 NQ
 NQ
 NQ
-yT
+Nf
 hN
 IS
 IS
@@ -12166,7 +11381,7 @@ qE
 qE
 qE
 hx
-lb
+HY
 lb
 lb
 lb
@@ -12181,12 +11396,12 @@ EO
 Cl
 qM
 hN
-Rz
-ao
+qM
+qM
 NQ
 LP
 go
-Za
+Di
 ip
 hN
 hN
@@ -12194,10 +11409,10 @@ hN
 hN
 hN
 hN
-MA
-ZZ
-Le
-ao
+IS
+IS
+qM
+qM
 NQ
 NQ
 NQ
@@ -12206,8 +11421,8 @@ NQ
 po
 NQ
 NQ
-Ci
-MZ
+qM
+IS
 hN
 IS
 Ug
@@ -12271,10 +11486,10 @@ EO
 Cl
 hN
 ip
-Rz
-Le
-Le
-Am
+qM
+qM
+qM
+ip
 ft
 Cl
 Cl
@@ -12286,8 +11501,8 @@ hN
 hN
 Cl
 Cl
-bz
-ao
+Ug
+qM
 eL
 NQ
 NQ
@@ -12295,7 +11510,7 @@ NQ
 oa
 go
 go
-Tv
+Sl
 hN
 hN
 hN
@@ -12376,15 +11591,15 @@ hN
 hN
 Wl
 RI
-nl
-ln
-oA
+qJ
+EA
+EA
 go
 go
 qG
 NQ
 NQ
-fC
+qM
 hN
 hN
 hN
@@ -12453,28 +11668,28 @@ ip
 hN
 hN
 Cl
-MI
-zh
-Fd
+PU
+Ug
+qM
 hN
 hN
-lF
-Tb
-Fd
+qM
+sT
+qM
 hN
 hN
 PU
 Cl
 hN
 Cl
-NB
+qM
 NQ
 NQ
 po
 NQ
 NQ
-Og
-Fd
+sT
+qM
 hN
 hN
 ip
@@ -12541,29 +11756,29 @@ EO
 EO
 EO
 hN
-zd
-RE
+Cl
+rZ
 go
-QY
-py
-py
-PN
+qJ
+EA
+EA
+EA
 go
-TG
-yH
-sO
+lu
+RI
+RI
 ZA
 Cl
 hN
-zd
-Ou
+Cl
+qM
 NQ
 NQ
 po
 NQ
 NQ
 JY
-fC
+qM
 hN
 Cl
 Cl
@@ -12640,11 +11855,11 @@ dx
 NQ
 Br
 Ks
-xz
+Cl
 Cl
 hN
 hN
-NB
+qM
 NQ
 NQ
 NQ
@@ -12652,7 +11867,7 @@ po
 Ks
 NQ
 NQ
-Yy
+IS
 ip
 Cl
 IS
@@ -12728,12 +11943,12 @@ NQ
 Ks
 NQ
 NQ
-Ci
-NG
+qM
+qM
 hN
 hN
 hN
-NB
+qM
 NQ
 NQ
 NQ
@@ -12741,7 +11956,7 @@ oa
 go
 go
 zI
-Pu
+RI
 Wi
 RI
 qJ
@@ -12816,21 +12031,21 @@ EO
 NQ
 Ks
 eL
-Lz
-NG
+KK
+qM
 hN
 hN
 hN
 Nf
-NB
+qM
 NQ
 NQ
 NQ
 po
 NQ
-Ci
-oS
-vI
+qM
+Cl
+Cl
 ip
 IS
 IS
@@ -12911,13 +12126,13 @@ hN
 hN
 Cl
 YD
-Pm
-TB
+tl
+KK
 NQ
 NQ
 po
 NQ
-fC
+qM
 Cl
 hN
 hN
@@ -13001,12 +12216,12 @@ EO
 EO
 qM
 qM
-NB
+qM
 NQ
 NQ
 po
 NQ
-AI
+HY
 hN
 hN
 EO
