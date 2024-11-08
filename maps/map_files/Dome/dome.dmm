@@ -5106,10 +5106,20 @@
 	})
 "Yi" = (
 /obj/structure/surface/table/almayer,
-/obj/item/clothing/accessory/patch/royal_marines,
-/obj/item/reagent_container/food/drinks/flask/weylandyutani,
-/obj/item/book/codebook/wey_yu,
-/obj/item/tool/stamp/weyyu,
+/obj/item/clothing/accessory/patch/royal_marines{
+	pixel_x = -14;
+	pixel_y = -2
+	},
+/obj/item/reagent_container/food/drinks/flask/weylandyutani{
+	pixel_x = 10;
+	pixel_y = 13
+	},
+/obj/item/book/codebook/wey_yu{
+	pixel_y = 7
+	},
+/obj/item/tool/stamp/weyyu{
+	pixel_x = 10
+	},
 /turf/open/floor/almayer,
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
