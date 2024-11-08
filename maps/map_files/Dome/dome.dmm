@@ -1322,7 +1322,7 @@
 "od" = (
 /obj/structure/flora/bush/ausbushes/grassybush,
 /obj/structure/pipes/standard/simple/hidden/green,
-/turf/open/auto_turf/strata_grass/layer1,
+/turf/open/gm/dirt,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -1444,7 +1444,7 @@
 "pw" = (
 /obj/structure/pipes/standard/simple/hidden/green,
 /obj/structure/flora/jungle/vines/heavy,
-/turf/open/auto_turf/strata_grass/layer1,
+/turf/open/gm/dirt,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -7306,7 +7306,7 @@ pz
 NQ
 NQ
 Ks
-qM
+NQ
 qM
 PU
 hN
@@ -7394,7 +7394,7 @@ IK
 kt
 zI
 EA
-EA
+go
 go
 od
 Mp
@@ -7484,7 +7484,7 @@ po
 NQ
 qM
 qM
-qM
+NQ
 NQ
 NQ
 qM
@@ -10507,9 +10507,9 @@ hN
 qM
 qM
 hN
-hN
-hN
-qM
+ip
+ip
+NQ
 NQ
 po
 NQ
@@ -10598,7 +10598,7 @@ Oi
 Vh
 qL
 pw
-EA
+go
 go
 rY
 go
@@ -10683,9 +10683,9 @@ vo
 qM
 Cl
 mL
-hN
+ip
 jD
-jD
+av
 Ks
 NQ
 NQ
@@ -10773,9 +10773,9 @@ Cl
 ty
 ft
 jD
-jD
 av
-jD
+av
+av
 qM
 qM
 qM
@@ -10861,11 +10861,11 @@ Ji
 jD
 Cl
 Ho
-jD
+av
 wj
-KK
+JY
 ip
-hN
+ip
 hN
 hN
 hN
