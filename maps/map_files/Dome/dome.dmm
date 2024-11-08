@@ -138,9 +138,6 @@
 	powernet_name = "golden_arrow"
 	})
 "bM" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
-	},
 /obj/structure/sign/poster{
 	desc = "This poster features Audrey Rainwater standing in a jacuzzi. She was the July 2182 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that.";
 	icon_state = "poster16";
@@ -156,6 +153,9 @@
 	pixel_x = 4;
 	pixel_y = 38;
 	serial_number = 12
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
 	},
 /turf/open/floor/almayer/dark_sterile,
 /area/lv624/lazarus/canteen{
@@ -808,16 +808,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"ii" = (
-/obj/structure/machinery/colony_floodlight{
-	dir = 8;
-	light_on = 1
-	},
-/turf/open/auto_turf/strata_grass/layer1,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "im" = (
 /obj/structure/pipes/standard/simple/hidden/universal,
 /turf/open/floor/corsat/squares,
@@ -893,16 +883,6 @@
 /turf/open/floor/corsat/red/north,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
-	powernet_name = "golden_arrow"
-	})
-"iM" = (
-/obj/structure/machinery/colony_floodlight{
-	dir = 8;
-	light_on = 1
-	},
-/turf/open/gm/dirt,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "iV" = (
@@ -1381,14 +1361,6 @@
 	})
 "oO" = (
 /turf/open/gm/coast/beachcorner/north_west,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"oW" = (
-/obj/structure/pipes/standard/simple/hidden/green,
-/obj/structure/machinery/colony_floodlight,
-/turf/open/gm/dirt,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -2085,18 +2057,6 @@
 	name = "XM2 Recreational Biodome - Bar";
 	powernet_name = "golden_arrow"
 	})
-"vn" = (
-/obj/structure/mineral_door/wood{
-	name = "Bathrooms"
-	},
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 6
-	},
-/turf/open/floor/almayer/dark_sterile,
-/area/lv624/lazarus/canteen{
-	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
 "vo" = (
 /obj/structure/flora/bush/ausbushes/var3/fullgrass,
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
@@ -2137,15 +2097,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"vz" = (
-/obj/structure/pipes/vents/pump{
-	dir = 4
-	},
-/turf/closed/wall/wood,
-/area/lv624/lazarus/canteen{
-	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
 "vM" = (
 /obj/structure/machinery/vending/cola,
 /turf/open/floor/wood,
@@ -2178,15 +2129,6 @@
 /turf/open/floor/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
-	powernet_name = "golden_arrow"
-	})
-"vW" = (
-/obj/structure/machinery/colony_floodlight{
-	dir = 4
-	},
-/turf/open/auto_turf/strata_grass/layer1,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
 "vY" = (
@@ -3805,6 +3747,9 @@
 	dir = 8;
 	light_range = 5;
 	breakable = 0
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 4
 	},
 /turf/open/floor/almayer/dark_sterile,
 /area/lv624/lazarus/canteen{
@@ -6960,13 +6905,13 @@ qM
 qM
 IS
 qM
-ii
+qM
 NQ
 po
 NQ
 Yb
-iM
-qM
+NQ
+QB
 qM
 qM
 qM
@@ -7494,12 +7439,12 @@ hN
 qM
 qM
 NQ
-iM
+NQ
 NQ
 po
 NQ
 Yb
-iM
+NQ
 qM
 qM
 qM
@@ -7582,7 +7527,7 @@ hN
 hN
 PH
 qM
-qM
+QB
 NQ
 NQ
 po
@@ -7769,8 +7714,8 @@ Yb
 qM
 qM
 NC
-vn
-vz
+GE
+NC
 GE
 NC
 qM
@@ -8017,18 +7962,18 @@ NQ
 po
 qM
 qM
-vW
 qM
-NQ
-qM
-qM
-vW
 qM
 NQ
 qM
 qM
 qM
-ii
+QB
+NQ
+qM
+qM
+qM
+qM
 NQ
 po
 NQ
@@ -8462,18 +8407,18 @@ qM
 qM
 NQ
 qM
-vW
+QB
 NQ
 po
 NQ
 NQ
-dA
 NQ
 NQ
 NQ
 NQ
 NQ
-dA
+NQ
+NQ
 NQ
 qM
 qM
@@ -8563,7 +8508,7 @@ qM
 qM
 NQ
 JY
-qM
+QB
 qM
 Ug
 bl
@@ -8996,7 +8941,7 @@ SE
 IS
 qM
 hN
-qM
+QB
 NQ
 po
 NQ
@@ -9263,7 +9208,7 @@ go
 go
 fc
 go
-oW
+go
 go
 Qz
 NQ
@@ -9535,7 +9480,7 @@ NQ
 po
 NQ
 NQ
-qM
+QB
 IS
 hN
 hN
@@ -10703,8 +10648,8 @@ NQ
 NQ
 po
 NQ
-qM
-KK
+NQ
+JY
 qM
 qM
 qM
@@ -10785,19 +10730,19 @@ qM
 qM
 NQ
 qM
-qM
+QB
 qM
 qM
 NQ
 NQ
 po
 NQ
-qM
-qM
-qM
-qM
-qM
-qM
+NQ
+NQ
+NQ
+NQ
+NQ
+NQ
 XI
 HL
 bT
@@ -10882,9 +10827,9 @@ NQ
 po
 NQ
 NQ
-qM
-qM
-qM
+NQ
+NQ
+NQ
 qM
 qM
 Ff
@@ -10972,7 +10917,7 @@ po
 NQ
 NQ
 Ks
-IS
+NQ
 sT
 qM
 qM
