@@ -559,6 +559,16 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
+"gi" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "gj" = (
 /obj/structure/platform/kutjevo{
 	dir = 8
@@ -1504,6 +1514,16 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
+"qs" = (
+/obj/structure/machinery/power/apc/almayer/north{
+	pixel_y = 0
+	},
+/turf/open/floor/corsat/squares,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
+	powernet_name = "golden_arrow"
+	})
 "qw" = (
 /obj/structure/flora/bush/ausbushes/grassybush,
 /turf/open/gm/dirt,
@@ -2152,8 +2172,9 @@
 	dir = 4
 	},
 /turf/open/floor/corsat/squares,
-/area/lv624/lazarus/hop{
-	name = "XM2 Recreational Biodome - Control Module";
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "ws" = (
@@ -2510,6 +2531,13 @@
 /turf/open/floor/plating/platingdmg3,
 /area/lv624/lazarus/hop{
 	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ay" = (
+/turf/open/floor/corsat/squares,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "AC" = (
@@ -3416,16 +3444,6 @@
 	name = "XM2 Recreational Biodome - Dorms";
 	powernet_name = "golden_arrow"
 	})
-"HY" = (
-/obj/structure/machinery/power/apc/almayer/north{
-	pixel_y = 0
-	},
-/turf/open/space/basic,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
 "HZ" = (
 /obj/structure/stairs/perspective/kutjevo{
 	dir = 4;
@@ -4012,6 +4030,13 @@
 /turf/closed/wall/wood,
 /area/lv624/lazarus/canteen{
 	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"ND" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/lv624/ground/jungle/west_jungle/ceiling{
+	ceiling = 1.1;
+	name = "XM2 Recreational Biodome - Maintenance Shed";
 	powernet_name = "golden_arrow"
 	})
 "NE" = (
@@ -11138,11 +11163,11 @@ lb
 lb
 lb
 lb
-hx
-hx
-lq
-hx
-hx
+ND
+ND
+gi
+ND
+ND
 lb
 lb
 lb
@@ -11227,11 +11252,11 @@ lb
 lb
 lb
 lb
-hx
-qE
+ND
+Ay
 wm
-qE
-hx
+Ay
+ND
 lb
 lb
 lb
@@ -11316,12 +11341,12 @@ lb
 lb
 lb
 lb
-hx
-qE
-qE
-qE
-hx
-HY
+ND
+qs
+Ay
+Ay
+ND
+lb
 lb
 lb
 lb
@@ -11405,11 +11430,11 @@ lb
 lb
 lb
 lb
-hx
-qE
-qE
-qE
-hx
+ND
+Ay
+Ay
+Ay
+ND
 lb
 lb
 lb
@@ -11494,11 +11519,11 @@ lb
 lb
 lb
 lb
-hx
-hx
-hx
-hx
-hx
+ND
+ND
+ND
+ND
+ND
 lb
 lb
 lb
