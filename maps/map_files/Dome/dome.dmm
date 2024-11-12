@@ -167,7 +167,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "bU" = (
 /turf/open/gm/river,
@@ -457,7 +458,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "fc" = (
 /obj/structure/flora/bush/ausbushes/var3/fernybush,
@@ -564,11 +566,7 @@
 	dir = 4
 	},
 /turf/closed/wall/r_wall/biodome/biodome_unmeltable,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
+/area/space)
 "gj" = (
 /obj/structure/platform/kutjevo{
 	dir = 8
@@ -1514,16 +1512,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"qs" = (
-/obj/structure/machinery/power/apc/almayer/north{
-	pixel_y = 0
-	},
-/turf/open/floor/corsat/squares,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
 "qw" = (
 /obj/structure/flora/bush/ausbushes/grassybush,
 /turf/open/gm/dirt,
@@ -1631,11 +1619,15 @@
 /obj/item/frame/table/wood/fancy,
 /obj/item/frame/table/wood/fancy,
 /obj/structure/closet/crate,
+/obj/structure/machinery/power/apc/almayer/north{
+	pixel_y = 32
+	},
 /turf/open/floor/almayer,
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "rj" = (
 /obj/structure/surface/table/woodentable/fancy,
@@ -2172,11 +2164,7 @@
 	dir = 4
 	},
 /turf/open/floor/corsat/squares,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
+/area/space)
 "ws" = (
 /obj/structure/disposalpipe/segment,
 /turf/closed/gm/dense,
@@ -2535,11 +2523,7 @@
 	})
 "Ay" = (
 /turf/open/floor/corsat/squares,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
+/area/space)
 "AC" = (
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/plating/burnt_platingdmg3,
@@ -2939,7 +2923,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "DS" = (
 /obj/structure/pipes/binary/pump/high_power/on{
@@ -3099,7 +3084,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "Fw" = (
 /obj/structure/bed/chair/office/light{
@@ -3379,7 +3365,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "Ho" = (
 /obj/structure/flora/jungle/vines/light_1,
@@ -3421,7 +3408,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "HT" = (
 /obj/effect/decal/cleanable/blood,
@@ -3730,7 +3718,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "Ld" = (
 /obj/structure/bed/chair/wood/normal{
@@ -4034,11 +4023,7 @@
 	})
 "ND" = (
 /turf/closed/wall/r_wall/biodome/biodome_unmeltable,
-/area/lv624/ground/jungle/west_jungle/ceiling{
-	ceiling = 1.1;
-	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
-	})
+/area/space)
 "NE" = (
 /obj/structure/flora/bush/ausbushes/var3/ywflowers,
 /turf/open/gm/dirt,
@@ -4063,7 +4048,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "NO" = (
 /turf/open/gm/coast/west,
@@ -4755,7 +4741,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "Vc" = (
 /obj/structure/platform/kutjevo{
@@ -4807,7 +4794,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "VJ" = (
 /obj/effect/decal/cleanable/dirt,
@@ -4833,7 +4821,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "VN" = (
 /obj/structure/flora/bush/ausbushes/ppflowers,
@@ -4961,16 +4950,18 @@
 	powernet_name = "golden_arrow"
 	})
 "XI" = (
-/obj/structure/machinery/door/airlock/almayer/generic{
-	dir = 2;
-	name = "Shed"
-	},
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/door/airlock/maintenance/colony{
+	dir = 2;
+	name = "Shed";
+	req_one_access = null
+	},
 /turf/open/floor/almayer,
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "XM" = (
 /obj/structure/flora/jungle/vines/heavy,
@@ -5067,7 +5058,8 @@
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
 	name = "XM2 Recreational Biodome - Maintenance Shed";
-	powernet_name = "golden_arrow"
+	powernet_name = "golden_arrow";
+	always_unpowered = 0
 	})
 "Yv" = (
 /obj/structure/flora/bush/ausbushes/lavendergrass,
@@ -11342,7 +11334,7 @@ lb
 lb
 lb
 ND
-qs
+Ay
 Ay
 Ay
 ND
