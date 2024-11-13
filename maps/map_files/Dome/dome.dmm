@@ -3712,8 +3712,19 @@
 	})
 "KZ" = (
 /obj/structure/surface/rack,
-/obj/item/folded_tent/big,
+/obj/item/folded_tent/big{
+	pixel_y = -5
+	},
 /obj/effect/decal/cleanable/dirt,
+/obj/item/clothing/gloves/boxing/blue,
+/obj/item/clothing/gloves/boxing/green{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/obj/item/clothing/gloves/boxing/yellow{
+	pixel_y = 6;
+	pixel_x = -6
+	},
 /turf/open/floor/almayer,
 /area/lv624/ground/jungle/west_jungle/ceiling{
 	ceiling = 1.1;
