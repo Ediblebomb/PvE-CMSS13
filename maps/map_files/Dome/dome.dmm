@@ -3334,32 +3334,32 @@
 	pixel_y = -9;
 	pixel_x = 10
 	},
-/obj/item/clothing/head/helmet/marine/veteran/UPP/naval{
-	pixel_y = 9;
-	pixel_x = 2
-	},
 /obj/item/prop/magazine/book/uppbooklet{
 	pixel_y = -13
 	},
 /obj/item/clothing/head/helmet/marine/veteran/UPP{
-	pixel_y = 3;
-	pixel_x = 6
+	pixel_y = 10;
+	pixel_x = -3
 	},
-/obj/item/clothing/head/helmet/marine/veteran/UPP/heavy{
-	pixel_y = 8;
-	pixel_x = -7
-	},
-/obj/item/clothing/head/helmet/marine/veteran/UPP{
-	pixel_y = 3;
-	pixel_x = -7
-	},
-/obj/item/clothing/head/helmet/marine/veteran/UPP,
 /obj/item/clothing/head/uppcap/peaked/mss{
 	pixel_y = 11;
 	pixel_x = -3
 	},
 /obj/item/flag/plantable/upp{
 	layer = 3.03
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = -7
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP,
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = 6
 	},
 /turf/open/floor/almayer,
 /area/lv624/ground/jungle/west_jungle/ceiling{
