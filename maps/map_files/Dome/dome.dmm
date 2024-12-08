@@ -1392,13 +1392,6 @@
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
 	})
-"pk" = (
-/obj/structure/flora/jungle/plantbot1,
-/turf/closed/gm/dense,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
 "pl" = (
 /obj/structure/bed/chair/comfy/black,
 /turf/open/floor/corsat/plate,
@@ -4571,14 +4564,6 @@
 	})
 "SP" = (
 /turf/open/gm/dirtgrassborder/desert_dug,
-/area/lv624/ground/jungle/west_jungle{
-	name = "XM2 Recreational Biodome";
-	powernet_name = "golden_arrow"
-	})
-"SS" = (
-/obj/structure/flora/bush/ausbushes/var3/fernybush,
-/obj/structure/flora/jungle/planttop1,
-/turf/open/auto_turf/strata_grass/layer1,
 /area/lv624/ground/jungle/west_jungle{
 	name = "XM2 Recreational Biodome";
 	powernet_name = "golden_arrow"
@@ -9664,8 +9649,8 @@ no
 tn
 uN
 IS
-SS
-pk
+KK
+hN
 hN
 hN
 hN
