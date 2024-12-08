@@ -1,8 +1,9 @@
 {
     "override_map": true,
     "map_name": "XM2 Recreational Biodome",
+    "map_path": "map_files/Dome",
     "map_file": "dome.dmm",
-    "announce_text": "USS Golden Arrow currently docked with XM2 Recreational Biodome Facility. Shore leave granted, cargo elevator connected and unlocked. Enjoy your shore leave.",
+    "announce_text": "###SHIPNAME### currently docked with XM2 Recreational Biodome Facility. Shore leave granted, cargo elevator connected and unlocked. Enjoy your shore leave.",
     "weather_holder": "/datum/weather_ss_map_holder/lv624",
     "traits": [{ "Ground": true }],
     "camouflage": "jungle",
