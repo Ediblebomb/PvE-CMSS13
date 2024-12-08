@@ -1,0 +1,11564 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ad" = (
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/obj/structure/machinery/chem_master/condimaster,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"at" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"aA" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 5
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"aO" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"bb" = (
+/obj/structure/machinery/computer/general_air_control/large_tank_control{
+	name = "Mixed Air Control"
+	},
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"bd" = (
+/obj/structure/sink{
+	pixel_y = 24;
+	layer = 3.1
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"be" = (
+/obj/structure/tunnel,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"bi" = (
+/obj/structure/bed/chair/office/light,
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"bk" = (
+/obj/structure/closet/secure_closet/fridge/fish/stock,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"bl" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"bC" = (
+/obj/structure/machinery/vending/dinnerware{
+	pixel_y = 25;
+	can_block_movement = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"bG" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"bM" = (
+/obj/structure/sign/poster{
+	desc = "This poster features Audrey Rainwater standing in a jacuzzi. She was the July 2182 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that.";
+	icon_state = "poster16";
+	name = "'Miss July' Pinup";
+	serial_number = 16;
+	pixel_y = 30;
+	pixel_x = -2
+	},
+/obj/structure/sign/poster{
+	desc = "One of those hot, tanned babes back the beaches of good ol' Earth.";
+	icon_state = "poster12";
+	name = "Beach Babe Pinup";
+	pixel_x = 4;
+	pixel_y = 38;
+	serial_number = 12
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"bT" = (
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"ci" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/structure/closet/firecloset,
+/obj/structure/machinery/computer/shuttle/elevator_controller{
+	pixel_y = 41;
+	shuttleId = "garrow_cargo_elevator";
+	pixel_x = 9
+	},
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"cA" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/reagent_container/glass/rag,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"cI" = (
+/turf/open/floor/corsat/blue,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"cL" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"cO" = (
+/obj/structure/bed,
+/obj/item/bedsheet/brown,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"cV" = (
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"da" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/prop/brazier/campfire{
+	fuel_stage_time = 9999999;
+	remaining_fuel = 9999999
+	},
+/obj/effect/landmark/yautja_teleport,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dj" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"dn" = (
+/mob/living/simple_animal/crab,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dx" = (
+/obj/structure/flora/tree/pine,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dA" = (
+/obj/structure/machinery/colony_floodlight,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dF" = (
+/obj/item/paper{
+	icon_state = "paper_words";
+	info = "I often find myself wondering why the poor persist in their ways, clinging to mediocrity as though it is a comfort. I have provided ample opportunities-a chance for them to work within my facilities, to gain skill, purpose, yet they seem determined to squander it all. The world could be theirs if they could rise above the petty grievances, the endless excuses. But no, it is as if they are content to stay tethered to the lowest rungs, demanding aid rather than achieving independence. And when given a glimpse of succes, they retreat, fearing the very dea of ambition. <BR><BR> It is clear, then, that some people are simply born to remain where they are, grounded by limitations they themselves refuse to discard. The true movers of society understand this, understand that progress comes only from those willing to risk, to endure, and to aspire. The rest? They are a weight, one I have carried too long and one that threatens the very advancement they claim they want.";
+	name = ""ThePoorSuck" By Daniel R"
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dM" = (
+/obj/structure/closet/cabinet,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/storage/pill_bottle/tramadol/skillless,
+/obj/item/reagent_container/glass/bottle/oxycodone,
+/obj/item/storage/box/syringes,
+/obj/item/storage/pill_bottle/happy,
+/obj/item/storage/pill_bottle/happy,
+/obj/item/reagent_container/glass/bottle/oxycodone,
+/obj/item/storage/pill_bottle/tramadol/skillless,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"dN" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = 3;
+	pixel_x = 4
+	},
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = 10;
+	pixel_x = -2
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"eb" = (
+/turf/open/ice/noweed,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"ec" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"ed" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/clothing/mask/cigarette{
+	pixel_y = 27;
+	pixel_x = -6
+	},
+/obj/item/clothing/mask/cigarette{
+	pixel_y = 18;
+	pixel_x = 1
+	},
+/obj/item/clothing/mask/cigarette{
+	pixel_y = 22;
+	pixel_x = 11
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"ei" = (
+/turf/open/floor/plating/burnt_platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"en" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"et" = (
+/obj/structure/flora/tree/pine,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"eD" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"eH" = (
+/obj/structure/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"eR" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"eU" = (
+/obj/structure/surface/rack,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/tool/shovel/snow{
+	pixel_x = -2
+	},
+/obj/item/tool/shovel/snow{
+	pixel_x = 2
+	},
+/obj/item/tool/shovel/snow{
+	pixel_x = 7
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"fc" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"fe" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/structure/bed/chair/wood/normal{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"fh" = (
+/obj/structure/platform_decoration/kutjevo/smooth{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"fk" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/platingdmg1,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"fq" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"fr" = (
+/obj/structure/closet/crate/trashcart,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"fB" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 9
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"fJ" = (
+/obj/structure/window/framed/wood,
+/obj/structure/curtain/red,
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"fR" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/atmos_alert,
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"gh" = (
+/obj/structure/window/framed/wood,
+/obj/structure/curtain/red,
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"gi" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/space)
+"gj" = (
+/obj/structure/platform/kutjevo{
+	dir = 8
+	},
+/obj/structure/platform/kutjevo{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"gk" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"gE" = (
+/obj/structure/machinery/power/apc/almayer/north{
+	pixel_y = 32
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"gL" = (
+/obj/structure/mineral_door/wood{
+	name = "Dorms"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"hb" = (
+/obj/structure/disposalpipe/segment,
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hf" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22";
+	pixel_x = 8;
+	pixel_y = -1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"hh" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/item/ammo_casing/bullet{
+	dir = 8;
+	pixel_y = -3;
+	pixel_x = -9
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hn" = (
+/obj/structure/tunnel{
+	id = "hole3"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"hs" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hx" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hC" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hE" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"hJ" = (
+/turf/open/floor/corsat/yellowcorner/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hO" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"hP" = (
+/obj/structure/machinery/light_switch,
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hQ" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/structure/machinery/disposal,
+/obj/structure/disposalpipe/trunk{
+	dir = 1
+	},
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"hU" = (
+/obj/structure/flora/tree/pine/xmas,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"hY" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 8
+	},
+/obj/structure/sign/poster{
+	pixel_y = 3;
+	icon_state = "poster15";
+	name = "pulse rifle pinup";
+	desc = "The Armat Battlefield Systems Model 41 Derivative 'A' Pulse Rifle Mark One. The only pinup you'll ever need.";
+	serial_number = 15;
+	pixel_x = 25
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"id" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/floor/corsat/redcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"if" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"im" = (
+/obj/structure/pipes/standard/simple/hidden/universal,
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"in" = (
+/obj/structure/machinery/vending/cigarette{
+	pixel_y = 25;
+	can_block_movement = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"iu" = (
+/obj/structure/pipes/vents/pump/siphon/on{
+	dir = 4;
+	id_tag = "car_theta_out"
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"iC" = (
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"iD" = (
+/obj/structure/machinery/door/airlock/almayer/security/glass/colony{
+	name = "Airlock Control";
+	req_one_access = null;
+	req_one_access_txt = "19;12";
+	req_access = list()
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"iV" = (
+/obj/structure/window/framed/corsat/hull,
+/obj/structure/pipes/standard/simple/visible{
+	dir = 4
+	},
+/obj/structure/window/framed/corsat,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"jd" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellowcorner/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"jj" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"jp" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"jw" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/comdoor{
+	name = "Theta Dome Control";
+	req_access = list();
+	req_one_access_txt = "19;12"
+	},
+/obj/structure/machinery/door/poddoor/almayer/planet_side_blastdoor{
+	name = "Massacre Lockdown"
+	},
+/turf/open/floor/corsat/blue/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"jA" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/clothing/head/helmet/marine/fluff/santahat,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"jD" = (
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"jO" = (
+/obj/structure/flora/tree/pine,
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"kb" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"kd" = (
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"ke" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/vents/pump,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"kq" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/colony_floodlight_switch{
+	desc = "This switch controls the floodlights around the biodome. It only functions when there is power."
+	},
+/turf/open/floor/corsat/yellow/northwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"kt" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/obj/item/fishing_pole,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"kz" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"kI" = (
+/obj/structure/pipes/vents/pump/on,
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"kN" = (
+/turf/open/floor/corsat/red,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"lb" = (
+/turf/open/space/basic,
+/area/space)
+"ld" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellow/southeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"lo" = (
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"lq" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"lu" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"lw" = (
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"lJ" = (
+/obj/structure/bed,
+/obj/item/bedsheet/brown,
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"lN" = (
+/obj/structure/stairs/perspective/kutjevo{
+	icon_state = "p_stair_sn_full_cap"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"lZ" = (
+/obj/structure/machinery/computer/general_air_control/large_tank_control{
+	name = "CO2 Control"
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellow/northwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"mj" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/corsat/red/northwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"mq" = (
+/obj/structure/closet/secure_closet/security,
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"mt" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/structure/janitorialcart,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"mw" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"mE" = (
+/obj/structure/machinery/chem_dispenser/soda/beer{
+	pixel_y = -3
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"mL" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"mP" = (
+/obj/structure/mineral_door/wood{
+	name = "Dorms"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"mQ" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"na" = (
+/obj/structure/bed/chair/office/light{
+	dir = 4
+	},
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"nc" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"nd" = (
+/obj/structure/machinery/door/airlock/almayer/engineering/colony{
+	name = "Theta Dome Control";
+	req_one_access = null
+	},
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"nf" = (
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"ng" = (
+/obj/structure/closet/firecloset,
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"nk" = (
+/obj/structure/flora/bush/ausbushes/palebush,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"no" = (
+/obj/structure/window/framed/corsat,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"nA" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 1
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 2;
+	pixel_y = 4;
+	pixel_x = 9
+	},
+/turf/open/floor/corsat/blue/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"nF" = (
+/obj/structure/platform/kutjevo{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"nO" = (
+/obj/structure/machinery/chem_dispenser/soda{
+	pixel_y = -3
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"nQ" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"oa" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"od" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_6"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"oq" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5
+	},
+/turf/open/floor/corsat/red/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"or" = (
+/obj/structure/machinery/portable_atmospherics/canister/carbon_dioxide,
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"oE" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"oF" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"oJ" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"pd" = (
+/obj/structure/mineral_door/wood{
+	name = "Kitchen"
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"pl" = (
+/obj/structure/bed/chair/comfy/black,
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"po" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"pp" = (
+/turf/open/floor/corsat/marked,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"pD" = (
+/obj/structure/pipes/binary/pump/on{
+	dir = 1
+	},
+/turf/open/floor/corsat/yellowcorner/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"pF" = (
+/obj/item/tool/mop{
+	pixel_x = -1;
+	pixel_y = 20
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/platingdmg2,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"pP" = (
+/obj/structure/platform/kutjevo{
+	dir = 8
+	},
+/obj/structure/stairs/perspective/kutjevo{
+	dir = 6;
+	icon_state = "p_stair_full"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"pV" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"qb" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"qj" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"qr" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 9
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"qD" = (
+/obj/structure/bed/stool,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"qE" = (
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"qG" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"qL" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"qR" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"rd" = (
+/obj/structure/bed/chair/wood/normal,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"rf" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"ri" = (
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/item/frame/table/wood/fancy,
+/obj/structure/closet/crate,
+/obj/structure/machinery/power/apc/almayer/north{
+	pixel_y = 32
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"rj" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/item/storage/fancy/cigarettes/arcturian_ace{
+	pixel_y = 18;
+	pixel_x = -4
+	},
+/obj/item/reagent_container/food/drinks/bottle/wine{
+	pixel_x = 8;
+	pixel_y = 21
+	},
+/obj/structure/sign/arcturianstopsign{
+	layer = 3.01;
+	pixel_y = 36
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"rk" = (
+/obj/structure/closet/secure_closet/fridge/organic/stock,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"rq" = (
+/turf/open/floor/corsat/yellow/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"rs" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5
+	},
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/secure_data{
+	dir = 4
+	},
+/turf/open/floor/corsat/red/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"rA" = (
+/obj/structure/surface/table/almayer,
+/turf/open/floor/corsat/yellowcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"rB" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"rV" = (
+/obj/structure/pipes/vents/pump,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"rZ" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"sc" = (
+/obj/structure/platform/kutjevo{
+	dir = 8
+	},
+/obj/structure/stairs/perspective/kutjevo{
+	dir = 5;
+	icon_state = "p_stair_full"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"st" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"sD" = (
+/obj/structure/pipes/vents/pump/on,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"sF" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"sJ" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat/bluecorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"sS" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"sX" = (
+/obj/structure/mineral_door/wood{
+	name = "Bathrooms"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"tg" = (
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"tl" = (
+/obj/structure/flora/tree/pine,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"tn" = (
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"tw" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellowcorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"tE" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"tO" = (
+/obj/structure/platform/kutjevo{
+	dir = 1
+	},
+/obj/structure/platform/kutjevo{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"tP" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"tQ" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"tR" = (
+/obj/structure/closet/crate/freezer/cooler,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/obj/item/reagent_container/food/drinks/cans/beer,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"ur" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/platingdmg2,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"uu" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22";
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"ux" = (
+/obj/structure/disposalpipe/junction{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"uE" = (
+/obj/structure/surface/table/almayer,
+/obj/item/paper_bin,
+/obj/item/tool/pen/red,
+/turf/open/floor/corsat/red/northwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"uH" = (
+/obj/structure/disposalpipe/junction{
+	dir = 1;
+	icon_state = "pipe-j2"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"uN" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"uR" = (
+/obj/structure/machinery/photocopier,
+/turf/open/floor/corsat/red,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"uS" = (
+/obj/item/organ/kidneys,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"uW" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/turf/open/auto_turf/ice/layer1,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"vd" = (
+/obj/structure/surface/table/reinforced,
+/obj/item/folder/black_random,
+/turf/open/floor/corsat/red,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"vf" = (
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"vo" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"vp" = (
+/obj/structure/surface/table/reinforced,
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"vq" = (
+/obj/structure/surface/table/almayer,
+/obj/item/clipboard,
+/obj/item/paper,
+/obj/item/tool/pen/red,
+/turf/open/floor/corsat/blue,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"vr" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"vM" = (
+/obj/structure/machinery/vending/cola,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"vN" = (
+/obj/structure/pipes/vents/pump,
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"vP" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"vQ" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"vY" = (
+/obj/structure/bed,
+/obj/item/bedsheet/brown,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"wm" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/corsat/squares,
+/area/space)
+"ws" = (
+/obj/structure/disposalpipe/segment,
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"wJ" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_y = 0;
+	pixel_x = 8
+	},
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = 23
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"wU" = (
+/obj/structure/surface/table/almayer,
+/turf/open/floor/corsat/blue,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"wV" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"wX" = (
+/obj/structure/machinery/door/window/brigdoor/eastleft{
+	dir = 2;
+	name = "Identification Desk"
+	},
+/obj/structure/surface/table/reinforced,
+/obj/structure/machinery/door/window/brigdoor/westleft{
+	dir = 1;
+	name = "Identification Desk";
+	req_access_txt = "104"
+	},
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"xd" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/processor,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"xj" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"xs" = (
+/obj/structure/mineral_door/wood{
+	name = "Bar"
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"xw" = (
+/obj/structure/pipes/standard/simple/visible{
+	dir = 6
+	},
+/obj/structure/machinery/meter,
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"xC" = (
+/turf/closed/wall/shiva/ice,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"xE" = (
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/obj/structure/machinery/vending/coffee,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"xM" = (
+/obj/structure/machinery/light{
+	dir = 1;
+	breakable = 0
+	},
+/obj/structure/bed/sofa/south/grey,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"xN" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/space,
+/area/space)
+"ya" = (
+/obj/structure/pipes/vents/pump{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"yf" = (
+/obj/structure/window/framed/wood,
+/obj/structure/curtain/red,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"yp" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"yB" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/clothing/mask/cigarette/weed,
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = -6;
+	pixel_x = 5
+	},
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = 7;
+	pixel_x = 6
+	},
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = 10;
+	pixel_x = 1
+	},
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = -10;
+	pixel_x = -12
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"yO" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/flashlight/lamp,
+/turf/open/floor/corsat/blue/southeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"yP" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/structure/machinery/computer/cameras{
+	network = list("theta")
+	},
+/obj/structure/surface/table/almayer,
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"yW" = (
+/obj/structure/pipes/vents/pump,
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"zf" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"zs" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"zD" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"zL" = (
+/obj/structure/machinery/power/apc/almayer/north,
+/obj/structure/closet/firecloset,
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"zQ" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Ac" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 5
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Ak" = (
+/obj/structure/disposalpipe/segment,
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"At" = (
+/turf/open/floor/corsat/redcorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Av" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ay" = (
+/turf/open/floor/corsat/squares,
+/area/space)
+"AC" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/burnt_platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"AG" = (
+/obj/structure/pipes/standard/simple/visible,
+/obj/structure/machinery/meter,
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"AW" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Bd" = (
+/turf/open/floor/corsat/theta,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Bf" = (
+/obj/item/ammo_casing/bullet{
+	dir = 10
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 6;
+	pixel_y = 3;
+	pixel_x = -6
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 5;
+	pixel_y = 4;
+	pixel_x = 9
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/burnt_platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Bm" = (
+/obj/structure/pipes/trinary/mixer,
+/turf/open/floor/corsat/yellow/southwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Bp" = (
+/obj/structure/closet/secure_closet/personal/cabinet,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Br" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Bs" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/obj/structure/machinery/light{
+	dir = 1;
+	breakable = 0
+	},
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5;
+	breakable = 0
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Bu" = (
+/obj/structure/platform_decoration/kutjevo/smooth{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BF" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BL" = (
+/obj/structure/dartboard{
+	pixel_y = 30
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"BM" = (
+/obj/structure/platform/kutjevo{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BN" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BP" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/bed/chair/wood/normal,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BS" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"BZ" = (
+/obj/structure/barricade/handrail/kutjevo,
+/obj/structure/platform/kutjevo,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Cb" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Cj" = (
+/turf/open/floor/corsat/red/southeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Cl" = (
+/obj/structure/barricade/snow{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Cn" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Cs" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/mob/living/simple_animal/cat/kitten{
+	name = "Pvt Twitch";
+	desc = "A cute little calico cat. His collar has a tag that reads,"PrivateTwitch"";
+	health = 9999;
+	real_name = "Pvt Twitch";
+	maxHealth = 9999
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Cz" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 8
+	},
+/obj/structure/bed/chair/wood/normal{
+	dir = 1
+	},
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"CR" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22"
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Di" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 5
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Dr" = (
+/turf/open/space,
+/area/space)
+"Du" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/reagent_container/food/snacks/pie{
+	pixel_y = 4;
+	pixel_x = -12
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Dx" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/storage/fancy/cigarettes/lucky_strikes{
+	pixel_y = -2;
+	pixel_x = 11
+	},
+/obj/item/tool/lighter{
+	pixel_y = -3;
+	pixel_x = 3
+	},
+/obj/item/clothing/mask/cigarette{
+	pixel_y = 10;
+	pixel_x = -2
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Dy" = (
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Dz" = (
+/obj/structure/mineral_door/wood{
+	name = "Dorms"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"DC" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"DD" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 8
+	},
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"DE" = (
+/obj/structure/sign/poster{
+	desc = "YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE.";
+	icon_state = "poster11";
+	name = "YOU ALWAYS KNOW A WORKING JOE.";
+	pixel_x = -25;
+	serial_number = 11
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"DI" = (
+/obj/structure/surface/table/reinforced,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"DM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/surface/table/almayer,
+/obj/item/toy/plush/runner{
+	dir = 8;
+	pixel_y = 8;
+	pixel_x = 5
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"DS" = (
+/obj/structure/pipes/binary/pump/high_power/on{
+	dir = 1
+	},
+/turf/open/floor/corsat/yellow/southeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"DV" = (
+/obj/structure/window/framed/corsat/hull,
+/obj/structure/pipes/standard/simple/visible,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ea" = (
+/mob/living/simple_animal/mouse/white{
+	desc = "It's a small laboratory rat. It's looking at you like it thinks it's better than you";
+	name = "Daniel";
+	real_name = "Daniel"
+	},
+/obj/item/paper{
+	icon_state = "paper_words";
+	info = "I often find myself wondering why the poor persist in their ways, clinging to mediocrity as though it is a comfort. I have provided ample opportunities-a chance for them to work within my facilities, to gain skill, purpose, yet they seem determined to squander it all. The world could be theirs if they could rise above the petty grievances, the endless excuses. But no, it is as if they are content to stay tethered to the lowest rungs, demanding aid rather than achieving independence. And when given a glimpse of succes, they retreat, fearing the very dea of ambition. It is clear, then, that some people are simply born to remain where they are, grounded by limitations they themselves refuse to discard. The true movers of society understand this, understand that progress comes only from those willing to risk, to endure, and to aspire. The rest? They are a weight, one I have carried too long and one that threatens the very advancement they claim they want.";
+	name = ""ThePoorSuck" By Daniel R"
+	},
+/obj/structure/barricade/handrail/wire{
+	dir = 4
+	},
+/obj/structure/barricade/handrail/wire,
+/obj/item/device/flashlight/on,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Eh" = (
+/obj/structure/machinery/light{
+	dir = 4;
+	light_range = 5;
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Em" = (
+/turf/open/floor/plating/platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"EA" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"EH" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 8
+	},
+/turf/open/floor/plating/platingdmg1,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"EI" = (
+/turf/open/floor/corsat/redcorner/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"EJ" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"EO" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"EP" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Fb" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 8
+	},
+/obj/structure/bed/chair/wood/normal,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Fc" = (
+/obj/structure/machinery/vending/sovietsoda{
+	pixel_y = 25
+	},
+/obj/structure/machinery/light{
+	dir = 8;
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Ff" = (
+/turf/closed/wall/shiva/prefabricated/reinforced,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"Fw" = (
+/obj/structure/bed/chair/office/light{
+	dir = 1
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Fx" = (
+/obj/structure/flora/tree/pine,
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Fy" = (
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"FA" = (
+/turf/open/floor/corsat/red/southwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"FF" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/tool/weldingtool{
+	pixel_x = 3;
+	pixel_y = 6
+	},
+/obj/item/clothing/mask/cigarette/weed{
+	pixel_y = 5;
+	pixel_x = -5
+	},
+/obj/item/ashtray/plastic{
+	pixel_y = 8;
+	pixel_x = -12
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"FG" = (
+/obj/structure/sign/banners/colonial_marines_flag,
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"FJ" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellowcorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"FM" = (
+/obj/structure/machinery/light_switch{
+	pixel_x = 15;
+	pixel_y = -4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"FR" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat/yellowcorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"FT" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"FV" = (
+/obj/structure/pipes/standard/simple/hidden/universal,
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ga" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/item/device/flashlight/lamp/green,
+/obj/structure/surface/table/woodentable/fancy,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Gc" = (
+/obj/structure/machinery/door/airlock/almayer/security/glass/colony{
+	name = "Airlock Control";
+	req_one_access = null;
+	req_one_access_txt = "19;12";
+	req_access = list()
+	},
+/turf/open/floor/corsat/red,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ge" = (
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Gj" = (
+/obj/structure/bed/chair/office/light{
+	dir = 8
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Gp" = (
+/obj/structure/bed/stool,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Gr" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"Gy" = (
+/obj/structure/machinery/light{
+	dir = 4;
+	light_range = 5;
+	breakable = 0
+	},
+/obj/structure/machinery/power/apc/almayer/north,
+/obj/structure/machinery/disposal,
+/obj/structure/disposalpipe/trunk{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"GA" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"GD" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/light{
+	dir = 1;
+	breakable = 0
+	},
+/obj/item/tool/soap/deluxe,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"GE" = (
+/obj/structure/mineral_door/wood{
+	name = "Bathrooms"
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"GF" = (
+/obj/structure/pipes/vents/pump/on,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"GI" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"GJ" = (
+/obj/structure/pipes/standard/simple/hidden/universal,
+/turf/open/floor/corsat/yellow/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"GO" = (
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"GQ" = (
+/obj/structure/bed/sofa/south/grey/left,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"GX" = (
+/obj/item/reagent_container/food/drinks/bottle/vodka{
+	pixel_y = -9;
+	pixel_x = 10
+	},
+/obj/item/prop/magazine/book/uppbooklet{
+	pixel_y = -13
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 10;
+	pixel_x = -3
+	},
+/obj/item/clothing/head/uppcap/peaked/mss{
+	pixel_y = 11;
+	pixel_x = -3
+	},
+/obj/item/flag/plantable/upp{
+	layer = 3.03
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = -7
+	},
+/obj/item/clothing/head/helmet/marine/veteran/UPP,
+/obj/item/clothing/head/helmet/marine/veteran/UPP{
+	pixel_y = 3;
+	pixel_x = 6
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"Ho" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Hq" = (
+/obj/structure/pipes/standard/simple/visible,
+/obj/structure/machinery/meter,
+/turf/open/floor/corsat/yellow/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Hw" = (
+/obj/structure/pipes/unary/outlet_injector{
+	dir = 8;
+	name = "Waste Air Injector"
+	},
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Hx" = (
+/turf/open/floor/corsat/yellow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"HL" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"HT" = (
+/obj/effect/decal/cleanable/blood,
+/obj/item/ammo_casing/bullet{
+	dir = 10;
+	pixel_y = 4;
+	pixel_x = -2
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"HX" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"HZ" = (
+/obj/structure/stairs/perspective/kutjevo{
+	dir = 4;
+	icon_state = "p_stair_full"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Id" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/device/flashlight/lamp/green,
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Ij" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/structure/surface/table/woodentable/fancy,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Im" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ir" = (
+/obj/structure/window/framed/corsat/security,
+/obj/structure/machinery/door/poddoor/almayer/open{
+	id = "ThetaControl";
+	name = "Observation Shutters";
+	use_power = 0
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"ID" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellowcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"IJ" = (
+/obj/structure/machinery/door/airlock/almayer/maint/colony{
+	dir = 2;
+	name = "Maintainance";
+	req_one_access = null
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"IK" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/bed/chair/wood/normal{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Jf" = (
+/obj/structure/machinery/door/airlock/almayer/engineering/colony{
+	name = "Theta Dome Control";
+	req_one_access = null
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Jj" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Jt" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 8
+	},
+/turf/open/floor/plating/burnt_platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Jv" = (
+/obj/structure/closet/secure_closet/fridge/meat/stock,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"JJ" = (
+/obj/structure/closet/secure_closet/fridge/groceries/stock,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"JY" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Kv" = (
+/turf/open/floor/almayer/empty/golden_arrow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Kz" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"KC" = (
+/turf/open/floor/corsat/yellow/southeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"KD" = (
+/obj/structure/sign/banners/upp_flag{
+	pixel_x = -16;
+	layer = 2.99;
+	pixel_y = -1;
+	desc = "A flag of the Union of Progressive Peoples. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings. It has several small holes in it, mostly around the center star."
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"KM" = (
+/obj/structure/machinery/light{
+	dir = 1;
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"KQ" = (
+/obj/structure/machinery/cm_vending/sorted/boozeomat{
+	pixel_y = 25;
+	can_block_movement = 0
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"KT" = (
+/obj/structure/closet/secure_closet/fridge/dry/stock,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"KU" = (
+/obj/structure/platform_decoration/kutjevo/smooth{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"KV" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/microwave,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"KX" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"KY" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"KZ" = (
+/obj/structure/surface/rack,
+/obj/item/folded_tent/big{
+	pixel_y = -5
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/clothing/gloves/boxing/blue,
+/obj/item/clothing/gloves/boxing/green{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/obj/item/clothing/gloves/boxing/yellow{
+	pixel_y = 6;
+	pixel_x = -6
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"Ld" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Lo" = (
+/turf/open/floor/corsat/blue/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Lx" = (
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Ly" = (
+/turf/open/floor/corsat/yellowcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"LC" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5;
+	breakable = 0
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"LH" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"LL" = (
+/obj/structure/fence,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"LP" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"LV" = (
+/obj/structure/mineral_door/wood{
+	name = "Bar"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"LY" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5
+	},
+/obj/structure/closet/emcloset,
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Mf" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Mp" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 9
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Mt" = (
+/turf/open/auto_turf/ice/layer1,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Mx" = (
+/obj/structure/surface/table/almayer,
+/obj/item/tool/kitchen/knife{
+	pixel_x = 9
+	},
+/obj/item/tool/kitchen/rollingpin{
+	pixel_y = 4;
+	pixel_x = -6
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Mz" = (
+/obj/structure/mineral_door/wood{
+	name = "Dorms"
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"MB" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/obj/structure/bed/chair/wood/normal{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"MF" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat/marked,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"MK" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 8
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 6;
+	pixel_y = 7;
+	pixel_x = 2
+	},
+/turf/open/floor/plating/platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"MN" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/ice/noweed,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"MT" = (
+/obj/structure/surface/table/gamblingtable,
+/obj/item/ashtray/plastic{
+	pixel_y = 8;
+	pixel_x = -12
+	},
+/obj/item/clothing/mask/cigarette/pipe/cobpipe{
+	pixel_y = 0;
+	pixel_x = 6
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"MU" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/station_alert,
+/turf/open/floor/corsat/yellow/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"MX" = (
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Nb" = (
+/obj/structure/machinery/portable_atmospherics/canister/empty,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ng" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Nk" = (
+/obj/item/ammo_casing/bullet{
+	dir = 2;
+	pixel_y = 7;
+	pixel_x = 2
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 6;
+	pixel_y = 4;
+	pixel_x = -2
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 10;
+	pixel_y = 13;
+	pixel_x = 7
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating/platingdmg1,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Nl" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Nr" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"NA" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"NC" = (
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"ND" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/space)
+"NE" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"NH" = (
+/obj/structure/machinery/vending/snack/packaged,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"NL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/surface/table/almayer,
+/obj/item/storage/toolbox/mechanical{
+	pixel_y = 0
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"NQ" = (
+/obj/structure/barricade/snow{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Oi" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Ok" = (
+/obj/structure/machinery/computer/general_air_control/large_tank_control{
+	name = "Waste Tank Control"
+	},
+/turf/open/floor/corsat/yellow/northeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"OF" = (
+/obj/structure/machinery/light{
+	breakable = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"OG" = (
+/obj/structure/filingcabinet/filingcabinet,
+/turf/open/floor/corsat/red,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"OJ" = (
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"OX" = (
+/obj/structure/machinery/portable_atmospherics/canister/empty/oxygen,
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Po" = (
+/obj/structure/sign/safety/airlock{
+	pixel_x = -32
+	},
+/turf/open/floor/corsat/theta,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ps" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Pt" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/machinery/door/poddoor/almayer/planet_side_blastdoor{
+	name = "Massacre Lockdown"
+	},
+/turf/open/floor/corsat/blue/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"PB" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/item/prop/tableflag/uscm{
+	pixel_y = -3;
+	pixel_x = 9
+	},
+/obj/item/weapon/dart{
+	pixel_y = 5;
+	pixel_x = 2
+	},
+/obj/item/weapon/dart/green,
+/obj/item/weapon/dart{
+	pixel_y = 8;
+	pixel_x = -2
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"PG" = (
+/obj/structure/pipes/vents/pump/siphon/on{
+	dir = 1;
+	id_tag = "mix_theta_out"
+	},
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"PH" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_6"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"PJ" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_6"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"PT" = (
+/obj/structure/window/framed/corsat,
+/obj/structure/machinery/door/poddoor/almayer/planet_side_blastdoor{
+	dir = 4;
+	name = "Massacre Lockdown"
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"PW" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/reagentgrinder{
+	pixel_y = 8;
+	pixel_x = 1
+	},
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"PZ" = (
+/obj/structure/prop/structure_lattice{
+	density = 0;
+	desc = "This jukebox only takes quarters and you seem to be out of them at the moment.";
+	icon = 'icons/obj/structures/props/misc.dmi';
+	icon_state = "jukebox";
+	name = "Rockin Robin 2300 Jukebox";
+	pixel_y = 25;
+	can_block_movement = 0
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Qe" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"Qh" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Qi" = (
+/obj/structure/bed/sofa/south/grey/right,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Qq" = (
+/obj/structure/closet/emcloset,
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellow/northeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Qr" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/ice/noweed,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Qy" = (
+/obj/item/fishing_pole,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Qz" = (
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"QA" = (
+/obj/structure/machinery/disposal,
+/obj/structure/disposalpipe/trunk{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"QB" = (
+/obj/structure/machinery/colony_floodlight,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"QH" = (
+/obj/structure/machinery/light{
+	dir = 1;
+	breakable = 0
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"QT" = (
+/obj/structure/machinery/door/airlock/maintenance/colony{
+	name = "Excess Food Disposal"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"QV" = (
+/obj/structure/pipes/standard/manifold/hidden/green,
+/obj/structure/bed/chair/wood/normal{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"QZ" = (
+/turf/open/floor/corsat/yellowcorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Rf" = (
+/obj/effect/decal/cleanable/blood,
+/obj/item/ammo_casing/bullet{
+	dir = 9;
+	pixel_y = 4;
+	pixel_x = -2
+	},
+/turf/open/floor/plating/platingdmg3,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ro" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5
+	},
+/turf/open/floor/corsat/blue/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Rw" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"RG" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/flashlight,
+/turf/open/floor/corsat/red/southwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Sb" = (
+/obj/docking_port/stationary/trijent_elevator/shipmap_elevator/cargo{
+	name = "XM2 Recreational Dome";
+	roundstart_template = /datum/map_template/shuttle/trijent_elevator/golden_arrow/cargo;
+	elevator_network = "ArrowCargo";
+	airlock_area = /area/golden_arrow/cargo_shuttle/lower;
+	airlock_exit = "north";
+	dir = 2;
+	id = dome
+	},
+/turf/open/floor/almayer/empty/golden_arrow,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Sc" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/auto_turf/ice/layer1,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Sl" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 1
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"SC" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"SD" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	light_range = 5;
+	breakable = 0
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"SE" = (
+/obj/structure/window/framed/corsat,
+/obj/structure/machinery/door/poddoor/almayer/planet_side_blastdoor{
+	name = "Massacre Lockdown"
+	},
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"SI" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"SK" = (
+/turf/open/floor/corsat/red/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"SN" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/redcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"SS" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowbush_2";
+	pixel_y = 10
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Ta" = (
+/obj/structure/stairs/perspective/kutjevo{
+	icon_state = "p_stair_full"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Tp" = (
+/obj/structure/window/framed/corsat/security,
+/turf/open/floor/plating,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Tt" = (
+/obj/structure/window/framed/wood,
+/obj/structure/curtain/red,
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Tz" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4;
+	icon_state = "pipe-c"
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"TA" = (
+/obj/structure/barricade/handrail/kutjevo{
+	layer = 3.1
+	},
+/obj/structure/bed/chair/wood/normal{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Uf" = (
+/obj/structure/surface/table/almayer,
+/obj/item/storage/donut_box,
+/obj/item/tool/lighter/random,
+/turf/open/floor/corsat/red/northwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Uh" = (
+/obj/item/device/binoculars,
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/door_control{
+	id = "ThetaControl";
+	name = "Observation Shutters";
+	pixel_y = 5;
+	use_power = 0
+	},
+/turf/open/floor/corsat/blue/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Us" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/emails{
+	dir = 8
+	},
+/turf/open/floor/corsat/blue/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Uv" = (
+/turf/open/floor/corsat/bluecorner/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Uz" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/yellowcorner/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"US" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"UW" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"UY" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/light/small{
+	breakable = 0
+	},
+/obj/structure/surface/table/almayer,
+/obj/item/stack/sheet/wood/large_stack{
+	pixel_y = 9;
+	pixel_x = 2
+	},
+/obj/item/stack/sheet/wood/small_stack{
+	pixel_x = 10;
+	pixel_y = -1;
+	layer = 3.04
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"Vc" = (
+/obj/structure/platform/kutjevo{
+	dir = 8
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Vh" = (
+/obj/structure/surface/table/woodentable/fancy,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"VC" = (
+/obj/structure/surface/rack,
+/obj/item/tool/minihoe{
+	pixel_y = -3;
+	pixel_x = 2
+	},
+/obj/item/tool/minihoe{
+	pixel_y = -5;
+	pixel_x = -7
+	},
+/obj/item/tool/shovel/spade{
+	pixel_x = 6;
+	pixel_y = 2
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"VJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4
+	},
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4;
+	pixel_x = 1;
+	pixel_y = 3;
+	layer = 3.01
+	},
+/obj/structure/bed/chair{
+	can_buckle = 0;
+	dir = 4;
+	pixel_x = 2;
+	pixel_y = 6;
+	layer = 3.02
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"VP" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"Wd" = (
+/obj/structure/machinery/colony_floodlight{
+	dir = 8
+	},
+/turf/open/auto_turf/ice/layer1,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Wg" = (
+/turf/open/floor/corsat/bluecorner,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Wu" = (
+/obj/structure/surface/table/almayer,
+/obj/item/folder/black_random,
+/turf/open/floor/corsat/red/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Ww" = (
+/turf/open/floor/corsat/yellow/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Wx" = (
+/obj/structure/barricade/handrail/kutjevo{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"WC" = (
+/obj/structure/flora/tree/pine,
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"WG" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 8
+	},
+/turf/open/floor/plating/burnt_platingdmg3/west,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"WJ" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"WO" = (
+/turf/open/floor/corsat/redcorner/north,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Xh" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Xk" = (
+/obj/structure/closet/secure_closet/security,
+/turf/open/floor/corsat/red/northeast,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"XI" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/machinery/door/airlock/maintenance/colony{
+	dir = 2;
+	name = "Shed";
+	req_one_access = null
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"XM" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/fence,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"XO" = (
+/turf/open/floor/corsat/plate,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"XU" = (
+/obj/structure/stairs/perspective/kutjevo{
+	dir = 4;
+	icon_state = "p_stair_sn_full_cap"
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"XX" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/redcorner/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"XY" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/bed/chair/wood/normal,
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"XZ" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/camera,
+/turf/open/floor/corsat/blue/southwest,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Yb" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/auto_turf/snow/layer0,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Yg" = (
+/obj/effect/decal/cleanable/blood{
+	desc = "Watch your step.";
+	icon_state = "gib6";
+	dir = 1
+	},
+/obj/item/ammo_casing/bullet{
+	dir = 8;
+	pixel_y = 7;
+	pixel_x = 2
+	},
+/turf/open/floor/corsat/blue/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Yi" = (
+/obj/structure/surface/table/almayer,
+/obj/item/clothing/accessory/patch/royal_marines{
+	pixel_x = -14;
+	pixel_y = -2
+	},
+/obj/item/reagent_container/food/drinks/flask/weylandyutani{
+	pixel_x = 10;
+	pixel_y = 13
+	},
+/obj/item/book/codebook/wey_yu{
+	pixel_y = 7
+	},
+/obj/item/tool/stamp/weyyu{
+	pixel_x = 10
+	},
+/turf/open/floor/almayer,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow";
+	ceiling = 1.1
+	})
+"YC" = (
+/obj/structure/machinery/vending/ingredients,
+/turf/open/floor/almayer/dark_sterile,
+/area/strata/ag/interior/dorms/canteen{
+	name = "XM2 Recreational Biodome - Bar";
+	powernet_name = "golden_arrow"
+	})
+"YK" = (
+/obj/structure/surface/table/woodentable/fancy,
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"YV" = (
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Zh" = (
+/obj/structure/sign/safety/airlock,
+/turf/closed/wall/r_wall/biodome,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Zl" = (
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 5
+	},
+/turf/open/floor/corsat/squares,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"Zo" = (
+/obj/structure/platform_decoration/kutjevo/smooth,
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"Zv" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/corsat/yellowcorner/east,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"ZA" = (
+/obj/structure/flora/bush/snow{
+	icon_state = "snowgrassbb_2"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 9
+	},
+/turf/open/auto_turf/snow/layer3,
+/area/strata/ag/exterior/marsh{
+	name = "XM2 Recreational Biodome";
+	powernet_name = "golden_arrow"
+	})
+"ZG" = (
+/obj/structure/pipes/unary/outlet_injector{
+	dir = 1;
+	name = "Mixed Air Injector"
+	},
+/turf/open/floor/corsat,
+/area/strata/ag/interior/outpost/admin{
+	name = "XM2 Recreational Biodome - Control Module";
+	powernet_name = "golden_arrow"
+	})
+"ZK" = (
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/closed/wall/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+"ZQ" = (
+/obj/structure/surface/table/woodentable/fancy,
+/obj/structure/machinery/computer/cameras/wooden_tv/broadcast{
+	dir = 1;
+	pixel_y = 3
+	},
+/turf/open/floor/wood,
+/area/strata/ag/interior/dorms{
+	name = "XM2 Recreational Biodome - Dorms";
+	powernet_name = "golden_arrow"
+	})
+
+(1,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+lb
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+Dr
+Dr
+Dr
+lb
+Dr
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(2,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+EO
+EO
+EO
+EO
+GO
+GO
+GO
+GO
+GO
+GO
+GO
+GO
+GO
+EO
+EO
+EO
+EO
+EO
+EO
+lb
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(3,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+EO
+EO
+EO
+EO
+jD
+Fy
+GO
+GO
+GO
+GO
+GO
+GQ
+OJ
+YK
+OJ
+QA
+OJ
+vM
+GO
+GO
+GO
+GO
+GO
+xC
+EO
+EO
+EO
+EO
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(4,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+EO
+EO
+EO
+jD
+jD
+jD
+jD
+Fy
+GO
+Bp
+OJ
+EP
+GO
+xM
+OJ
+ZQ
+OJ
+eD
+OJ
+xE
+GO
+EP
+OJ
+Bp
+GO
+xC
+xC
+jD
+oE
+EO
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(5,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+GO
+OJ
+OJ
+KY
+GO
+Qi
+OJ
+Du
+OJ
+eD
+OJ
+NH
+GO
+KY
+OJ
+OJ
+GO
+jD
+xC
+xC
+jD
+jD
+jD
+EO
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(6,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+xC
+jD
+GO
+OJ
+OJ
+rf
+Mz
+OJ
+OJ
+hf
+OJ
+uu
+OJ
+OJ
+Mz
+rf
+OJ
+OJ
+GO
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+xC
+EO
+EO
+EO
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(7,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+oE
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+oE
+xC
+xC
+GO
+vY
+GA
+cO
+GI
+ZK
+GI
+GI
+Ng
+zD
+GI
+ZK
+ZK
+lJ
+GA
+vY
+GO
+oE
+jD
+LL
+jD
+SS
+jD
+jD
+xC
+xC
+xC
+EO
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(8,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+EO
+EO
+oE
+oE
+jD
+jD
+oE
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+GO
+yf
+yf
+yf
+VP
+CR
+EP
+VP
+QH
+Qh
+EP
+CR
+GO
+fJ
+gh
+gh
+ZK
+hO
+EA
+XM
+EA
+EA
+EA
+EA
+Di
+xC
+xC
+xC
+xC
+EO
+EO
+lb
+lb
+lb
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(9,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+EO
+oE
+jD
+jD
+Fy
+KX
+jD
+jD
+xC
+oE
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+NE
+Tt
+OJ
+OJ
+Dz
+EP
+gL
+OJ
+OJ
+yf
+jp
+oE
+jD
+jD
+jD
+jD
+LL
+jD
+jD
+jD
+jD
+rZ
+Di
+jD
+xC
+xC
+xC
+EO
+EO
+EO
+lb
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(10,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+xC
+jD
+jD
+Fy
+Fy
+Fy
+po
+Fy
+PH
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+Fy
+VP
+GA
+vY
+VP
+OF
+Qh
+vY
+GA
+GO
+Fy
+oE
+jD
+jD
+jD
+jD
+LL
+jD
+jD
+oE
+oE
+tl
+rZ
+Oi
+Di
+jD
+jD
+jD
+jD
+EO
+EO
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(11,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+xC
+xC
+oJ
+EA
+FT
+EA
+EA
+sS
+FT
+jO
+FT
+FT
+FT
+FT
+lu
+EA
+EA
+EA
+EA
+US
+FT
+Ge
+GO
+GO
+VP
+OJ
+Qh
+GO
+GO
+GO
+Fy
+jD
+jD
+jD
+jD
+jD
+LL
+jD
+jD
+oE
+oE
+jD
+jD
+jD
+Ho
+jD
+xC
+oE
+jD
+jD
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+"}
+(12,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+xC
+xC
+jD
+Ho
+jD
+nk
+jD
+jD
+dn
+Fy
+Fy
+Fy
+Fy
+eb
+eb
+po
+jD
+jD
+jD
+oE
+Fy
+Fy
+HX
+en
+EP
+Ge
+KM
+at
+EP
+CR
+GO
+Fy
+jD
+jD
+xC
+xC
+xC
+LL
+jD
+jD
+jD
+jD
+Fy
+Fy
+jD
+Ho
+jD
+xC
+xC
+SS
+jD
+jD
+EO
+EO
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(13,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+xC
+xC
+jD
+Ho
+PH
+jD
+Fy
+Fy
+Fy
+NE
+Fy
+Fy
+eb
+eb
+Mt
+po
+Fy
+PJ
+Fy
+NE
+NE
+NE
+yf
+OJ
+OJ
+Dz
+OJ
+mP
+OJ
+OJ
+yf
+Fy
+jD
+xC
+xC
+xC
+xC
+LL
+jD
+jD
+jD
+be
+Fy
+Fy
+Fy
+Ho
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(14,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+lb
+lb
+EO
+EO
+xC
+xC
+xC
+Ho
+jD
+jD
+Fy
+NE
+eb
+eb
+eb
+eb
+eb
+Mt
+Mt
+EJ
+Fy
+Fy
+Fy
+Fy
+Fy
+NE
+GO
+GA
+vY
+VP
+OF
+dj
+vY
+GA
+GO
+Fy
+jD
+xC
+xC
+xC
+jD
+LL
+jD
+jD
+jD
+eb
+eb
+eb
+eb
+AW
+ya
+jD
+xC
+xC
+xC
+xC
+jD
+oE
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(15,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+lb
+EO
+EO
+xC
+xC
+xC
+xC
+Ho
+jD
+jD
+eb
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+MN
+Fy
+Fy
+Fy
+JY
+Fy
+Fy
+GO
+GO
+GO
+VP
+Mz
+dj
+GO
+GO
+GO
+Fy
+jD
+xC
+xC
+jD
+jD
+LL
+jD
+jD
+jD
+eb
+Mt
+Mt
+Mt
+Ho
+jD
+jD
+jD
+PH
+oE
+xC
+xC
+QT
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(16,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+EO
+EO
+jD
+xC
+xC
+xC
+tl
+Ho
+jD
+jD
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Sc
+Fy
+Fy
+Fy
+Fy
+Fy
+NE
+Fy
+BZ
+aO
+Mf
+kd
+SD
+BF
+nF
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+eb
+Mt
+Mt
+eb
+Ho
+oE
+jD
+jD
+jD
+jD
+LL
+jD
+jD
+jD
+jD
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(17,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+jD
+jD
+xC
+xC
+xC
+jD
+Ho
+jD
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+MN
+JY
+NE
+PJ
+Fy
+dx
+Fy
+Fy
+BZ
+Wx
+qj
+kd
+tE
+cL
+nF
+Fy
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+eb
+eb
+eb
+jD
+rZ
+EA
+Oi
+hO
+EA
+EA
+XM
+EA
+EA
+EA
+EA
+Di
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(18,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+jD
+jD
+jD
+jD
+jD
+xC
+jD
+jD
+Ho
+oE
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+po
+Fy
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Bu
+Vc
+sc
+HZ
+pP
+Vc
+fh
+Fy
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+PH
+jD
+jD
+jD
+jD
+LL
+jD
+jD
+oE
+jD
+Ho
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(19,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+oJ
+Fx
+EA
+EA
+EA
+Di
+xC
+jD
+jD
+Ho
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+EJ
+jD
+jD
+jD
+jD
+jD
+oE
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+LL
+xC
+xC
+jD
+jD
+jD
+jD
+PH
+jD
+xC
+xC
+xC
+oE
+jD
+oE
+jD
+BN
+oE
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(20,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+lb
+lb
+lb
+Dr
+Dr
+EO
+jD
+Ho
+jD
+jD
+jD
+xC
+rZ
+EA
+EA
+EA
+iC
+rd
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Ho
+jD
+jD
+xC
+jD
+jD
+oE
+jD
+jD
+Fy
+po
+Fy
+Yb
+Fy
+QB
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+xC
+xC
+xC
+LL
+LL
+LL
+LL
+LL
+LL
+xC
+xC
+jD
+oE
+PH
+jD
+jD
+Ho
+jD
+oE
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(21,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+uN
+PH
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+uN
+Qy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+Fy
+Ho
+jD
+xC
+xC
+jD
+xC
+PH
+jD
+jD
+Fy
+po
+Fy
+Yb
+Fy
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+vN
+EA
+EA
+Oi
+EA
+eR
+hO
+Di
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(22,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+xC
+jD
+Ho
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+Ho
+NE
+tR
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+Fy
+Fy
+Ho
+xC
+xC
+jD
+jD
+xC
+xC
+jD
+jD
+Fy
+EJ
+Fy
+Yb
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+oE
+SS
+jD
+PH
+PH
+jD
+jD
+uN
+xC
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(23,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+lb
+Dr
+Dr
+EO
+EO
+xC
+jD
+Ho
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+Ho
+jD
+dA
+eb
+Mt
+Mt
+Mt
+eb
+eb
+Fy
+jD
+jD
+fq
+sD
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+Fy
+po
+Fy
+Yb
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+oE
+SS
+jD
+Ho
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+"}
+(24,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+lb
+Dr
+Dr
+EO
+jD
+jD
+jD
+Ho
+xC
+xC
+xC
+xC
+xC
+jD
+PJ
+jD
+Ho
+jD
+jD
+eb
+eb
+eb
+eb
+Fy
+Fy
+NE
+Fy
+jD
+Ho
+xC
+xC
+xC
+xC
+xC
+SS
+jD
+Fy
+Fy
+po
+Fy
+Yb
+Fy
+jD
+oE
+PH
+jD
+jD
+oE
+jD
+jD
+jD
+jD
+jD
+jD
+oE
+SS
+jD
+jD
+oE
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Ho
+xC
+xC
+EO
+Dr
+Dr
+Dr
+Dr
+"}
+(25,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+EO
+EO
+jD
+jD
+jD
+Ho
+xC
+xC
+xC
+xC
+xC
+jD
+GF
+FT
+eR
+hE
+EA
+EA
+EA
+IK
+kt
+US
+EA
+FT
+FT
+od
+Mp
+jD
+xC
+xC
+jD
+jD
+jD
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+Fy
+jD
+SS
+jD
+oE
+jD
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+oE
+oE
+jD
+jD
+SS
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+SS
+jD
+jD
+Ho
+jD
+xC
+EO
+EO
+Dr
+Dr
+Dr
+"}
+(26,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+EO
+oE
+jD
+jD
+jD
+Ho
+xC
+WJ
+xC
+xC
+xC
+oE
+jD
+Fy
+SS
+jD
+jD
+jD
+jD
+Fy
+po
+Fy
+jD
+jD
+Fy
+Fy
+Fy
+jD
+jD
+xC
+xC
+jD
+jD
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+Fy
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+oE
+jD
+Ho
+jD
+xC
+xC
+EO
+Dr
+Dr
+Dr
+"}
+(27,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+hx
+hx
+tn
+tn
+tn
+jD
+fq
+EA
+Mp
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+tl
+jD
+jD
+Fy
+po
+Fy
+jD
+jD
+PH
+Fy
+Fy
+Fy
+oE
+xC
+xC
+PH
+jD
+QB
+Fy
+Fy
+po
+Fy
+Yb
+jD
+jD
+NC
+NC
+NC
+NC
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Ho
+jD
+xC
+xC
+EO
+EO
+Dr
+Dr
+"}
+(28,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+hx
+uE
+rs
+RG
+tn
+jD
+et
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+Fy
+po
+JY
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+po
+Fy
+Yb
+jD
+jD
+NC
+Bs
+NC
+Bs
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+Ho
+jD
+jD
+xC
+jD
+EO
+Dr
+Dr
+"}
+(29,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+Wu
+Gj
+kN
+Ir
+jD
+Ho
+jD
+jD
+xC
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+oE
+oE
+NE
+po
+Fy
+jD
+jD
+Fy
+Fy
+Fy
+PJ
+Fy
+Fy
+Fy
+NE
+NE
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+jD
+jD
+NC
+GE
+NC
+GE
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+NE
+NE
+Fy
+Fy
+Fy
+jD
+jD
+Ho
+jD
+jD
+xC
+jD
+EO
+Dr
+Dr
+"}
+(30,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+hx
+lw
+qE
+kN
+Ir
+jD
+rZ
+EA
+EA
+EA
+EA
+EA
+EA
+EA
+EA
+EA
+EA
+hO
+hO
+EA
+US
+Qz
+jD
+jD
+jD
+PJ
+Fy
+jD
+jD
+Fy
+NE
+NE
+NE
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+jD
+jD
+NC
+bM
+LC
+lo
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+PJ
+Fy
+eb
+eb
+Fy
+NE
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+Ho
+jD
+SS
+jD
+oE
+EO
+EO
+Dr
+"}
+(31,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+Uf
+id
+qE
+OG
+tn
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+po
+jD
+jD
+oE
+jD
+JY
+jD
+jD
+PH
+jD
+Fy
+jD
+jD
+jD
+jD
+Fy
+po
+Fy
+zf
+jD
+jD
+NC
+gk
+wJ
+wJ
+NC
+jD
+jD
+Zo
+BM
+BM
+BM
+KU
+Fy
+Fy
+Fy
+Fy
+eb
+eb
+eb
+eb
+eb
+Fy
+NE
+NE
+Fy
+NE
+Fy
+Fy
+po
+jD
+jD
+jD
+oE
+jD
+EO
+Dr
+"}
+(32,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+yP
+Fw
+qE
+uR
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+Zh
+jD
+QB
+Fy
+Fy
+po
+jD
+jD
+jD
+jD
+Fy
+jD
+jD
+jD
+QB
+Fy
+jD
+jD
+jD
+jD
+Fy
+po
+Fy
+Yb
+jD
+NC
+NC
+sX
+NC
+NC
+NC
+NC
+NC
+NC
+Fb
+DD
+Cz
+nF
+NE
+Fy
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+eb
+eb
+eb
+eb
+Fy
+NE
+NE
+NE
+po
+jD
+jD
+jD
+jD
+jD
+EO
+Dr
+"}
+(33,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+mq
+oF
+qE
+vd
+vp
+Tp
+lw
+LY
+ng
+Po
+pp
+Bd
+hC
+XO
+Bd
+pp
+Fy
+Fy
+Fy
+Fy
+Fy
+EJ
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+JY
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Yb
+jD
+NC
+Fc
+Qe
+DE
+nf
+SC
+SC
+tP
+NC
+kd
+kd
+BF
+nF
+NE
+NE
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+eb
+Fy
+NE
+Fy
+po
+oE
+SS
+jD
+jD
+jD
+EO
+Dr
+"}
+(34,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+hx
+Xk
+XX
+At
+Cj
+pl
+wX
+lw
+qE
+Nr
+ec
+MF
+ec
+YV
+Zl
+qE
+pp
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+JY
+Fy
+Fy
+po
+Fy
+Yb
+tg
+NC
+in
+Qe
+nf
+nf
+Vh
+Vh
+nf
+Lx
+kd
+kd
+kd
+lN
+Fy
+Fy
+PJ
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+eb
+Fy
+Fy
+po
+jD
+xC
+xC
+jD
+jD
+EO
+Dr
+"}
+(35,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+hx
+hx
+tn
+iD
+Gc
+tn
+tn
+tn
+lw
+qE
+oF
+qE
+pp
+qE
+qE
+vr
+ec
+MF
+FT
+FT
+FT
+FT
+FT
+sS
+FT
+FT
+FT
+FT
+UW
+FT
+FT
+FT
+FT
+FT
+FT
+FT
+FT
+FT
+FT
+sS
+FT
+BS
+UW
+LV
+vQ
+if
+Ac
+nf
+pV
+pV
+nf
+xs
+kd
+kd
+kd
+Ta
+Fy
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Fy
+po
+jD
+xC
+xC
+jD
+jD
+EO
+EO
+"}
+(36,1,1) = {"
+hx
+hx
+hx
+hx
+hx
+hx
+hx
+hx
+mj
+SK
+SN
+EI
+SK
+FA
+FG
+lw
+qE
+oF
+Bd
+pp
+Bd
+XO
+LH
+Bd
+pp
+Fy
+Fy
+Fy
+JY
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+NE
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Yb
+qR
+NC
+qD
+Gp
+Qe
+nf
+nf
+nf
+nf
+Lx
+kd
+kd
+kd
+XU
+Fy
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Fy
+po
+jD
+xC
+jD
+jD
+jD
+jD
+EO
+"}
+(37,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+hx
+Im
+XO
+oF
+qE
+XO
+kN
+tn
+lw
+qE
+oF
+Wg
+hx
+hx
+PT
+PT
+hx
+hx
+hx
+jD
+jD
+jD
+jD
+jD
+Fy
+jD
+QB
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+bl
+Ho
+NC
+rj
+Ij
+qD
+nf
+nf
+nf
+vf
+NC
+kd
+kd
+BF
+nF
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+uW
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Fy
+Ho
+jD
+jD
+PH
+jD
+oE
+PH
+EO
+"}
+(38,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+hx
+ci
+XO
+oF
+qE
+XO
+EI
+oq
+WO
+qE
+oF
+cI
+hx
+EH
+Dy
+fk
+mQ
+Dy
+hx
+PT
+PT
+PT
+SE
+PH
+Fy
+oE
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+oE
+jD
+jD
+Fy
+JY
+QB
+jD
+jD
+bl
+Ho
+FM
+KQ
+zs
+qD
+nf
+Dx
+ed
+nf
+Lx
+kd
+kd
+fe
+nF
+Fy
+eb
+Mt
+uW
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Fy
+Ho
+jD
+jD
+PH
+jD
+jD
+oE
+EO
+"}
+(39,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+qE
+WO
+Bd
+oF
+qE
+Bd
+XO
+XO
+Bd
+qE
+oF
+cI
+hP
+NA
+WG
+AC
+fk
+Em
+Ro
+Lo
+Uh
+XZ
+SE
+oE
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+jD
+oE
+xC
+xC
+oE
+jD
+jD
+PH
+xC
+xC
+bl
+Ho
+nO
+Cs
+jA
+qD
+nf
+MT
+dN
+nf
+Lx
+kd
+kd
+Ga
+nF
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Wd
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+Fy
+Ho
+jD
+jD
+oE
+jD
+jD
+jD
+EO
+"}
+(40,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+ec
+ec
+ec
+YV
+mw
+ec
+mw
+ec
+ec
+ec
+MX
+Uv
+jw
+Bf
+Nk
+AC
+Rf
+MK
+uS
+qE
+bi
+vq
+SE
+jD
+NE
+JY
+Fy
+Fy
+po
+Fy
+Fy
+jD
+xC
+xC
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+bl
+Ho
+mE
+nf
+cA
+qD
+nf
+yB
+FF
+nf
+Lx
+kd
+kd
+TA
+nF
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+PJ
+Ho
+jD
+oE
+oE
+SS
+jD
+jD
+EO
+"}
+(41,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+qE
+qE
+qE
+qE
+oF
+qE
+xj
+qE
+qE
+qE
+vr
+sJ
+Pt
+hh
+Av
+fk
+ur
+Av
+ei
+qE
+na
+wU
+SE
+oE
+oE
+jD
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+jD
+jD
+Fy
+jD
+jD
+jD
+xC
+xC
+bG
+mL
+NC
+bC
+PB
+qD
+nf
+nf
+nf
+vf
+NC
+kd
+kd
+BF
+nF
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+jD
+Ho
+jD
+jD
+jD
+xC
+jD
+jD
+EO
+"}
+(42,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+qE
+hJ
+Bd
+qE
+oF
+Bd
+XO
+XO
+Bd
+qE
+oF
+cI
+hx
+mt
+ur
+AC
+Jt
+HT
+nA
+Yg
+Us
+yO
+SE
+oE
+PH
+xC
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+bG
+mL
+KD
+BL
+nf
+Qe
+nf
+nf
+nf
+nf
+Lx
+kd
+kd
+fe
+nF
+Fy
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+jD
+Ho
+jD
+jD
+xC
+xC
+xC
+jD
+EO
+"}
+(43,1,1) = {"
+hx
+Kv
+Kv
+Kv
+Kv
+Kv
+Kv
+Tz
+hQ
+XO
+qE
+oF
+XO
+QZ
+Kz
+Ww
+hJ
+FJ
+KC
+hx
+pF
+AC
+AC
+ei
+Dy
+hx
+PT
+PT
+PT
+SE
+oE
+jD
+xC
+QB
+Fy
+po
+Fy
+Fy
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+xC
+bl
+mL
+NC
+PZ
+nf
+Qe
+nf
+SC
+SC
+nf
+Lx
+kd
+kd
+yp
+nF
+Fy
+PJ
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+uW
+Mt
+Mt
+Mt
+Mt
+Fy
+jD
+Ho
+jD
+jD
+xC
+xC
+xC
+jD
+EO
+"}
+(44,1,1) = {"
+hx
+Sb
+Kv
+Kv
+Kv
+Kv
+Kv
+lq
+zL
+XO
+qE
+oF
+XO
+Hx
+tn
+tn
+nd
+Jf
+tn
+hx
+hx
+hx
+hx
+hx
+hx
+hx
+gE
+jD
+jD
+jD
+oE
+jD
+xC
+jD
+Fy
+po
+Fy
+NE
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+tQ
+uN
+NC
+hU
+nf
+Qe
+nf
+Vh
+Vh
+nf
+Lx
+kd
+kd
+TA
+nF
+Fy
+Fy
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Fy
+NE
+po
+jD
+xC
+xC
+xC
+jD
+jD
+EO
+"}
+(45,1,1) = {"
+hx
+hx
+hx
+hx
+hx
+hx
+hx
+ux
+Qq
+Ps
+Zv
+tw
+Ps
+ld
+hb
+lZ
+ID
+hs
+hb
+or
+iu
+hb
+Nl
+Nl
+hb
+Xh
+Xh
+wV
+wV
+wV
+wV
+Xh
+Xh
+Xh
+wV
+Jj
+wV
+wV
+Xh
+rB
+Xh
+ws
+ws
+Xh
+Xh
+WC
+DC
+wV
+uH
+zQ
+Ak
+Gy
+nf
+Qe
+nf
+pV
+hY
+Eh
+NC
+kd
+kd
+BF
+nF
+Fy
+Fy
+Fy
+eb
+uW
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+NE
+NE
+po
+oE
+xC
+xC
+jD
+jD
+jD
+EO
+"}
+(46,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lq
+hx
+tn
+nd
+Jf
+tn
+tn
+tn
+bb
+qE
+nQ
+tn
+no
+iV
+tn
+cV
+eH
+tn
+jD
+yW
+UW
+FT
+FT
+FT
+fc
+FT
+FT
+FT
+Qz
+Fy
+Fy
+jD
+jD
+oE
+xC
+xC
+jD
+NE
+Fy
+Fy
+jD
+jD
+Ho
+NC
+NC
+pd
+DI
+NC
+NC
+NC
+NC
+NC
+kd
+kd
+BF
+nF
+Fy
+Fy
+Fy
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+NE
+NE
+Ho
+jD
+xC
+xC
+oE
+jD
+EO
+EO
+"}
+(47,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+hx
+kq
+Ly
+jd
+rq
+rq
+tn
+rA
+kI
+Uz
+GJ
+Hq
+Bm
+DV
+ZG
+eH
+tn
+oE
+Fy
+po
+be
+PJ
+Fy
+jD
+jD
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+xC
+xC
+vN
+EA
+EA
+UW
+EA
+EA
+EA
+ZA
+NC
+YC
+lo
+gk
+KT
+NC
+kd
+kd
+kd
+kd
+kd
+fe
+tO
+Fy
+Fy
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+Mt
+Mt
+eb
+Mt
+Mt
+Mt
+Fy
+jD
+uN
+jD
+xC
+jD
+jD
+jD
+EO
+Dr
+"}
+(48,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+hx
+MU
+qE
+oF
+qE
+qE
+IJ
+qE
+Nr
+FR
+FV
+AG
+DS
+DV
+PG
+cV
+tn
+oE
+NE
+po
+Fy
+jD
+jD
+oE
+xC
+jD
+Fy
+po
+Fy
+Fy
+jD
+xC
+xC
+xC
+xC
+oE
+oE
+Ho
+jD
+xC
+xC
+jD
+NC
+Jv
+lo
+gk
+rk
+NC
+BP
+Id
+MB
+Wx
+BP
+Cb
+nF
+Fy
+NE
+Fy
+Fy
+eb
+eb
+Mt
+Mt
+Mt
+eb
+eb
+eb
+Mt
+Mt
+jD
+jD
+Ho
+jD
+PH
+jD
+jD
+jD
+EO
+Dr
+"}
+(49,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+hx
+fR
+qE
+xj
+kz
+tn
+tn
+tn
+sF
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+tn
+jD
+oE
+uN
+jD
+jD
+xC
+xC
+xC
+jD
+Fy
+po
+Fy
+Fy
+QB
+oE
+xC
+xC
+xC
+xC
+jD
+Ho
+jD
+jD
+xC
+jD
+NC
+bk
+lo
+gk
+JJ
+NC
+Vc
+gj
+Vc
+Vc
+Vc
+Vc
+fh
+Fy
+Fy
+NE
+Fy
+Fy
+eb
+eb
+eb
+Mt
+PJ
+Fy
+eb
+eb
+eb
+jD
+xC
+rZ
+EA
+lu
+Sl
+jD
+jD
+EO
+Dr
+"}
+(50,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+hx
+Ok
+xw
+pD
+im
+jj
+lu
+hO
+Mp
+oE
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+PH
+jD
+mL
+jD
+xC
+xC
+xC
+SS
+jD
+JY
+po
+Fy
+Fy
+jD
+jD
+oE
+jD
+jD
+jD
+jD
+po
+jD
+jD
+xC
+jD
+NC
+GD
+lo
+gk
+ad
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+eb
+eb
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+jD
+jD
+uN
+jD
+jD
+xC
+EO
+Dr
+"}
+(51,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+hx
+hx
+iV
+tn
+no
+tn
+uN
+oE
+SS
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+Ho
+xC
+xC
+xC
+xC
+vN
+EA
+FT
+Qz
+Fy
+Fy
+Fy
+Fy
+NE
+Fy
+Cn
+FT
+FT
+qr
+SS
+xC
+xC
+xC
+NC
+bd
+kb
+fB
+Mx
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+BN
+jD
+xC
+EO
+EO
+Dr
+"}
+(52,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+hx
+Hw
+cV
+cV
+tn
+uN
+jD
+xC
+xC
+xC
+xC
+oJ
+EA
+EA
+EA
+EA
+EA
+EA
+Mp
+jD
+jD
+xC
+xC
+xC
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+oE
+Fy
+po
+Fy
+Fy
+Fy
+jD
+xC
+xC
+xC
+NC
+KV
+PW
+xd
+KV
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+NE
+Fy
+PJ
+NE
+Fy
+jD
+jD
+xC
+xC
+xC
+xC
+hn
+jD
+Ho
+jD
+xC
+EO
+Dr
+Dr
+"}
+(53,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+hx
+cV
+Nb
+OX
+tn
+Ho
+jD
+xC
+jD
+SS
+jD
+Ho
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+Fy
+po
+Fy
+Fy
+jD
+xC
+jD
+jD
+po
+NE
+NE
+jD
+jD
+jD
+xC
+oE
+NC
+NC
+Lx
+Lx
+NC
+NC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+NE
+NE
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+Ho
+xC
+xC
+EO
+Dr
+Dr
+"}
+(54,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+hx
+hx
+tn
+tn
+tn
+Ho
+oE
+jD
+jD
+jD
+Fy
+po
+SS
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+xC
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+xC
+jD
+po
+Fy
+jD
+PH
+jD
+jD
+oE
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+NE
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+Ho
+xC
+EO
+EO
+Dr
+Dr
+"}
+(55,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+Dr
+EO
+jD
+SS
+jD
+Ho
+jD
+jD
+jD
+NE
+Fy
+Ho
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+QB
+Fy
+po
+NE
+Fy
+jD
+jD
+xC
+jD
+Ho
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+SS
+xC
+xC
+xC
+xC
+jD
+oE
+oE
+xC
+xC
+Ho
+xC
+EO
+Dr
+Dr
+Dr
+"}
+(56,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+Dr
+EO
+EO
+jD
+vN
+eR
+EA
+EA
+lu
+EA
+EA
+Mp
+xC
+xC
+xC
+xC
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+oE
+jD
+Ho
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+PH
+xC
+xC
+xC
+xC
+jD
+oE
+qb
+jD
+jD
+xC
+jD
+jD
+BN
+EO
+EO
+Dr
+Dr
+Dr
+"}
+(57,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+xN
+Dr
+Dr
+Dr
+EO
+jD
+jD
+jD
+xC
+jD
+Ho
+xC
+xC
+xC
+xC
+xC
+xC
+oE
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+oE
+jD
+BN
+jD
+oE
+jD
+xC
+jD
+jD
+SS
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+PH
+jD
+oE
+xC
+xC
+xC
+oE
+jD
+oE
+fq
+EA
+EA
+EA
+EA
+EA
+Mp
+EO
+Dr
+Dr
+Dr
+Dr
+"}
+(58,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+EO
+EO
+xC
+xC
+xC
+jD
+rZ
+Di
+xC
+xC
+xC
+oE
+oE
+oE
+Fy
+oE
+jD
+xC
+xC
+xC
+xC
+oE
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+jD
+jD
+Ho
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+Ea
+jD
+jD
+eb
+MN
+eb
+jD
+oE
+jD
+jD
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+"}
+(59,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+Dr
+EO
+xC
+xC
+xC
+xC
+jD
+Ho
+jD
+jD
+jD
+jD
+Fy
+JY
+Fy
+NE
+jD
+jD
+xC
+xC
+xC
+tl
+jD
+NE
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+JY
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+oE
+jD
+xC
+xC
+xC
+jD
+jD
+Qr
+eb
+Sc
+eb
+eb
+jD
+jD
+xC
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(60,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+jD
+xC
+xC
+Ho
+Fy
+Fy
+Fy
+Fy
+NE
+KX
+Fy
+jD
+xC
+jD
+jD
+xC
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Ff
+Ff
+Ff
+Ff
+Ff
+jD
+jD
+jD
+jD
+jD
+oE
+oE
+xC
+xC
+xC
+PH
+jD
+eb
+Mt
+Sc
+Mt
+eb
+jD
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(61,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+EO
+jD
+jD
+jD
+jD
+rZ
+FT
+FT
+FT
+US
+FT
+sS
+US
+EA
+nc
+vP
+Oi
+EA
+qL
+FT
+FT
+FT
+sS
+FT
+FT
+FT
+FT
+FT
+FT
+sS
+FT
+FT
+FT
+FT
+aA
+NE
+jD
+jD
+jD
+jD
+jD
+jD
+Ff
+Ff
+KZ
+VC
+VJ
+Ff
+jD
+jD
+xC
+xC
+jD
+oE
+jD
+xC
+xC
+xC
+jD
+jD
+eb
+eb
+MN
+eb
+jD
+oE
+xC
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(62,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+SS
+jD
+jD
+Fy
+jD
+jD
+jD
+jD
+jD
+vo
+jD
+jD
+mL
+jD
+jD
+Fy
+NE
+Fy
+Fy
+Fy
+JY
+Fy
+Fy
+NE
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+JY
+jD
+jD
+jD
+jD
+Ff
+ri
+HL
+bT
+bT
+Ff
+Cl
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+NE
+Ho
+jD
+oE
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(63,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+xC
+PH
+jD
+PH
+jD
+xC
+jD
+xC
+xC
+oE
+jD
+oE
+Ho
+jD
+Fy
+Fy
+Fy
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+jD
+QB
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+XI
+HL
+bT
+HL
+UY
+Ff
+dM
+xC
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+Ho
+xC
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(64,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+xC
+xC
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+Ho
+Fy
+Fy
+JY
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+jD
+Fy
+jD
+SS
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+Fy
+Fy
+jD
+jD
+Ff
+GX
+bT
+bT
+DM
+Ff
+NQ
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+jD
+jD
+Ho
+xC
+xC
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(65,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+xC
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+Fy
+po
+Fy
+Fy
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+jD
+Fy
+Fy
+jD
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+NE
+Fy
+oE
+jD
+jD
+Ff
+Ff
+eU
+NL
+Yi
+Ff
+jD
+jD
+jD
+jD
+jD
+oE
+jD
+jD
+oE
+jD
+xC
+xC
+jD
+jD
+BN
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(66,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+tR
+fr
+po
+Fy
+Fy
+jD
+jD
+jD
+oE
+jD
+jD
+jD
+jD
+Fy
+Rw
+Fy
+Fy
+PJ
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+NE
+oE
+jD
+jD
+jD
+Ff
+Ff
+Ff
+Ff
+Ff
+jD
+jD
+jD
+jD
+oE
+jD
+oJ
+EA
+EA
+EA
+EA
+EA
+EA
+EA
+Mp
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(67,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Gr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+xC
+xC
+oE
+jD
+jD
+jD
+jD
+Fy
+Ld
+po
+Fy
+Fy
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+NE
+Fy
+NE
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+JY
+Fy
+oE
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+uN
+PH
+oE
+jD
+jD
+nk
+jD
+jD
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(68,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+ND
+ND
+gi
+ND
+ND
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+xC
+jD
+jD
+oE
+ke
+FT
+XY
+da
+QV
+Fy
+Fy
+jD
+jD
+jD
+xC
+jD
+xC
+jD
+oE
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+Fy
+jD
+jD
+SS
+oE
+jD
+jD
+jD
+jD
+jD
+oE
+jD
+jD
+xC
+xC
+xC
+jD
+Ho
+SS
+oE
+oE
+oE
+jD
+jD
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(69,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+ND
+Ay
+wm
+Ay
+ND
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+lb
+EO
+EO
+jD
+jD
+jD
+jD
+jD
+Fy
+SI
+po
+Fy
+jD
+jD
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+Fy
+Fy
+JY
+Fy
+Fy
+Fy
+NE
+Fy
+po
+Fy
+Fy
+Fy
+PH
+xC
+oE
+oE
+oE
+jD
+jD
+jD
+oE
+SS
+jD
+jD
+xC
+xC
+rV
+EA
+iC
+jD
+jD
+jD
+xC
+xC
+EO
+dF
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(70,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+ND
+Ay
+Ay
+Ay
+ND
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+jD
+jD
+xC
+jD
+jD
+Fy
+LP
+FT
+Di
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+oE
+oE
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+Fy
+po
+Fy
+Fy
+jD
+oE
+xC
+oE
+jD
+jD
+jD
+xC
+xC
+oE
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+Ho
+jD
+xC
+xC
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(71,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+ND
+Ay
+Ay
+Ay
+ND
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+xC
+jD
+jD
+jD
+jD
+jD
+Ho
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+jD
+jD
+jD
+Fy
+Fy
+Fy
+Fy
+oa
+FT
+FT
+Sl
+xC
+xC
+xC
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+jD
+Ho
+jD
+xC
+xC
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(72,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+ND
+ND
+ND
+ND
+ND
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+EO
+jD
+jD
+xC
+xC
+jD
+Ho
+jD
+jD
+xC
+xC
+xC
+xC
+xC
+xC
+xC
+oJ
+EA
+hO
+EA
+EA
+FT
+FT
+qG
+Fy
+Fy
+jD
+xC
+xC
+xC
+jD
+xC
+xC
+xC
+xC
+xC
+WJ
+xC
+jD
+oE
+oE
+jD
+jD
+Ho
+jD
+EO
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(73,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+jD
+xC
+xC
+jD
+Ho
+jD
+jD
+xC
+xC
+jD
+oE
+jD
+xC
+xC
+Ho
+jD
+xC
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+oE
+jD
+xC
+xC
+jD
+xC
+xC
+xC
+xC
+xC
+fq
+hO
+hO
+hO
+EA
+hO
+hO
+Mp
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(74,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+EO
+xC
+jD
+rZ
+FT
+hO
+EA
+EA
+EA
+FT
+lu
+EA
+EA
+ZA
+jD
+xC
+jD
+jD
+Fy
+Fy
+po
+Fy
+Fy
+JY
+jD
+xC
+jD
+jD
+xC
+xC
+xC
+xC
+jD
+Ho
+jD
+oE
+jD
+PH
+oE
+EO
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(75,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+EO
+PJ
+Fy
+Fy
+NE
+Fy
+dx
+Fy
+Br
+NE
+jD
+jD
+xC
+xC
+jD
+Fy
+Fy
+Fy
+po
+NE
+Fy
+Fy
+oE
+jD
+jD
+oE
+jD
+jD
+xC
+jD
+jD
+Ho
+SS
+PH
+PH
+EO
+EO
+EO
+Dr
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+"}
+(76,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+EO
+Fy
+PJ
+Fy
+NE
+Fy
+Fy
+jD
+jD
+xC
+xC
+xC
+jD
+Fy
+Fy
+Fy
+oa
+FT
+FT
+US
+EA
+EA
+EA
+hO
+EA
+EA
+EA
+EA
+EA
+Mp
+jD
+jD
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+"}
+(77,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+EO
+EO
+EO
+Fy
+NE
+Fy
+SS
+jD
+xC
+xC
+xC
+PH
+jD
+Fy
+Fy
+Fy
+po
+Fy
+jD
+jD
+jD
+jD
+oE
+oE
+oE
+jD
+jD
+jD
+jD
+EO
+EO
+EO
+EO
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+"}
+(78,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+EO
+EO
+EO
+EO
+xC
+xC
+xC
+xC
+jD
+jD
+tl
+SS
+Fy
+Fy
+po
+Fy
+jD
+jD
+xC
+xC
+xC
+SS
+SS
+oE
+EO
+EO
+EO
+EO
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+"}
+(79,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+EO
+EO
+EO
+EO
+EO
+EO
+jD
+jD
+jD
+Fy
+Fy
+po
+Fy
+jD
+xC
+xC
+EO
+EO
+EO
+EO
+EO
+EO
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+"}
+(80,1,1) = {"
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+lb
+EO
+EO
+EO
+EO
+EO
+EO
+st
+EO
+EO
+EO
+EO
+EO
+EO
+Dr
+Dr
+Dr
+Dr
+Dr
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+lb
+Dr
+Dr
+Dr
+"}

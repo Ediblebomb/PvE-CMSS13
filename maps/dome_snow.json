@@ -1,0 +1,20 @@
+{
+    "override_map": true,
+    "map_name": "XM2 'Festive' Biodome",
+    "map_path": "map_files/Dome_Snow",
+    "map_file": "dome_snow.dmm",
+    "announce_text": "###SHIPNAME### currently docked with XM2 Recreational Biodome Facility. Shore leave granted, cargo elevator connected and unlocked. Enjoy your shore leave.",
+    "environment_traits": {
+        "COLD": true
+    },
+    "weather_holder": "/datum/weather_ss_map_holder/shivas_snowball",
+    "traits": [{ "Ground": true }],
+    "camouflage": "snow",
+    "gamemodes": [
+        "Distress Signal",
+        "Hunter Games",
+        "Hive Wars",
+        "Faction Clash",
+        "Infection"
+    ]
+}
