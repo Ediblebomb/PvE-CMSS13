@@ -685,51 +685,6 @@
 	change_dropship_camo(new_human.client.prefs.dropship_camo)
 	change_dropship_name(new_human.client.prefs.dropship_name)
 
-/datum/equipment_preset/uscm_ship/so/upp
-	name = "UPP Platoon Commander (PltCo)"
-	idtype = /obj/item/card/id/dogtag
-	languages = list(LANGUAGE_RUSSIAN, LANGUAGE_CHINESE, LANGUAGE_ENGLISH)
-	paygrades = list(PAY_SHORT_UO2 = JOB_PLAYTIME_TIER_0)
-	faction_group = list(FACTION_UPP)
-	faction = FACTION_UPP
-	access_list = ACCESS_LIST_UPP_PLATOON
-
-/datum/equipment_preset/uscm_ship/so/upp/load_gear(mob/living/carbon/human/new_human)
-	new_human.undershirt = "Naval Infantry Telnyashka"
-
-/datum/equipment_preset/uscm_ship/so/upp/lesser_rank
-	name = parent_type::name + " (Lesser Rank)"
-	paygrades = list(PAY_SHORT_UO1 = JOB_PLAYTIME_TIER_0)
-
-/datum/equipment_preset/uscm_ship/so/upp/equipped
-	name = "UPP Platoon Commander (Equipped)"
-	flags = EQUIPMENT_PRESET_EXTRA|EQUIPMENT_PRESET_MARINE
-
-/datum/equipment_preset/uscm_ship/so/upp/equipped/load_status(mob/living/carbon/human/new_human)
-	new_human.nutrition = NUTRITION_NORMAL
-
-/datum/equipment_preset/uscm_ship/so/upp/equipped/load_gear(mob/living/carbon/human/new_human)
-	new_human.undershirt = "Naval Infantry Telnyashka"
-	new_human.equip_to_slot_or_del(new /obj/item/device/radio/headset/distress/UPP/command(new_human), WEAR_L_EAR)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/head/uppcap/beret/naval, WEAR_HEAD)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/under/marine/veteran/UPP/naval(new_human), WEAR_BODY)
-	var/obj/item/clothing/under/marine/veteran/UPP/naval/uniform = new()
-
-	new_human.equip_to_slot_or_del(uniform, WEAR_BODY)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/jacket/marine/upp/naval(new_human), WEAR_JACKET)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/accessory/patch/upp, WEAR_ACCESSORY)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/accessory/patch/upp/naval, WEAR_ACCESSORY)
-	new_human.equip_to_slot_or_del(new /obj/item/clothing/shoes/marine/upp(new_human), WEAR_FEET)
-	new_human.equip_to_slot_or_del(new /obj/item/storage/belt/gun/type47/np92(new_human), WEAR_WAIST)
-	new_human.equip_to_slot_or_del(new /obj/item/storage/backpack/lightpack/upp(new_human), WEAR_BACK)
-	new_human.equip_to_slot_or_del(new /obj/item/storage/pouch/general/medium(new_human), WEAR_L_STORE)
-	new_human.equip_to_slot_or_del(new /obj/item/storage/pouch/general/medium(new_human), WEAR_R_STORE)
-	new_human.equip_to_slot_or_del(new /obj/item/device/binoculars/range/designator/upp(new_human), WEAR_L_HAND)
-
-/datum/equipment_preset/uscm_ship/so/upp/handle_late_join(mob/living/carbon/human/new_human, late_join)
-	if(!late_join)
-		add_verb(new_human.client, /client/proc/commander_rename_platoon)
-
 /datum/equipment_preset/uscm_ship/so/pmc
 	name = "PMC Overwatch (PltCo)"
 	paygrades = list("PMC-OW" = JOB_PLAYTIME_TIER_0)
